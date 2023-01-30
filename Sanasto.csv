@@ -1,0 +1,72 @@
+Lähdesana;Kategoria;Käännös
+Character;yleinen;hahmo
+Bonus;yleinen;bonus
+Hit point;yleinen;osumapiste
+Hit die, hit dice;yleinen;osumapistenoppa
+temporary hit point;yleinen;väliaikainen osumapiste
+Hit point maximum;yleinen;osumapistemaksimi
+Skill;yleinen;taito
+Vulnerability;yleinen;heikkous
+Resistance;yleinen;sieto/sietokyky
+Immunity;yleinen;immuniteetti
+Round;yleinen;kierros
+Turn;yleinen;vuoro
+Race;hahmo;laji
+Dragonborn;hahmo;louhelainen
+Dwarf;hahmo;kääpiö
+Elf;hahmo;haltia
+Gnome;hahmo;maahinen
+Halfling;hahmo;puolituinen
+Human;hahmo;ihminen
+Tiefling;hahmo;vaihdokas
+Orc;hahmo;örkki
+Character class;hahmo;hahmoluokka
+Barbarian;hahmo;barbaari
+Bard;hahmo;bardi
+Cleric;hahmo;temppeliritari
+Druid;hahmo;druidi
+Fighter;hahmo;taistelija
+Monk;hahmo;munkki
+Paladin;hahmo;paladiini
+Ranger;hahmo;samooja
+Rogue;hahmo;varas
+Sorcerer;hahmo;loihtija
+Warlock;hahmo;noita
+Wizard;hahmo;velho
+Background;hahmo;tausta
+Acolyte;hahmo;akolyytti
+Feature;hahmo;erikoisuus
+Suggested characteristics;hahmo;mahdolliset piirteet
+Personality trait;hahmo;luonteenpiirre
+Ideal;hahmo;ihanne
+Bond;hahmo;side
+Flaw;hahmo;heikkous
+Alignment;hahmo;vakaumus
+Lawful Good;hahmo;lainkuuliaisen hyvä
+Lawful Evil;hahmo;lainkuuliaisen paha
+Lawful Neutral;hahmo;lainkuuliaisen neutraali
+Neutral Good;hahmo;neutraali hyvä
+Neutral Evil;hahmo;neutraali paha
+Neutral;hahmo;neutraali
+Chaotic Good;hahmo;kaoottisen hyvä
+Chaotic Evil;hahmo;kaoottisen paha
+Chaotic Neutral;hahmo;kaoottisen neutraali
+Good;hahmo;hyvä
+Evil;hahmo;paha
+Unaligned;hirviö;vakaumukseton
+Language;kielet;kieli
+Common;kielet;Yleiskieli
+Undercommon;kielet;Aliskieli
+Abyssal;kielet;Pimeydenpuhe
+Celestial;kielet;Valonkieli
+Deep speech;kielet;Syöverinkieli
+Infernal;kielet;Hornankieli
+Primordial;kielet;Alkukieli
+Sylvan;kielet;salokieli
+Giant;kielet;Jätti
+Draconic;kielet;Lohikäärme
+Goblin;kielet;Peikko
+Auran;kielet;Puhuri
+Aquan;kielet;Solina
+Ignan;kielet;Roihu
+Terran;kielet;Järinä
