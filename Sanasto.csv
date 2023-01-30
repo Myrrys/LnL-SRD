@@ -70,3 +70,327 @@ Auran;kielet;Puhuri
 Aquan;kielet;Solina
 Ignan;kielet;Roihu
 Terran;kielet;Järinä
+Combat;säännöt;taistelu
+Initiative;säännöt;aloite
+Hit;säännöt;osuma
+Miss;säännöt;huti
+Critical hit;säännöt;kriittinen osuma
+Natural 20;säännöt;aito 20
+Natural 1;säännöt;aito 1
+Action;säännöt, toiminnot;toiminto
+Bonus action;säännöt, toiminnot;bonustoiminto
+Attack;säännöt, toiminnot;hyökkäys
+Attack roll;säännöt, toiminnot;hyökkäysheitto
+Cast a Spell;säännöt, toiminnot;loitsia
+Dash;säännöt, toiminnot;ryntäys
+Disengage;säännöt, toiminnot;irtaudu
+Dodge;säännöt, toiminnot;väistä
+Help;säännöt, toiminnot;auta
+Hide;säännöt, toiminnot;piiloudu
+Ready;säännöt, toiminnot;valmistaudu
+Search;säännöt, toiminnot;etsi
+Use an Object;säännöt, toiminnot;käytä esinettä
+Mounted combat;säännöt;ratsain taistelu
+Cover;säännöt;suoja
+half cover;säännöt;puoliksi suojassa
+three-quarters cover;säännöt;enimmäkseen suojassa
+total cover;säännöt;kokonaan suojassa
+Movement;säännöt;liikkuminen
+Travel pace;säännöt;matkustusvauhti
+Difficult terrain;säännöt;vaikea maasto
+Position;säännöt;sijainti
+Damage;säännöt;vahinko
+Acid Damage;säännöt;happovahinko
+Fire Damage;säännöt;tulivahinko
+Force Damage;säännöt;energiavahinko
+Radiant Damage;säännöt;hohkavahinko
+Necrotic Damage;säännöt;kuolonvahinko
+Thunder Damage;säännöt;ukkosvahinko
+Lightning Damage;säännöt;salamavahinko
+Cold Damage;säännöt;kylmävahinko
+Poison Damage;säännöt;myrkkyvahinko
+Psychic Damage;säännöt;hengenvahinko
+Healing;säännöt;parantaminen, parantuminen
+Order of Combat;säännöt;taistelujärjestys
+Making an Attack;säännöt;hyökkääminen
+Ranged attack;säännöt;kantamahyökkäys
+Melee attack;säännöt;lähitaisteluhyökkäys
+Multiattack;säännöt;sarjahyökkäys
+Opportunity attack;säännöt;vapaahyökkäys
+Reaction;säännöt;reaktio
+Underwater Combat;säännöt;vedenalainen taistelu
+Armor;yleinen;haarniska
+Line of sight;säännöt;näkökenttä, tai vapaa käännös asiayhteydestä riippuen
+Encumbrance;säännöt;taakka
+- Ei vastinetta -;säännöt;kevyesti kuormittunut
+Encumbered;säännöt;kuormittunut
+Heavily encumbered;säännöt;ylikuormittunut
+Flanking;säännöt;saartaminen
+Ability;säännöt;ominaisuus
+Ability check;säännöt;ominaisuusheitto
+Passive check;säännöt;vakiotarkistus
+Score (passive check);säännöt;arvo
+Contest;säännöt;vastustava heitto
+Group check;säännöt;ryhmäheitto
+Ability score;säännöt;ominaisuusarvo
+Saving throw;säännöt;pelastusheitto
+Death save;säännöt;pelastusheitto kuolemaa vastaan
+Charisma;säännöt;karisma
+Constitution;säännöt;sitkeys
+Dexterity;säännöt;ketteryys
+Intelligence;säännöt;älykkyys
+Strength;säännöt;voimakkuus
+Wisdom;säännöt;viisaus
+Advantage;säännöt;etu
+Disadvantage;säännöt;haitta
+Condition;olotila;olotila
+Blinded;olotila;sokaistu
+Charmed;olotila;lumottu
+Deafened;olotila;kuuroutunut
+Exhaustion;olotila;uupunut
+Frightened;olotila;kauhistunut
+Grappled;olotila;kiinniotettu
+Incapacitated;olotila;toimintakyvytön
+Invisible;olotila;näkymätön
+Paralyzed;olotila;halvaantunut
+Petrified;olotila;kivettynyt
+Poisoned;olotila;myrkytetty
+Prone;olotila;maissa
+Restrained;olotila;sidottu
+Stunned;olotila;taintunut
+Unconscious;olotila;tajuton
+Counter;olotila;kumottu
+Expense;säännöt;kulu
+Lifestyle;säännöt;elintaso
+Wretched;säännöt;kurja
+Squalid;säännöt;ankea
+Poor;säännöt;kehno
+Modest;säännöt;kohtalainen
+Comfortable;säännöt;mukava
+Wealthy;säännöt;varakas
+Aristocratic;säännöt;aristokraattinen
+Feat;säännöt;valtti
+Inspiration;säännöt;innoitus
+Leveling up;säännöt;tasonnousu
+Multiclassing;säännöt;lisähahmoluokka
+Proficiency bonus;säännöt;pätevyysbonus
+Modifier;säännöt;muuttuja
+Experience point;säännöt;kokemuspiste
+XP;säännöt;KOP
+Milestone;säännöt;merkkipaalu
+Disease;säännöt;tauti
+Cackle fever;tauti;naurukuume
+Sewer plague;tauti;viemärihorkka
+Sight rot;tauti;silmämätä
+Legendary creature;säännöt, legendaariset olennot;legendaarinen olento
+Legendary action;säännöt, legendaariset olennot;legendaarinen toiminto
+Legendary resistance;säännöt, legendaariset olennot;legendaarinen sietokyky
+Lair;säännöt, legendaariset olennot;lymypaikka
+Lair action;säännöt, legendaariset olennot;lymypaikan toiminto
+Regional effect;säännöt, legendaariset olennot;alueellinen vaikutus
+Limited usage;säännöt;rajoitettu käyttö
+Recharge;säännöt;uudelleen lataa, uudelleen ladattava
+X/Day;säännöt;X/Päivässä
+Carrying capacity;säännöt;kantokyky
+Madness;säännöt;hulluus
+Lightly obscured;säännöt;heikentynyt näkyvyys
+Heavily obscured;säännöt;peittynyt näkyvyys
+Stabilize;säännöt;vakauttaa
+Friendly;säännöt;ystävällinen
+Indifferent;säännöt;neutraali
+Hostile;säännöt;vihamielinen
+Magic item;säännöt;taikaesine
+Attunement;säännöt, taikaesine;yhteys
+Wearing;säännöt, taikaesine;pitää yllään
+Wielding;säännöt, taikaesine;pitää kädessä
+Paired item;säännöt, taikaesine;sidottu esine
+Activating an item;säännöt, taikaesine;esineen aktivointi
+Command word;säännöt, taikaesine;komento
+Consumable;säännöt, taikaesine;kertakäyttöinen
+Charge;säännöt, taikaesine;käyttökerta
+Rarity;säännöt, taikaesine;harvinaisuus
+Common;säännöt, taikaesine;tavanomainen
+Uncommon;säännöt, taikaesine;epätavallinen
+Rare;säännöt, taikaesine;harvinainen
+Very rare;säännöt, taikaesine;erittäin harvinainen
+Legendary;säännöt, taikaesine;legendaarinen
+recipe;säännöt, taikaesine;valmistusohjeet
+Artifact;säännöt, taikaesine;Artefakti
+Staff;säännöt, taikaesine;Sauva
+Wondrous item;säännöt, taikaesine;ihme-esine
+Armor;säännöt, taikaesine;haarniska
+Item;säännöt, taikaesine;esine
+Potion;säännöt, taikaesine;juoma
+Ring;säännöt, taikaesine;sormus
+Rod;säännöt, taikaesine;sauva
+Scroll;säännöt, taikaesine;käärö
+Staff;säännöt, taikaesine;sauva
+Wand;säännöt, taikaesine;sauva
+Weapon;säännöt, taikaesine;ase
+Monster;säännöt;hirviö
+Stat block;säännöt, hirviö;kykylistaus
+Size;säännöt, hirviö;koko
+Tiny;säännöt, hirviö;pikkiriikkinen
+Small;säännöt, hirviö;pieni
+Medium;säännöt, hirviö;keskikokoinen
+Large;säännöt, hirviö;suuri
+Huge;säännöt, hirviö;valtava
+Gargantuan;säännöt, hirviö;jättimäinen
+Type;säännöt, hirviö;tyyppi
+Aberration;säännöt, hirviö;epäsikiö
+Beast;säännöt, hirviö;eläin
+Celestial;säännöt, hirviö;taivaallinen
+Construct;säännöt, hirviö;rakennelma
+Dragon;säännöt, hirviö;lohikäärme
+Elemental;säännöt, hirviö;elementaali
+Fey;säännöt, hirviö;keiju
+Fiend;säännöt, hirviö;piru
+Giant;säännöt, hirviö;jätti
+Humanoid;säännöt, hirviö;humanoidi
+Monstrosity;säännöt, hirviö;hirvittävyys
+Oozes;säännöt, hirviö;lima
+Plant;säännöt, hirviö;kasvi
+Undead;säännöt, hirviö;epäkuollut
+tag;säännöt, hirviö;tunniste
+Speed;säännöt, hirviö;nopeus
+Burrow;säännöt, nopeus;kaivautuminen
+Climb;säännöt, nopeus;kiipeäminen
+Fly;säännöt, nopeus;lentäminen
+Hover;säännöt, nopeus;leijuminen
+Swim;säännöt, nopeus;uiminen
+Squeezing;säännöt, nopeus;ahtautuminen
+Crawl;säännöt, nopeus;ryömiminen
+Blindsight;säännöt, hirviö;sokeanäkö
+Darkvision;säännöt, hirviö;pimeänäkö
+Tremorsense;säännöt, hirviö;tärinäaisti
+Truesight;säännöt, hirviö;tosinäkö
+Challenge rating;säännöt, hirviö;haastearvo
+Innate spellcasting;säännöt, hirviö;vaistoloitsija
+Grapple;säännöt, hirviö;tarttuminen
+Variant;säännöt, hirviö;muunnelma
+Special Traits;säännöt, hirviö;erityispiirteet
+natural armor;säännöt, hirviö;luontainen puolustus
+natural weapon;säännöt, hirviö;luontainen ase
+goblinoid;hirviö, tunniste;peikko
+demon;hirviö, tunniste;demoni
+shapechanger;hirviö, tunniste;muodonmuuttaja
+devil;hirviö, tunniste;paholainen
+dwarf;hirviö, tunniste;kääpiö
+elf;hirviö, tunniste;haltia
+gnoll;hirviö, tunniste;gnolli
+gnome;hirviö, tunniste;maahinen
+kobold;hirviö, tunniste;kärmäläinen
+grimlock;hirviö, tunniste;hyypiö
+lizardfolk;hirviö, tunniste;liskolainen
+merfolk;hirviö, tunniste;vetehinen
+sahuagin;hirviö, tunniste;syväläinen
+orc;hirviö, tunniste;örkki
+titan;hirviö, tunniste;titaani
+human;hirviö, tunniste;ihminen
+wyrmling;hirviö, lohikäärme;poikanen
+young;hirviö, lohikäärme;nuori
+adult;hirviö, lohikäärme;täysikasvuinen
+ancient;hirviö, lohikäärme;muinainen
+Nonplayer character;yleinen;sivuhahmo
+Sidekick;yleinen;apuri
+Spellcaster;yleinen;loitsija
+Expert;yleinen;ekspertti
+Warrior;yleinen;soturi
+Mage;yleinen;maagi
+Healer;yleinen;parantaja
+Attacker;yleinen;hyökkääjä
+Defender;yleinen;puolustaja
+Object;säännöt;esine
+Cloth;esine;vaate
+Paper;esine;paperi
+Rope;esine;köysi
+Crystal;esine;kristalli
+Glass;esine;lasi
+Ice;esine;jää
+Bone;esine;luu
+Wood;esine;puu
+Stone;esine;kivi
+Iron;esine;rauta
+Steel;esine;teräs
+Mithral;esine;mithral
+Adamantine;esine;adamantiini
+Poison;myrkky;myrkky
+Assassin's blood;myrkky;salamurhaajan veri
+Burnt othur fumes;myrkky;palokaasu
+Crawler mucus;myrkky;raatovisva
+Drow poison;myrkky;sysimyrkky
+Essence of ether;myrkky;eteerinen öljy
+Malice;myrkky;pahantahto
+Midnight tears;myrkky;keskiyön kyynel
+Oil of taggit;myrkky;tyrmäystroppi
+Pale tincture;myrkky;kalpea tinktuura
+Purple worm poison;myrkky;purppuramadon myrkky
+Serpent venom;myrkky;käärmeen myrkky
+Torpor;myrkky;horros
+Truth serum;myrkky;totuusseerumi
+Wyvern poison;myrkky;traakin myrkky
+Contact;myrkky;kosketus
+Ingested;myrkky;nieltävä
+Inhaled;myrkky;hengitettävä
+Injury;myrkky;haava
+Sentient magical item;taikaesine;älykäs taikaesine
+Trap;Ansat;ansa
+Trigger a trap;Ansat;ansan laukaisu
+Detect a trap;Ansat;ansan havaitseminen
+Disable a trap;Ansat;ansan purkaminen
+Trap danger;Ansat;ansan vaarallisuus
+Setback;Ansat;haitallinen
+Dangerous;Ansat;vaarallinen
+Deadly;Ansat;tappava
+Trap save DC;Ansat;pelastusheiton vaikeus
+Damage severity;Ansat;vahingon vakavuus
+Complex trap;Ansat;monimutkainen ansa
+Collapsing roof;Ansat;sortuva katto
+Falling net;Ansat;putoava verkko
+Fire-breathing statue;Ansat;tultasyöksevä patsas
+Pit;Ansat;ansakuoppa
+Poison dart;Ansat;myrkkynuoli
+Poison needle;Ansat;myrkkyneula
+Rolling sphere;Ansat;vierivä kivi
+Sphere of annihilation;Ansat;kuolonkuula
+Mechanical Trap;Ansat;mekaaninen ansa
+Magic Trap;Ansat;maaginen ansa
+Spell;säännöt, loitsiminen;loitsu
+Spell level;säännöt, loitsiminen;loitsun piiri
+Spellcasting ability;säännöt, loitsiminen;loitsimisominaisuus
+Spellcasting focus;säännöt, loitsiminen;loitsufokus
+Arcane focus;säännöt, loitsiminen;maaginfokus
+Spell attack modifier;säännöt, loitsiminen;Loitsun hyökkäysmuuttuja
+Spell attack;säännöt, loitsiminen;loitsuhyökkäys
+Spellcasting;säännöt, loitsiminen;loitsiminen
+At will;säännöt, loitsiminen;ilmaiseksi
+Spellcaster;säännöt, loitsiminen;loitsija
+Cast a spell;säännöt, loitsiminen;loitsia
+Prepared;säännöt, loitsiminen;valmisteltuna
+Components;säännöt, loitsiminen;komponentit
+Casting time;säännöt, loitsiminen;loitsimisviive
+Verbal;säännöt, loitsiminen;taikasana
+Somatic;säännöt, loitsiminen;ele
+Material;säännöt, loitsiminen;aines
+Duration;säännöt, loitsiminen;kesto
+Instanteous;säännöt, loitsiminen;välitön
+Concentration;säännöt, loitsiminen;keskittyminen
+Target;säännöt, loitsiminen;kohde
+Effect;säännöt, loitsiminen;vaikutus
+Area of effect;säännöt, loitsiminen;vaikutusalue
+Cone;säännöt, loitsiminen;kartiomainen
+Cube;säännöt, loitsiminen;kuutiomainen
+Cylinder;säännöt, loitsiminen;lieriömäinen
+Line;säännöt, loitsiminen;viivamainen
+Sphere;säännöt, loitsiminen;pallomainen
+Arcane (magic);säännöt, loitsiminen;maagin
+School of magic;säännöt, loitsiminen;taikuuden koulukunta
+Abjuration;säännöt, loitsiminen;suojelus
+Conjuration;säännöt, loitsiminen;kutsuminen
+Divination;säännöt, loitsiminen;ennustaminen
+Enchantment;säännöt, loitsiminen;lumoaminen
+Evocation;säännöt, loitsiminen;luominen
+Illusion;säännöt, loitsiminen;illuusio
+Necromancy;säännöt, loitsiminen;kuolontaikuus
+Transmutation;säännöt, loitsiminen;muovaaminen
+Domain;säännöt, loitsiminen;valtapiiri
