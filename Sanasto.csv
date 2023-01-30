@@ -55,21 +55,21 @@ Good;hahmo;hyvä
 Evil;hahmo;paha
 Unaligned;hirviö;vakaumukseton
 Language;kielet;kieli
-Common;kielet;Yleiskieli
-Undercommon;kielet;Aliskieli
-Abyssal;kielet;Pimeydenpuhe
-Celestial;kielet;Valonkieli
-Deep speech;kielet;Syöverinkieli
-Infernal;kielet;Hornankieli
-Primordial;kielet;Alkukieli
+Common;kielet;yleiskieli
+Undercommon;kielet;aliskieli
+Abyssal;kielet;pimeydenpuhe
+Celestial;kielet;valonkieli
+Deep speech;kielet;syöverinkieli
+Infernal;kielet;hornankieli
+Primordial;kielet;alkukieli
 Sylvan;kielet;salokieli
-Giant;kielet;Jätti
-Draconic;kielet;Lohikäärme
-Goblin;kielet;Peikko
-Auran;kielet;Puhuri
-Aquan;kielet;Solina
-Ignan;kielet;Roihu
-Terran;kielet;Järinä
+Giant;kielet;jätti
+Draconic;kielet;lohikäärme
+Goblin;kielet;peikko
+Auran;kielet;puhuri
+Aquan;kielet;solina
+Ignan;kielet;roihu
+Terran;kielet;järinä
 Combat;säännöt;taistelu
 Initiative;säännöt;aloite
 Hit;säännöt;osuma
@@ -215,8 +215,8 @@ Rare;säännöt, taikaesine;harvinainen
 Very rare;säännöt, taikaesine;erittäin harvinainen
 Legendary;säännöt, taikaesine;legendaarinen
 recipe;säännöt, taikaesine;valmistusohjeet
-Artifact;säännöt, taikaesine;Artefakti
-Staff;säännöt, taikaesine;Sauva
+Artifact;säännöt, taikaesine;artefakti
+Staff;säännöt, taikaesine;sauva
 Wondrous item;säännöt, taikaesine;ihme-esine
 Armor;säännöt, taikaesine;haarniska
 Item;säännöt, taikaesine;esine
@@ -563,3 +563,153 @@ Vampiric touch;3-piirin loitsut;vampyyrikosketus
 Water breathing;3-piirin loitsut;veden hengittäminen
 Water walk;3-piirin loitsut;vetten päällä kävely
 Wind wall;3-piirin loitsut;myrskyvalli
+Arcane eye;4-piirin loitsut;velhonsilmä
+Banishment;4-piirin loitsut;karkottaminen
+Black tentacles;4-piirin loitsut;mustat lonkerot
+Blight;4-piirin loitsut;kato
+Compulsion;4-piirin loitsut;pakko
+Confusion;4-piirin loitsut;hämmennys
+Conjure minor elementals;4-piirin loitsut;pienten elementaalien kutsuminen
+Conjure woodland beings;4-piirin loitsut;metsän olentojen kutsuminen
+Control water;4-piirin loitsut;veden hallinta
+Death ward;4-piirin loitsut;elämänlanka
+Dimension door;4-piirin loitsut;ulottuvuusovi
+Divination;4-piirin loitsut;ennustaminen
+Dominate beast;4-piirin loitsut;villipetojen hallinta
+Fabricate;4-piirin loitsut;valmistaminen
+Faithful hound;4-piirin loitsut;vahtikoira
+Fire shield;4-piirin loitsut;tulikilpi
+Freedom of movement;4-piirin loitsut;vapaa liikkuvuus
+Giant insect;4-piirin loitsut;jättiläisötökkä
+Greater invisibilty;4-piirin loitsut;tosi näkymättömyys
+Guardian of faith;4-piirin loitsut;uskon suojelija
+Hallucinatory terrain;4-piirin loitsut;kangastus
+Ice storm;4-piirin loitsut;jäämyrsky
+Locate creature;4-piirin loitsut;paikanna olento
+Phantasmal killer;4-piirin loitsut;aavetappaja
+Polymorph;4-piirin loitsut;muodonvaihdos
+Private sanctum;4-piirin loitsut;turvasatama
+Resilient sphere;4-piirin loitsut;taikakupla
+Secret chest;4-piirin loitsut;jemma
+Stone shape;4-piirin loitsut;kivimuoto
+Stoneskin;4-piirin loitsut;kivinahka
+Wall of fire;4-piirin loitsut;tulivalli
+Animate objects;5-piirin loitsut;esineen herättäminen
+Antilife shell;5-piirin loitsut;suojaus eläviltä
+Arcane hand;5-piirin loitsut;taikakäsi
+Awaken;5-piirin loitsut;herättäminen
+Cloudkill;5-piirin loitsut;myrkkypilvi
+Commune;5-piirin loitsut;johdatus
+Commune with nature;5-piirin loitsut;luontoyhteys
+Cone of cold;5-piirin loitsut;hyytävä purkaus
+Conjure elemental;5-piirin loitsut;elementaalin kutsuminen
+Contact other plane;5-piirin loitsut;ylimaallinen yhteys
+Contagion;5-piirin loitsut;tarttuva tauti
+Creation;5-piirin loitsut;luominen
+taikuuden purkaminen;5-piirin loitsut;hyvän ja pahan hajottaminen
+Dominate person;5-piirin loitsut;tahdon hallinta
+Dream;5-piirin loitsut;univiesti
+Flame strike;5-piirin loitsut;liekkipilari
+Geas;5-piirin loitsut;tehtävä
+Greater restoration;5-piirin loitsut;voimallinen palautus
+Hallow;5-piirin loitsut;pyhittäminen
+Hold monster;5-piirin loitsut;hirviön pysäyttäminen
+Insect plague;5-piirin loitsut;hyönteisvitsaus
+Legend lore;5-piirin loitsut;legenda
+Mass cure wounds;5-piirin loitsut;joukkoparannus
+Mislead;5-piirin loitsut;houkutuslintu
+Modify memory;5-piirin loitsut;muistinmuokkaus
+Passwall;5-piirin loitsut;taikaovi
+Planar binding;5-piirin loitsut;henkiherruus
+Raise dead;5-piirin loitsut;kuolleista nostaminen
+Reincarnate;5-piirin loitsut;uudelleensyntyminen
+Scrying;5-piirin loitsut;etäkatselu
+Seeming;5-piirin loitsut;valemuoto
+Telekinesis;5-piirin loitsut;telekinesia
+Telepathic bond;5-piirin loitsut;telepaattinen side
+Teleportation circle;5-piirin loitsut;teleportaatiokehä
+Tree stride;5-piirin loitsut;metsäharppaus
+Wall of force;5-piirin loitsut;voimakenttä
+Wall of stone;5-piirin loitsut;kivivalli
+Blade barrier;6-piirin loitsut;miekkavalli
+Chain lightning;6-piirin loitsut;ketjusalama
+Circle of death;6-piirin loitsut;kuoleman kehä
+Conjure fey;6-piirin loitsut;keijun kutsuminen
+Contingency;6-piirin loitsut;ehto
+Create undead;6-piirin loitsut;epäkuolleen luominen
+Disintegrate;6-piirin loitsut;tuhosäde
+Eyebite;6-piirin loitsut;noidansilmät
+Find the path;6-piirin loitsut;reittihaku
+Flesh to stone;6-piirin loitsut;kivettävä katse
+Forbiddance;6-piirin loitsut;teleporttisuoja
+Freezing sphere;6-piirin loitsut;kylmyydenkehä
+Globe of invulnerability;6-piirin loitsut;taikasuoja
+Guards and wards;6-piirin loitsut;linnoitus
+Harm;6-piirin loitsut;vahingoittaminen
+Heal;6-piirin loitsut;parantaminen
+Heroes' feast;6-piirin loitsut;Sankarten ateria
+Instant summons;6-piirin loitsut;taikakätkö
+Irresistible dance;6-piirin loitsut;vastustamaton rytmi
+Magic jar;6-piirin loitsut;sieluastia
+Mass suggestion;6-piirin loitsut;joukkohurmos
+Move earth;6-piirin loitsut;maanmuokkaus
+Planar ally;6-piirin loitsut;ylimaallinen liittolainen
+Programmed illusion;6-piirin loitsut;liikkuva illuusio
+Sunbeam;6-piirin loitsut;sokaiseva säde
+Transport via plants;6-piirin loitsut;kasviportti
+True seeing;6-piirin loitsut;tosinäkeminen
+disin;6-piirin loitsut;jäävalli
+Wall of thorns;6-piirin loitsut;okavalli
+Wind walk;6-piirin loitsut;tuulikävely
+Word of recall;6-piirin loitsut;maaginen pako
+Arcane sword;7-piirin loitsut;loitsumiekka
+Conjure celestial;7-piirin loitsut;taivaallisen olennon kutsuminen
+Delayed blast fireball;7-piirin loitsut;viivästetty tulipallo
+Divine word;7-piirin loitsut;jumalallinen mahtisana
+Etherealness;7-piirin loitsut;eetterimuoto
+Finger of death;7-piirin loitsut;kuolonsormi
+Fire storm;7-piirin loitsut;tulimyrsky
+Forcecage;7-piirin loitsut;taikahäkki
+Magnificent mansion;7-piirin loitsut;arkkimaagin kartano
+Mirage arcane;7-piirin loitsut;maaginen kangastus
+Plane shift;7-piirin loitsut;ulottuvuussiirtymä
+Prismatic spray;7-piirin loitsut;sateenkaaripurske
+Project image;7-piirin loitsut;liikkuva omakuva
+Regenerate;7-piirin loitsut;regeneraatio
+resurrection;7-piirin loitsut;vähäisempi henkiinherätys
+Reverse gravity;7-piirin loitsut;käänteispainovoima
+Sequester;7-piirin loitsut;maaginen piilo
+Simulacrum;7-piirin loitsut;maaginen kopio
+Symbol;7-piirin loitsut;maaginen symboli
+Teleport;7-piirin loitsut;teleportti
+Animal shapes;8-piirin loitsut;eläinmuoto
+Antimagic field;8-piirin loitsut;antimaaginen alue
+Antipathy/sympathy;8-piirin loitsut;antipatia/sympatia
+Clone;8-piirin loitsut;kloonaus
+Control weather;8-piirin loitsut;säänhallinta
+Demiplane;8-piirin loitsut;varjomaailma
+Dominate monster;8-piirin loitsut;hirviön alistaminen
+Earthquake;8-piirin loitsut;maanjäristys
+Feeblemind;8-piirin loitsut;vähämielisyys
+Glibness;8-piirin loitsut;kaunopuhe
+Holy aura;8-piirin loitsut;pyhä kehä
+Incendiary cloud;8-piirin loitsut;polttava pilvi
+Maze;8-piirin loitsut;labyrintti
+Mind blank;8-piirin loitsut;tyhjämieli
+Power word stun;8-piirin loitsut;tainnutuksen mahtisana
+Sunburst;8-piirin loitsut;aurinkopurske
+Astral projection;9-piirin loitsut;astraaliprojektio
+Foresight;9-piirin loitsut;kaukokatse
+Gate;9-piirin loitsut;kaukoportti
+Imprisonment;9-piirin loitsut;velhovankila
+Mass heal;9-piirin loitsut;voimallinen parannus
+Meteor swarm;9-piirin loitsut;meteorimyrsky
+Power word kill;9-piirin loitsut;surman mahtisana
+Prismatic wall;9-piirin loitsut;sateenkaarivalli
+Shapechange;9-piirin loitsut;muodonmuutos
+Storm of vengeance;9-piirin loitsut;raivoava myrsky
+Time stop;9-piirin loitsut;ajan pysäytys
+True polymorph;9-piirin loitsut;muodonmuokkaus
+True resurrection;9-piirin loitsut;henkiinherätys
+Weird;9-piirin loitsut;oudotus
+Wish;9-piirin loitsut;toivomus
