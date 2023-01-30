@@ -27,4 +27,10 @@ myöskään loitsia haarniska päälläsi.
 |Nahkapanssari           | 10 kr | 11 + KET       | -          | -          | 5kg   |
 |Kovetettu nahkapanssari | 45 kr | 12 + KET       | -          | -          | 6 kg  |
 
-
+| Keskiraskas panssari   | Hinta  | Puolustus (PL)   | Voimakkuus | Hiipiminen | Paino |
+|------------------------|--------|------------------|------------|------------|-------|
+|Turkis                  | 10 kr  | 12 + KET (max 2) | -          | -          | 6 kg  |
+|Ketjupaita              | 50 kr  | 13 + KET (max 2) | -          | -          | 10 kg |
+|Suomupanssari           | 50 kr  | 14 + KET (max 2) | -          | Haitta     | 20 kg |
+|Rintapanssari           | 400 kr | 14 + KET (max 2) | -          | -          | 10 kg |
+|Puolipanssari           | 750 kr | 15 + KET (max 2) | -          | Haitta     | 20 kg |
