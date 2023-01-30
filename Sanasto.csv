@@ -713,3 +713,587 @@ True polymorph;9-piirin loitsut;muodonmuokkaus
 True resurrection;9-piirin loitsut;henkiinherätys
 Weird;9-piirin loitsut;oudotus
 Wish;9-piirin loitsut;toivomus
+Air elemental;hirviö;ilmaelementaali
+Black pudding;hirviö;mustaputinki
+Bugbear;hirviö;metsänpeikko
+Black dragon;hirviö;musta lohikäärme
+Blue dragon;hirviö;sininen lohikäärme
+Brass dragon;hirviö;vaskinen lohikäärme
+Bronze dragon;hirviö;pronssinen lohikäärme
+Copper dragon;hirviö;kuparinen lohikäärme
+Gold dragon;hirviö;kultainen lohikäärme
+Green dragon;hirviö;vihreä lohikäärme
+Red dragon;hirviö;punainen lohikäärme
+Silver dragon;hirviö;hopeinen lohikäärme
+White dragon;hirviö;valkoinen lohikäärme
+Chimera;hirviö;kimaira
+Cockatrice;hirviö;käärmekukko
+Basilisk;hirviö;basiliski
+Djinni;hirviö;djinni
+Doppleganger;hirviö;kaksoisolento
+Dryad;hirviö;dryadi
+Efreeti;hirviö;efreeti
+Earth elemental;hirviö;maaelementaali
+Elephant;hirviö;norsu
+Drow;hirviö;alishaltia
+Fire elemental;hirviö;tulielementaali
+Flesh golem;hirviö;lihaluomo
+Gargoyle;hirviö;gargoili
+Gelatinous cube;hirviö;limakuutio
+Ghost;hirviö;kummitus
+Ghoul;hirviö;kaamio
+Giant Constrictor Snake;hirviö;jättikuristajakäärme
+Giant spider;hirviö;jättihämähäkki
+Gnoll;hirviö;gnolli
+Goblin;hirviö;peikkolainen
+Griffon;hirviö;aarnikotka
+Harpy;hirviö;harpyija
+Hell hound;hirviö;hornanhurtta
+Hill giant;hirviö;mäkijättiläinen
+Hobgoblin;hirviö;väkipeikko
+Hydra;hirviö;hydra
+Iron golem;hirviö;rautaluomo
+Kobold;hirviö;kärmäläinen
+Lich;hirviö;velhoaave
+Lizardfolk;hirviö;liskolainen
+Manticore;hirviö;mantikori
+Minotaur;hirviö;minotauri
+Mummy;hirviö;monster
+Mummy lord;hirviö;muumiolordi
+Night hag;hirviö;louhi
+Nightmare;hirviö;painajainen
+Ogre;hirviö;luolapeikko
+Orc;hirviö;örkki
+Owlbear;hirviö;pöllökarhu
+Balor;hirviö;liekkidemoni
+Pegasus;hirviö;pegasus
+Poisonous snake;hirviö;myrkkykäärme
+Purple worm;hirviö;purppuramato
+Rust monster;hirviö;ruostehirviö
+Shrieker;hirviö;rääkysieni
+Skeleton;hirviö;luuranko
+Stirge;hirviö;neulanokka
+Stone giant;hirviö;kivijättiläinen
+Stone golem;hirviö;kiviluomo
+Succubus/incubus;hirviö;viettelijä
+Treant;hirviö;puupaimen
+Triceratops;hirviö;kolmisarvilisko
+Troll;hirviö;vuorenpeikko
+Tyrannossaurus rex;hirviö;tyrannosaurus
+Unicorn;hirviö;yksisarvinen
+Vampire;hirviö;vampyyri
+Vampire spawn;hirviö;veriorja
+Water elemental;hirviö;vesielementaali
+Werewolf;hirviö;ihmissusi
+Wight;hirviö;kyöpeli
+Worg;hirviö;hukka
+Wraith;hirviö;aave
+Wyvern;hirviö;traakki
+Zombie;hirviö;zombi
+Arrow of Slaying;taikaesine;surmannuoli
+Bag of Beans;taikaesine;papupussi
+Bag of Holding;taikaesine;pohjaton säkki
+Belt of Giant Strength;taikaesine;jättiläisvoimien vyö
+Boots of Elvenkind;taikaesine;haltiasaappaat
+Bowl of Command Water Elementals;taikaesine;vedenmahdin kulho
+Brazier of Commanding Fire Elementals;taikaesine;tulenmahdin hiilipannu
+Broom of Flying;taikaesine;lentävä luuta
+Carpet of Flying;taikaesine;lentävä matto
+Censer of Controlling Air Elementals;taikaesine;ilmanmahdin suitsutusastia
+Cloak of Elvenkind;taikaesine;haltiaviitta
+Dancing Sword;taikaesine;tanssiva miekka
+Decanter of Endless Water;taikaesine;ehtymätön vesikarahvi
+Deck of Illusions;taikaesine;illuusioiden pakka
+Deck of Many Things;taikaesine;ihmeellisten sattumusten korttipakka
+Dragon Scale Mail;taikaesine;lohikäärmepanssari
+Dust of Disappearance;taikaesine;kadotustomu
+Efreeti Bottle;taikaesine;taikalamppu
+Elven Chain;taikaesine;haltiapanssari
+Figurine of Wondrous Power;taikaesine;taikafiguuri
+Flame Tongue;taikaesine;lieskaterä
+Frost Brand;taikaesine;huurreterä
+Gauntlets of Ogre Power;taikaesine;jättiläisvoimien hansikkaat
+Handy Haversack;taikaesine;oiva olkalaukku
+Hat of Disguise;taikaesine;valeasuhattu
+Helm of Comprehending Languages;taikaesine;tulkkauskypärä
+Holy Avenger;taikaesine;pyhä kostaja
+Horn of Blasting;taikaesine;myrskytorvi
+Immovable Rod;taikaesine;liikkumaton sauva
+Mithral Armor;taikaesine;mithralpanssari
+Oil of Etherealness;taikaesine;eteerisyyden öljy
+Orb of Dragonkind;taikaesine;lohikäärmekivi
+Portable Hole;taikaesine;kannettava reikä
+potion of clairvoyance;taikaesine;selvännäkemisen juoma
+Potion of Climbing;taikaesine;kiipeilyjuoma
+Potion of Diminution;taikaesine;kutistusjuoma
+Potion of Flying;taikaesine;lentojuoma
+Potion of Gaseous Form;taikaesine;kaasumuodon juoma
+Potion of Giant Strength;taikaesine;jättiläisvoimien juoma
+Potion of Growth;taikaesine;kasvujuoma
+Potion of Healing;taikaesine;parannusjuoma
+Potion of Heroism;taikaesine;sankaruusjuoma
+Potion of Invisibility;taikaesine;näkymättömyysjuoma
+Potion of Mind Reading;taikaesine;ajatustenlukujuoma
+Potion of Poison;taikaesine;myrkkyjuoma
+Potion of Resistance;taikaesine;sietojuoma
+Potion of Speed;taikaesine;nopeusjuoma
+Potion of Water Breathing;taikaesine;vedessä hengittämisen juoma
+Ring of Animal Influence;taikaesine;eläinystävän sormus
+Ring of Djinni;taikaesine;djinnisormus
+Ring of Elemental Command;taikaesine;elementaalien komentosormus
+Ring of Evasion;taikaesine;väistösormus
+Ring of Feather Falling;taikaesine;höyhenpudotussormus
+Ring of Free Action;taikaesine;esteettömyyssormus
+Ring of Invisibility;taikaesine;näkymättömyyssormus
+Ring of Jumping;taikaesine;hyppysormus
+Ring of Mind Shielding;taikaesine;mielenkilpisormus
+Ring of Protection;taikaesine;suojelusormus
+Ring of Regeneration;taikaesine;regeneraatiosormus
+Ring of Resistance;taikaesine;vastustussormus
+Ring of Shooting Stars;taikaesine;pyrstötähtien sormus
+Ring of Spell Storing;taikaesine;loitsujen varastoinnin sormus
+Ring of Spell Turning;taikaesine;loitsusuojasormus
+Ring of Swimming;taikaesine;uimasormus
+Ring of Telekinesis;taikaesine;telekinesiasormus
+Ring of Three Wishes;taikaesine;kolmen toivumuksen sormus
+Ring of Warmth;taikaesine;lämpösormus
+Ring of Water Walking;taikaesine;vetten päällä kävelyn sormus
+Ring of X-ray Vision;taikaesine;röntgenkatsesormus
+Ring of the Ram;taikaesine;muurinmurtajasormus
+Robe of Eyes;taikaesine;tuhannen silmän kaapu
+Robe of the Archmagi;taikaesine;arkkimaagin kaapu
+Rope of Climbing;taikaesine;itsestään kiipeävä köysi
+Rope of Entanglement;taikaesine;taikasolmujen köysi
+Slippers of Spider Climbing;taikaesine;hämähäkkikiipeilyn tossut
+Staff of Charming;taikaesine;lumoamisen sauva
+Staff of Fire;taikaesine;tulisauva
+Staff of Frost;taikaesine;jääsauva
+Staff of Healing;taikaesine;parantamisen sauva
+Staff of Power;taikaesine;voiman sauva
+Staff of Striking;taikaesine;mahti-iskun sauva
+Staff of Swarming Insects;taikaesine;hyönteisparvien sauva
+Staff of Thunder and Lightning;taikaesine;ukkosssauva
+Staff of Withering;taikaesine;kuihduttava sauva
+Staff of the Magi;taikaesine;maagin sauva
+Staff of the Python;taikaesine;käärmesauva
+Staff of the Woodlands;taikaesine;luonnonmahdin sauva
+Stone of Controlling Earth Elementals;taikaesine;maaelementaalien komentokivi
+Sun Blade;taikaesine;aurinkoterä
+Sword of Life Stealing;taikaesine;sielunsyöjä
+Vorpal Sword;taikaesine;vorpaali miekka
+Winged Boots;taikaesine;siivekkäät saappaat
+Adventuring gear;varusteet;varusteet
+Abacus;varusteet;helmitaulu
+Acid;varusteet;happo
+Alchemist's fire;varusteet;alkemistin tuli
+Antitoxin;varusteet;vastamyrkky
+Backpack;varusteet;reppu
+Ball bearings;varusteet;kuulia
+Barrel;varusteet;tynnyri
+Basket;varusteet;kori
+Bedroll;varusteet;makuupussi
+Bell;varusteet;kulkunen
+Blanket;varusteet;viltti
+Block and tackle;varusteet;vinssi
+Book;varusteet;kirja
+Bottle, glass;varusteet;lasipullo
+Bucket;varusteet;ämpäri
+Caltrops;varusteet;jalkapiikki
+Candle;varusteet;kynttilä
+Case, crossbow bolt;varusteet;vasamakotelo
+Case, map or scroll;varusteet;kartan suojaputki
+Chain (10 feet);varusteet;ketju (3 metriä)
+Chalk;varusteet;liitu
+Chest;varusteet;arkku
+Climber's kit;varusteet;kiipeilyvälineet
+Clothes, common;varusteet;tavalliset vaatteet
+Clothes, costume;varusteet;naamiasasu
+Clothes, fine;varusteet;hienot vaatteet
+Clothes, traveler's;varusteet;matkavaatteet
+Component pouch;varusteet;ainespussi
+Crowbar;varusteet;sorkkarauta
+Fishing tackle;varusteet;kalastusvälineet
+Flask or tankard;varusteet;taskumatti tai kolpakko
+Grappling hook;varusteet;tarttumiskoukku
+Hammer;varusteet;vasara
+Hammer, sledge;varusteet;leka
+Healer's kit;varusteet;parantajan välineet
+Holy water (flask);varusteet;pullo pyhää vettä
+Hourglass;varusteet;tiimalasi
+Hunting trap;varusteet;sudenraudat
+Ink (1 ounce bottle);varusteet;muste (pieni pullo)
+Ink pen;varusteet;sulkakynä
+Jug or pitcher;varusteet;kannu
+Ladder (10 foot);varusteet;3 metrin tikkaat
+Lamp;varusteet;lamppu
+Lantern, bullseye;varusteet;lyhty
+Lantern, hooded;varusteet;huputettu lyhty
+Magnifying glass;varusteet;suurennuslasi
+Manacles;varusteet;kahleet
+Mess kit;varusteet;ruokailuvälineet
+Mirror, steel;varusteet;käsipeili
+Oil (flask);varusteet;öljypullo
+Paper (one sheet);varusteet;paperi (yksi liuska)
+Parchment (one sheet);varusteet;pergamentti (yksi liuska)
+Perfume (vial);varusteet;parfyymi (pullo)
+Pick, miner's;varusteet;hakku
+Piton;varusteet;kiila, kiipeilykiila
+Poison, basic (vial);varusteet;myrkkypullo
+Pole (10-foot);varusteet;3 metrin seiväs
+Pot, iron;varusteet;pata
+Potion of healing;varusteet;parannusjuoma
+Pouch;varusteet;pussi
+Quiver;varusteet;nuoliviini
+Ram, portable;varusteet;muurinmurtaja
+Rations (1 day);varusteet;kuivamuona
+Robes;varusteet;kaapu
+Rope, hempen (50 feet);varusteet;hamppuköysi
+Rope, silk (50 feet);varusteet;silkkiköysi
+Sack;varusteet;säkki
+Scale, merchant's;varusteet;kauppiaan vaaka
+Sealing wax;varusteet;sinettivaha
+Shovel;varusteet;lapio
+Signal whistle;varusteet;pilli
+Signet ring;varusteet;sinettisormus
+Soap;varusteet;saippua
+Spellbook;varusteet;loitsukirja
+Spikes, iron (10);varusteet;rautapiikki
+Spyglass;varusteet;kaukoputki
+Tent, two-person;varusteet;kahden hengen teltta
+Tinderbox;varusteet;tulusrasia
+Torch;varusteet;soihtu
+Vial;varusteet;näytepullo
+Waterskin;varusteet;vesileili
+Whetstone;varusteet;hiomakivi
+armor;;haarniska
+armor proficiency;;haarniskakoulutus
+armor class;;puolustus
+AC;;PL
+heavy armor;;raskas panssari
+stealth;;hiipiminen
+shield;;kilpi
+light armor;;kevyt panssari
+padded;;topattu panssari
+leather;;nahkapanssari
+studded leather;;kovetettu nahkapanssari
+medium armor;;keskiraskas panssari
+hide;;turkis
+chain shirt;;ketjupaita
+scale mail;;suomupanssari
+breastplate;;rintapanssari
+half plate;;puolipanssari
+ring mail;;rengaspanssari
+chain mail;;ketjupanssari
+splint;;vannepanssari
+plate;;levyhaarniska
+coin;;raha
+copper;;kupari
+silver;;hopea
+electrum;;elektrum
+gold;;kulta
+platinum;;platina
+cp;;kup
+sp;;hr
+ep;;er
+gp;;kr
+pp;;pr
+mount;;ratsu
+vehicle;;kulkuväline
+barding;;hevoshaarniska
+saddle;;satula
+rowed vessel;;soudettava kulkuv�line
+camel;;kameli
+donkey or mule;;aasi tai muuli
+elephant;;elefantti
+horse, draft;;työhevonen
+horse, riding;;ratsuhevonen
+mastiff;;vahtikoira
+pony;;poni
+warhorse;;sotahevonen
+tack, harness and drawn;;valjaat,
+bit and bridle;;kuolain ja suitset
+carriage;;rattaat
+cart;;kärryt
+chariot;;sotavaunut
+feed (per day);;hevosen rehu
+saddlebags;;satulalaukut
+sled;;reki
+stabling (per day);;tallipaikka
+wagon;;vaunut
+galley;;kaljaasi
+keelboat;;kölivene
+longship;;pitkälaiva
+rowboat;;soutuvene
+sailing ship;;purjelaiva
+warship;;sotalaiva
+musical instrument;;soitin
+bagpipes;;säkkipilli
+drum;;rumpu
+dulcimer;;kantele
+flute;;huilu
+lute;;luuttu
+lyre;;lyyra
+horn;;torvi
+pan flute;;panhuilu
+shawm;;kitara
+violin;;viulu
+Equipment packs;;valmispakkaukset
+explorer's pack;;retkeilijän varusteet
+diplomat�s pack;;diplomaatin varusteet
+entertainer�s pack;;viihdyttäjän varusteet
+dungeoneer�s pack;;luolantutkijan varusteet
+priest's pack;;papin varusteet
+burglar's pack;;murtovarkaan varusteet
+scholar's pack;;oppineen varusteet
+weapon;;ase
+ammunition;;ammukset
+finesse;;tarkkuus
+heavy;;raskas ase
+light;;kevyt ase
+loading;;ladattava
+range;;kantama
+reach;;ulottuva
+special;;erikoispiirre
+thrown;;heitettävä
+two-handed;;kahden käden ase
+versatile;;yhden tai kahden käden ase
+martial;;sota-aseet
+slashing;;viiltovahinko
+piercing;;pistovahinko
+bludgeoning;;murskausvahinko
+improvised weapon;;improvisoitu ase
+silvered weapon;;hopeoitu ase
+special weapon;;erikoinen ase
+club;;nuija
+dagger;;tikari
+greatclub;;suurnuija
+handaxe;;kirves
+javelin;;heittokeihäs
+light hammer;;vasara
+mace;;rautanuija
+quarterstaff;;sauva
+sickle;;sirppi
+spear;;keihäs
+crossbow,light;;kevyt varsijousi
+dart;;tikka
+shortbow;;lyhytjousi
+sling;;linko
+battleaxe;;taistelukirves
+flail;;sotavarsta
+glaive;;varsimiekka
+greataxe;;suurkirves
+greatsword;;suurmiekka
+halberd;;hilpari
+lance;;peitsi
+longsword;;miekka
+maul;;leka
+morningstar;;piikkinuija
+pike;;sotakeihäs
+rapier;;pistomiekka
+scimitar;;sapeli
+shortsword;;lyhytmiekka
+trident;;atrain
+war pick;;sotahakku
+warhammer;;sotavasara
+whip;;ruoska
+blowgun;;puhallusputki
+crossbow, hand;;käsivarsijousi
+crossbow, heavy;;raskas varsijousi
+longbow;;pitkäjousi
+net;;verkko
+Trait;;piirre
+Rage;;hurma
+Draconic heritage;;lohikäärmeiden verenperintö
+Draconic Ancestry;;lohikäärmeen perintö
+1d6;;1n6
+Breath weapon;;hönkäysase
+Str;;VOI
+Int;;ÄLY
+Wis;;VII
+Dex;;KET
+Con;;SIT
+Cha;;KAR
+Base walking speed;;kulkunopeus
+Spell slot;;loitsuvaraus
+Difficulty;;vaikeusaste
+DC;;VA
+cantrip;;taikakonsti
+high elf;;jalohaltia
+rock gnome;;nikkarimaahinen
+lightfoot;;nopsajalka
+relentless endurance;;periksiantamaton
+savage attacks;;ra'at hyökkäykset
+lucky;;onnekas
+brave;;urhea
+halfling nimbleness;;puolituisnäppäryys
+naturally stealthy;;luontainen hiiviskelijä
+gnome cunning;;maahisoveluus
+artificer's lore;;teknikon tietotaito
+tinker;;nikkari
+hellish resistance;;hornan lieskat
+infernal legacy;;hornan verenperintö
+long rest;;pitkä lepo
+short rest;;lyhyt lepo
+tool;työkalu;työkalu
+Artisan's Tools.;työkalu;käsityöläisen työkalut
+Disguise kit;työkalu;valeasutarvikkeet
+Forgery kit;työkalu;väärentäjän työkalut
+Gaming Set.;työkalu;uhkapeli
+Herbalism Kit.;työkalu;rohdospussi
+musical instrument;työkalu;soitin
+Navigator's Tools.;työkalu;navigoijan instrumentit
+Poisoner's Kit.;työkalu;myrkynkeittäjän välineet
+Thieves' Tools.;työkalu;varkaan työkalut
+Alchemist's supplies;työkalu;alkemistin työvälineet
+Brewer's supplies;työkalu;oluenpanijan tarvikkeet
+Calligrapher's supplies;työkalu;kalligrafin välineet
+Carpenter's tools;työkalu;puusepän työkalut
+Cartographer's tools;työkalu;kartoittajan välineet
+Cobbler's tools;työkalu;suutarin työkalut
+Cook's utensils;työkalu;kokin keittiövälineet
+Glassblower's tools;työkalu;lasinpuhaltajan työkalut
+Jeweler's tools;työkalu;kultasepän työkalut
+Leatherworker's tools;työkalu;nahkurin työkalut
+Mason's tools;työkalu;muurarin työkalut
+Painter's supplies;työkalu;maalarin tarvikkeet
+Potter's tools;työkalu;savenvalajan työkalut
+Smith's tools;työkalu;sepän työkalut
+Tinker's tools;työkalu;nikkarin työkalut
+Weaver's tools;työkalu;kankurin työkalut
+Woodcarver's tools;työkalu;puunkaivertajan työkalut
+Fortune teller�s tools;työkalu;ennustajan työkalut
+Dice set;työkalu;nopat
+Playing card set;työkalu;pelikortit
+bagpipes;työkalu;säkkipilli
+drum;työkalu;rumpu
+dulcimer;työkalu;kantele
+flute;työkalu;huilu
+lute;työkalu;luuttu
+lyre;työkalu;lyyra
+horn;työkalu;torvi
+pan flute;työkalu;panhuilu
+shawm;työkalu;kitara
+violin;työkalu;viulu
+plane;maailmatasot, liitteet;maailmataso
+upper planes;maailmatasot, liitteet;ylinen
+lower planes;maailmatasot, liitteet;alinen
+material plane;maailmatasot, liitteet;maallinen
+ethereal plane;maailmatasot, liitteet;eetteri
+Border Ethereal;maailmatasot, liitteet;rajaeetteri
+Deep Ethereal;maailmatasot, liitteet;syväeetteri
+astral plane;maailmatasot, liitteet;astraali
+demiplane;maailmatasot, liitteet;varjomaailma
+elemental plane;maailmatasot, liitteet;elementtimaailma
+elemental chaos;maailmatasot, liitteet;alkukaaos
+inner planes;maailmatasot, liitteet;sisämaailmat
+outer planes;maailmatasot, liitteet;ulommat maailmat
+transitive planes;maailmatasot, liitteet;kauttakulkumaailmat
+extradimensional;maailmatasot, liitteet;yliulottuvuudellinen
+vortice;maailmatasot, liitteet;pyörre
+Elysium;maailmatasot, liitteet;Onnela
+Hell;maailmatasot, liitteet;Horna
+Abyss;maailmatasot, liitteet;Kadotus
+Shadowfell;maailmatasot, liitteet;Pimentola
+Feywild;maailmatasot, liitteet;Keijusalo
+Primordial (entity);maailmatasot, liitteet;Alkuvoima
+Demon Prince;maailmatasot, liitteet;Demoniruhtinas
+Archdevil;maailmatasot, liitteet;Hornan valtias
+Skills;taidot;taidot
+Athletics;taidot;urheilu
+Acrobatics;taidot;akrobatia
+Sleight of Hand;taidot;sorminäppäryys
+Stealth;taidot;hiipiminen
+Arcana;taidot;salatiede
+History;taidot;historia
+Investigation;taidot;tutkimus
+Nature;taidot;luonto
+Religion;taidot;uskonto
+Animal Handling;taidot;eläinten käsittely
+Insight;taidot;oivallus
+Medicine;taidot;lääketiede
+Perception;taidot;tarkkaavaisuus
+Survival;taidot;selviytyminen
+Deception;taidot;huijaaminen
+Intimidation;taidot;uhkailu
+Performance;taidot;esiintyminen
+Persuasion;taidot;suostuttelu
+Bat;liitteet;lepakko
+Black Bear;liitteet;mustakarhu
+Boar;liitteet;villisika
+Brown Bear;liitteet;karhu
+Cat;liitteet;kissa
+Crab;liitteet;rapu
+Constrictor Snake;liitteet;kuristajakäärme
+Crocodile;liitteet;krokotiili
+Dire Wolf;liitteet;suursusi
+Frog;liitteet;sammakko
+Giant Eagle;liitteet;jättiläiskotka
+Giant Spider;liitteet;jättihämähäkki
+Hawk;liitteet;haukka
+Imp;liitteet;pikkupiru
+Lion;liitteet;leijona
+Lizard;liitteet;lisko
+Mastiff;liitteet;vahtikoira
+Mule;liitteet;muuli
+Octopus;liitteet;mustekala
+Owl;liitteet;pöllö
+Panther;liitteet;pantteri
+Poisonous Snake;liitteet;myrkkykäärme
+Pseudodragon;liitteet;pikkulohikäärme
+Quasit;liitteet;riiviö
+Quipper;liitteet;piraija
+Rat;liitteet;rotta
+Raven;liitteet;korppi
+Reef Shark;liitteet;tiikerihai
+Riding Horse;liitteet;ratsuhevonen
+Sea Horse;liitteet;merihevonen
+Skeleton;liitteet;luuranko
+Spider;liitteet;hämähäkki
+Sprite;liitteet;keijukainen
+Tiger;liitteet;tiikeri
+Warhorse;liitteet;sotahevonen
+Weasel;liitteet;lumikko
+Wolf;liitteet;susi
+Zombie;liitteet;zombi
+Steam Mephit;liitteet;höyryrääkkä
+Dust Mephit;liitteet;tomurääkkä
+Magma Mephit;liitteet;magmarääkkä
+Ice Mephit;liitteet;jäärääkkä
+Satyr;liitteet;satyyri
+Sea Hag;liitteet;näkki
+Elemental, air;liitteet;elementaali, ilmaelementaali
+Elemental, earth;liitteet;elementaali, maaelementaali
+Elemental, fire;liitteet;elementaali, tulielementaali
+Elemental, water;liitteet;elementaali, vesielementaali
+Awakened shrub;liitteet;kasvi, herätetty
+Awakened tree;liitteet;puu, herätetty
+Channel Divinity;hahmo, temppeliritari;jumalallisen voiman kanavointi
+Turn Undead;hahmo, temppeliritari;epäkuolleiden häätäminen
+Life;valtapiirit;elämä
+Preserve Life;valtapiirit;elämän säilyttäminen
+Disciple of Life;valtapiirit;elämän opetuslapsi
+Blessed Healer;valtapiirit;siunattu parantaja
+Divine Strike;valtapiirit (elämä);pyhä isku
+Supreme Healing;valtapiirit;ylivertainen parantaminen
+Rogue;hahmo, varas;varas
+Expertise;hahmo, varas;asiantuntemus
+Sneak Attack;hahmo, varas;yllätyshyökkäys
+Thieves' Cant;hahmo, varas;varkaiden salakieli
+Cunning Action;hahmo, varas;nopea toiminta
+Roguish Archetype;hahmo, varas;varkaan arkkityyppi
+Uncanny dodge;hahmo, varas;väistöliike
+Evasion;hahmo, varas;pelastautuminen
+Reliable Talent;hahmo, varas;harjaantuneet taidot
+Blindsense;hahmo, varas;tarkat aistit
+Slippery Mind;hahmo, varas;liukas mieli
+Elusive;hahmo, varas;välttely
+Stroke of Luck;hahmo, varas;onnenkantamoinen
+Thief;hahmo, varas;kissavaras
+Fast Hands;hahmo, varas;lukkoekspertti
+Second-Story Work;hahmo, varas;Ikkunasta sisään
+Supreme Sneak;hahmo, varas;kevyt askel
+Use Magic Device;hahmo, varas;taikaesineiden käyttö
+Thief's Reflexes;hahmo, varas;kissan reaktiot
+Thirsting Blade;hahmo, noita;janoinen ase
+Extra Attack;hahmo;lisähyökkäys
+Unarmored defence;hahmo;haarniskaton puolustus
