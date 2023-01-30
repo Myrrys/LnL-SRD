@@ -1,4 +1,4 @@
-# LnL-SRD
+# Legendoja & Lohikäärmeitä SRD
 
 ## Tietoa
 
