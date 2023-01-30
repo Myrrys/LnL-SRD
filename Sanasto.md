@@ -9,3 +9,5 @@ Kiitoksemme myös Jukka Särkijärvelle ja Viktor Hurtalle heidän avustaan muut
 
 ## Versio 5.0
 Tämä versio on Pelaajan kirjan toisen painoksen julkaisun ajalta. Ainoa ero versioon 4.0 on että eläinten hallinta on nyt paremmin taitoa kuvaava eläinten käsittely.
+
+[Sanastoon](Sanasto.csv)
