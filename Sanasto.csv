@@ -2,7 +2,7 @@ Lähdesana;Kategoria;Käännös
 Character;yleinen;hahmo
 Bonus;yleinen;bonus
 Hit point;yleinen;osumapiste
-Hit die; hit dice;yleinen;osumapistenoppa
+Hit die, hit dice;yleinen;osumapistenoppa
 temporary hit point;yleinen;väliaikainen osumapiste
 Hit point maximum;yleinen;osumapistemaksimi
 Skill;yleinen;taito
