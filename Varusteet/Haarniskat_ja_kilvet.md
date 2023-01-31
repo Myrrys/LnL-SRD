@@ -15,7 +15,7 @@ myöskään loitsia haarniska päälläsi.
 
 **Voimakkuus.** Raskaat panssarit hidastavat hahmoa, jolla ei ole tarpeeksi voimaa sen kantamiseen. Jos haarniskataulukossa lukee voimakkuus 13 tai voimakkuus 15 ja voimakkuutesi ei täytä tuollaista vaatimusta, nopeutesi hidastuu neljällä metrillä.
 
-**Hiipiminen.** Jos haarniskataulukossa lukee ”Haitta”, saa hahmo haitan ketteryys (hiipiminen) heittoihin.
+**Hiipiminen.** Jos haarniskataulukossa lukee ”Haitta”, saa hahmo *haitan* ketteryys (hiipiminen) heittoihin.
 
 **Kilvet.** Kilven käyttäminen korottaa puolustustasi kahdella pisteellä.
 
@@ -23,8 +23,8 @@ myöskään loitsia haarniska päälläsi.
 
 | Kevyt panssari         | Hinta | Puolustus (PL) | Voimakkuus | Hiipiminen | Paino |
 |------------------------|-------|----------------|------------|------------|-------|
-|Topattu panssari        | 5 kr  | 11 + KET       | -          |Haitta      | 4kg   |
-|Nahkapanssari           | 10 kr | 11 + KET       | -          | -          | 5kg   |
+|Topattu panssari        | 5 kr  | 11 + KET       | -          |Haitta      | 4 kg  |
+|Nahkapanssari           | 10 kr | 11 + KET       | -          | -          | 5 kg  |
 |Kovetettu nahkapanssari | 45 kr | 12 + KET       | -          | -          | 6 kg  |
 
 | Keskiraskas panssari   | Hinta  | Puolustus (PL)   | Voimakkuus | Hiipiminen | Paino |
@@ -127,5 +127,5 @@ minuutissa.
 _Raskaan panssarin_ voi pukea 10 minuutissa ja riisua 5
 minuutissa.
 
-_Kilven_ laittaminen paikalleen ja poiso  o kestää yhden toiminnon
+_Kilven_ laittaminen paikalleen ja poisotto kestää yhden toiminnon
 ajan.
