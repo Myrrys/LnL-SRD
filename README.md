@@ -4,15 +4,19 @@
 
 |               |              |
 | ------------- | ------------ |
-| **Julkaisu**  | 0.0.1-alpha1 |
+| **Julkaisu**  | 0.0.1-alpha2 |
 
 Tämä on Legendoja & Lohikäärmeitä (L&L) SRD (Systems Reference Document) -materiaali, joka on muotoiltu Markdown-muotoon. Tämä mhdollistaa materiaalin helpomman siirtämisen eri julkaisualustoille.
+
+Tämä julkaisu ns. "alpha", joka on tarkoitettu testaamiseen ja palautteen antamiseen. Projekti ei ole vielä millään asteella valmis, ja sen sisältöä tai rakenne voivat muuttua huomattavasti.
 
 SRD perustuu L&L:ään ja Wizards of the Coastin "5th Edition System Reference Document 5.1":eenn. SRD:n sisältö on kokonaisuudessaan [vapaasti käytettävissä Creative Commons BY 4.0 -lisenssin mukaisesti](LICENSE.md). Tarkempi ohjeistus löytyy [tämän dokumentin lopusta](#käyttö-ja-lisenssit).
 
 ## Ohjeita
 
-Tämä GitHub -projekti sisältää kaikki tarvittavat tiedostot, jotta voit muokata ja julkaisemalla materiaalia. Halutessasi osallistua projektin kehittämiseen, voit tehdä pull requestin tai ilmoittaa ongelmista projektin [issue trackerissa](https://github.com/Myrrys/LnL-SRD/issues).
+Tämä GitHub -projekti sisältää joukon L&L -materiaalia, joka on muotoiltu Markdown-muotoon. Tämä mahdollistaa materiaalin helpomman siirtämisen eri julkaisualustoille.
+
+Halutessasi osallistua projektin kehittämiseen, voit tehdä ehdottamastasi muutoskesta suoraan pull requestin tai ilmoittaa ongelmista projektin [issue tracker -toimintoa käyttäen](https://github.com/Myrrys/LnL-SRD/issues).
 
 ### Muokkaaminen
 
