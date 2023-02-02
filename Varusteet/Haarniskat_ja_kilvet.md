@@ -129,3 +129,7 @@ minuutissa.
 
 _Kilven_ laittaminen paikalleen ja poisotto kestää yhden toiminnon
 ajan.
+
+----
+
+Edellinen [Varusteet](Varusteet.md)
