@@ -4,11 +4,11 @@
 
 |               |              |
 | ------------- | ------------ |
-| **Julkaisu**  | 0.0.1-alpha2 |
+| **Julkaisu**  | 0.0.1-beta1  |
 
-Tämä on Legendoja & Lohikäärmeitä (L&L) SRD (Systems Reference Document) -materiaali, joka on muotoiltu Markdown-muotoon. Tämä mhdollistaa materiaalin helpomman siirtämisen eri julkaisualustoille.
+Tämä on Legendoja & Lohikäärmeitä (L&L) SRD (Systems Reference Document) -materiaali, joka on muotoiltu Markdown-muotoon. Tämä mahdollistaa materiaalin helpomman siirtämisen eri julkaisualustoille.
 
-Tämä julkaisu ns. "alpha", joka on tarkoitettu testaamiseen ja palautteen antamiseen. Projekti ei ole vielä millään asteella valmis, ja sen sisältöä tai rakenne voivat muuttua huomattavasti.
+Tämä julkaisu ns. "beta", joka on tarkoitettu konseptin testaamiseen ja palautteen antamiseen. Projekti ei ole vielä millään asteella valmis, ja sen sisältöä tai rakenne voivat muuttua huomattavasti.
 
 SRD perustuu L&L:ään ja Wizards of the Coastin "5th Edition System Reference Document 5.1":eenn. SRD:n sisältö on kokonaisuudessaan [vapaasti käytettävissä Creative Commons BY 4.0 -lisenssin mukaisesti](LICENSE.md). Tarkempi ohjeistus löytyy [tämän dokumentin lopusta](#käyttö-ja-lisenssit).
 
