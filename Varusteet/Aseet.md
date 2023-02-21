@@ -147,3 +147,18 @@ viereesi tai heittää sen korkeintaan 8 metrin päähän, jolloin
 se hajoaa osuessaan kiinteään pintaan tai esineeseen. Heitä
 hyökkäysheitto (happopullo lasketaan improvisoiduksi aseeksi).
 Osuessaan kohde saa 2n6 pistettä vahinkoa.
+
+## Asetaulukko
+
+| Yksinkertaiset Lähitaisteluaseet | Hinta | Vahinko | Paino | Ominaisuudet |
+|:---------------------------------|:------|:--------|:------|:-------------|
+| Nuija                            | 1 hr  | 1n4 murskausvahinkoa | 1 kg  | Kevyt ase   |
+| Tikari                           | 2 kr  | 1n4 pistovahinkoa | 1 kg  | Tarkkuus, kevyt ase, heitettävä (kantama 8/24) |
+| Suurnuija                        | 2 hr  | 1n8 murskausvahinkoa | 5 kg  | Kahden käden ase |
+| Kirves                           | 5 kr  | 1n6 viiltovahinkoa | 1 kg  | Kevyt ase, heitettävä (kantama 8/24) |
+| Heittokeihäs                     | 5 hr  | 1n6 pistovahinkoa | 1 kg  | Heitettävä (kantama 12/48) |
+| Vasara                           | 2 kr  | 1n4 murskausvahinkoa | 1 kg  | Kevyt ase, heitettävä (kantama 8/24) |
+| Rautanuija                       | 5 kr  | 1n6 murskausvahinkoa | 1 kg  | - |
+| Sauva                            | 2 hr  | 1n6 murskausvahinkoa | 1 kg  | Yhden tai kahden käden ase (1n8) |
+| Sirppi                           | 1 kr  | 1n4 viiltovahonkoa | 1 kg  | Kevyt ase |
+| Keihäs                           | 1 kr  | 1n6 pistovahinkoa | 1 kg  | Heitettävä (kantama 8/24), yhden tai kahden käden ase (1n8) |
