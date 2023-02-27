@@ -293,67 +293,37 @@ voi käyttää kymmenen kertaa. Voit toimintona vakatt aa
 olennon, jolla on 0 osumapistettä ilman, etä sinun tarvitsee
 tehdä viisaus (lääketiede) heittoa.
 
-**Pullo pyhää vettä.** Voit toimintona levittää tämän pullon sisällön
-2x2 metrin alueelle viereesi tai heittää sen korkeintaan 8
-metrin päähän, jolloin se hajoaa osuessaan kiinteään pintaan tai
-esineeseen. Heitä hyökkäysheitto (pullo pyhää vettä lasketaan
-improvisoiduksi aseeksi). Osuessaan kohde saa 2n6 pistettä
-vahinkoa, jos se on piru tai epäkuollut.
+**Pullo pyhää vettä.** Voit toimintona levittää tämän pullon sisällön 2x2 metrin alueelle viereesi tai heittää sen korkeintaan 8 metrin päähän, jolloin se hajoaa osuessaan kiinteään pintaan tai esineeseen. Heitä hyökkäysheitto (pullo pyhää vettä lasketaan improvisoiduksi aseeksi). Osuessaan kohde saa 2n6 pistettä vahinkoa, jos se on piru tai epäkuollut.
 
 Temppeliritari tai paladiini voi pyhittää tavallista vettä pyhäksi
 vedeksi rituaalilla. Rituaali kestää tunnin, vaatii 25 kultarahan
 arvon edestä hopeajauhe  a, ja rituaalin tekijän tulee käyttää
 ensimmäisen tason loitsuvaraus.
 
-**Pyhä symboli.** Pyhä symboli edustaa kantajansa uskoa. Niitä
-voivat olla esimerkiksi amuletit, pyhäinjäännöslippaat ja symbolit
-kilvissä tai muissa esineissä. Temppeliritarit ja paladiinit
-voivat käyttää pyhää symbolia loitsufokuksena pitäessään sitä
-käsissään.
+**Pyhä symboli.** Pyhä symboli edustaa kantajansa uskoa. Niitä voivat olla esimerkiksi amuletit, pyhäinjäännöslippaat ja symbolit kilvissä tai muissa esineissä. Temppeliritarit ja paladiinit voivat käyttää pyhää symbolia loitsufokuksena pitäessään sitä käsissään.
 
-**Ruokailuvälineet.** Peltirasiassa on kuppi ja lusikkahaarukka.
-Rasian kantta voi käyttää lautasina tai yksinkertaisena
-paistinpannuna.
+**Ruokailuvälineet.** Peltirasiassa on kuppi ja lusikkahaarukka. Rasian kantta voi käyttää lautasina tai yksinkertaisena paistinpannuna.
 
-**Soihtu.** Soihtu palaa 1 tunnin ja valaisee kirkkaasti 8
-metrin päähän ja himmeästi 8 metriä siitä eteenpäin.
-Soihtu tekee osuessaan 1 pisteen vahinkoa, jos käytät sitä
-lähitaisteluhyökkäykseen.
+**Soihtu.** Soihtu palaa 1 tunnin ja valaisee kirkkaasti 8 metrin päähän ja himmeästi 8 metriä siitä eteenpäin.
+Soihtu tekee osuessaan 1 pisteen vahinkoa, jos käytät sitä lähitaisteluhyökkäykseen.
 
-**Sorkkarauta.** Sorkkarauta antaa edun voimakkuus-hei  oihin,
-joissa vipuvarresta on hyötyä.
+**Sorkkarauta.** Sorkkarauta antaa edun voimakkuus -hei  oihin, joissa vipuvarresta on hyötyä.
 
-**Sudenraudat.** Voit käyttää toiminnon ase  aaksesi ansan. Sudenrautojen
-ketju kiinnitetään puuhun tai maahan lyötyyn keppiin.
-Kun kohde astuu ansan painelaatalle, raudat sulkeutuvat.
-Olennon tulee onnistua VA 13 ketteryys-pelastusheitossa tai se
-saa 1n4 pistovahinkoa ja ei voi enää liikkua. Olento voi käyttää
-toiminnon ja yrittää VA 13 voimakkuus-heittoa vapautuakseen,
-tai joku toinen voi yri  ää samaa hei  oa vapau  aakseen olennon
-raudoista. Epäonnistuessaan olento saa 1 pisteen pistovahinkoa.
+**Sudenraudat.** Voit käyttää toiminnon asettaaksesi ansan. Sudenrautojen ketju kiinnitetään puuhun tai maahan lyötyyn keppiin. Kun kohde astuu ansan painelaatalle, raudat sulkeutuvat. Olennon tulee onnistua VA 13 ketteryys-pelastusheitossa tai se
+saa 1n4 pistovahinkoa ja ei voi enää liikkua. Olento voi käyttää toiminnon ja yrittää VA 13 voimakkuus-heittoa vapautuakseen, tai joku toinen voi yrittää samaa heittoa vapauttaakseen olennon raudoista. Epäonnistuessaan olento saa 1 pisteen pistovahinkoa.
 
-**Suurennuslasi.** Suurennuslasilla voi sytyttää tulen kirkkaalla
-säällä, kunhan käytössä on sytykkeitä. Tulen sytyttäminen tällä
-tavoin kestää 5 minuuttia. Suurennuslasi antaa myös edun heittoihin,
-kun pitää tarkastella jotain pientä tai yksityiskohtaista.
+**Suurennuslasi.** Suurennuslasilla voi sytyttää tulen kirkkaalla säällä, kunhan käytössä on sytykkeitä. Tulen sytyttäminen tällä tavoin kestää 5 minuuttia Suurennuslasi antaa myös edun heittoihin, kun pitää tarkastella jotain pientä tai yksityiskohtaista.
 
-**Tulusrasia.** Soihdun sytyttäminen tuluksilla vaatii toiminnon.
-Muunlaisen tulen sytyttäminen vie 1 minuutin.
+**Tulusrasia.** Soihdun sytyttäminen tuluksilla vaatii toiminnon. Muunlaisen tulen sytyttäminen vie 1 minuutin.
 
-**Vasamakotelo.** Tähän puiseen koteloon mahtuu 20 varsijousen
-vasamaa.
+**Vasamakotelo.** Tähän puiseen koteloon mahtuu 20 varsijousen vasamaa.
 
 **Vastamyrkky.** Vastamyrkyn juominen antaa edun pelastusheittoihin myrkkyjä vastaan.
 Vinssi. Vinssin avulla voi nostaa 4 kertaa painavampia taakkoja
 kuin voisit normaalisti nostaa.
 
-**Öljypullo.** Voit toimintona levi  ää tämän pullon sisällön 2x2
-metrin alueelle viereesi tai hei  ää sen korkeintaan 8 metrin
-päähän, jolloin se hajoaa osuessaan kiinteään pintaan tai esineeseen.
-
-Heitä hyökkäysheitto (öljypullo lasketaan improvisoiduksi
-aseeksi). Osuessaan kohde on öljyn peitossa. Jos öljyn peitossa
-oleva kohde kärsii tulivahinkoa ennen kuin öljy kuivuu (1 minuutissa), se kärsii lisäksi 5 pistettä vahinkoa palavasta öljystä.
+**Öljypullo.** Voit toimintona levittää tämän pullon sisällön 2x2 metrin alueelle viereesi tai heittää sen korkeintaan 8 metrin päähän, jolloin se hajoaa osuessaan kiinteään pintaan tai esineeseen. Heitä hyökkäysheitto (öljypullo lasketaan improvisoiduksi
+aseeksi). Osuessaan kohde on öljyn peitossa. Jos öljyn peitossa oleva kohde kärsii tulivahinkoa ennen kuin öljy kuivuu (1 minuutissa), se kärsii lisäksi 5 pistettä vahinkoa palavasta öljystä.
 
 Öljyn voi myös levittää maahan 2x2 metrin kokoiselle alueelle
 ja sytyttää palamaan. Öljy palaa kaksi kierrosta, ja jokainen
