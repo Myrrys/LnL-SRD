@@ -150,7 +150,7 @@ Osuessaan kohde saa 2n6 pistettä vahinkoa.
 
 ## Asetaulukko
 
-| Yksinkertaiset Lähitaisteluaseet | Hinta | Vahinko | Paino | Ominaisuudet |
+| Yksinkertaiset lähitaisteluaseet | Hinta | Vahinko | Paino | Ominaisuudet |
 |:---------------------------------|:------|:--------|:------|:-------------|
 | Nuija                            | 1 hr  | 1n4 murskausvahinkoa | 1 kg  | Kevyt ase   |
 | Tikari                           | 2 kr  | 1n4 pistovahinkoa | 1 kg  | Tarkkuus, kevyt ase, heitettävä (kantama 8/24) |
@@ -162,3 +162,30 @@ Osuessaan kohde saa 2n6 pistettä vahinkoa.
 | Sauva                            | 2 hr  | 1n6 murskausvahinkoa | 1 kg  | Yhden tai kahden käden ase (1n8) |
 | Sirppi                           | 1 kr  | 1n4 viiltovahonkoa | 1 kg  | Kevyt ase |
 | Keihäs                           | 1 kr  | 1n6 pistovahinkoa | 1 kg  | Heitettävä (kantama 8/24), yhden tai kahden käden ase (1n8) |
+
+| Yksinkertaiset kantama-aseet | Hinta | Vahinko | Paino | Ominaisuudet |
+|:---------------------------------|:------|:--------|:------|:-------------|
+| Kevyt varsijousi                 | 25 kr | 1n8 pistovahinkoa | 2 kg  | Ammukset (kantama 32/128), ladattava, kahden käden ase |
+| Tikka                            |5 kup                     | 1n4 pistovahinkoa | 0,1 kg | Tarkkuus heitettävä (kantama 8/24) |
+| Lyhytjousi                       | 25 kr | 1n6 pistovahinkoa | 1 kg  | Ammukset (kantama 32/128), kahden käden ase |
+| Linko                            | 1 hr  | 1n4 murskausvahinkoa | - | Ammukset (kantama 12/48) |
+
+| Lähitaisteluun sopivat sota-aseet | Hinta | Vahinko | Paino | Ominaisuudet |
+|:----------------------------------|:------|:--------|:------|:-------------|
+| Taistelukirves                    | 10 kr | 1n8 viiltovahinkoa | 2 kg  | Yhden tai kahden käden ase (1n10) |
+| Sotavarsta                        | 10 kr | 1n8 murskausvahinkoa | 1 kg  | - |
+| Varsimiekka                       | 20 kr | 1n10 viiltovahinkoa | 3 kg  | Raskas ase, ulottuva, kahden käden ase |
+| Suurkirves                        | 30 kr | 1n12 viiltovahinkoa | 3 kg  | Raskas ase, kahden käden ase |
+| Suurmiekka                        | 50 kr | 2n6 viiltovahinkoa | 3 kg  | Raskas ase, kahden käden ase |
+| Hilpari                           | 20 kr | 1n10 viiltovahinkoa | 3 kg  | Raskas ase, ulottuva, kahden käden ase |
+| Peitsi                            | 10 kr | 1n12 pistovahinkoa | 3 kg  | Ulottuva, erikoispiirre |
+| Miekka                            | 15 kr | 1n8 viiltovahinkoa |12 kg  | Yhden tai kahden käden ase (1n10) |
+| Leka                             | 10 kr | 2n6 murskausvahinkoa | 5 kg  | Raskas ase, kahden käden ase |
+| Piikkinuija                       | 15 kr | 1n8 pistovahinkoa | 2 kg  | - |
+| Sotakeihäs                        | 5 kr  | 1n10 pistovahinkoa | 8 kg  | Raskas ase, ulottuva, kahden käden ase |
+| Pistomiekka                       | 25 kr | 1n8 pistovahinkoa | 1 kg  | Tarkkuus |
+| Sapeli                            | 25 kr | 1n6 viiltovahinkoa | 1 kg  | Tarkkuus, kevyt ase |
+| Lyhytmiekka                       | 10 kr | 1n6 pistovahinkoa | 1 kg  | Tarkkuus, kevyt ase |
+| Atrain                            | 5 kr  | 1n6 pistovahinkoa | 2 kg  | Heitettävä (kantama 8/24), yhden tai kahden käden ase (1n8) |
+| Sotahakku                         | 5 kr  | 1n8 pistovahinkoa | 1 kg  | Yhden tai kahden käden ase (1n10) |
+| Ruoska                           | 2 kr  | 1n4 viiltovahinkoa | 1 kg  | Tarkkuus, ulottuva |
