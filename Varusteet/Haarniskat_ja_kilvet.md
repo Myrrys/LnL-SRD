@@ -133,3 +133,5 @@ ajan.
 ----
 
 Edellinen [Varusteet](Varusteet.md)
+
+Seuraava [Aseet](Aseet.md)
