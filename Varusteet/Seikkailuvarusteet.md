@@ -158,5 +158,137 @@ aseeksi). Osuessaan kohde on öljyn peitossa. Jos öljyn peitossa oleva kohde k�
 ja sytyttää palamaan. Öljy palaa kaksi kierrosta, ja jokainen
 alueella oleva olento saa 5 pistettä vahinkoa liikkuessaan palavalle alueelle tai lopettaessaan vuoronsa palavalla alueella.
 
+## Ammukset
+| Esine | Hinta | Paino |
+|:--- |:--- |:--- |
+| Nuolet (20) | 1 kr | 0,5 kg |
+| Puhallusputken nuolet (50) | 1 kr | 0,5 kg |
+| Varsijousen vasamat (20) | 1 kr | 0,5 kg |
+| Lingon kivet (20) | 4 kup | 0,5 kg |
+
+## Maaginfokus
+| Esine | Hinta | Paino |
+|:--- |:--- |:--- |
+| Kristalli | 10 kr | 0,5 kg |
+| Kristallipallo | 20 kr | 1 kg |
+| Vitsa | 10 kr | 1 kg |
+| Sauva | 5 kr | 2 kg |
+| Taikasauva | 10 kr | 0,5 kg |
+  
+## Druidin talismaani
+| Esine | Hinta | Paino |
+|:--- |:--- |:--- |
+| Mistelinoksa | 1 kr | - |
+| Toteemi | 1 kr | - |
+| Puusauva | 5 kr | 2 kg |
+| Puinen taikasauva | 10 kr | 0,5 kg |
+
+## Pyhä symboli
+| Esine | Hinta | Paino |
+|:--- |:--- |:--- |
+| Amuletti | 5 kr | 0,5 kg |
+| Tunnus | 5 kr | - |
+| Pyhäinjäännöslipas | 5 kr | 1 kg |
+
+## Varusteet
+| Esine | Hinta | Paino |
+|:--- |:--- |:--- |
+| 3 metrin seiväs | 5 kup | 3 kg |
+| 3 metrin tikkaat | 1 hr | 10 kg |
+| Ainespussi | 25 kr | 1 kg |
+| Alkemistin tuli (pullo) | 50 kr | 0,5 kg |
+| Arkku | 5 kr | 10 kg |
+| Ämpäri | 5 kup | 1 kg |
+| Hakku | 2 kr | 5 kg |
+| Happopullo | 25 kr | 0,5 kg |
+| Helmitaulu | 2 kr | 0,5 kg |
+| Hiomakivi | 1 kup | 0,5 kg |
+| Hienot vaatteet | 15 kr | 6 lb. |
+| Huputettu lyhty | 5 kr | 1 kg |
+| Jalkapiikki (20 säkissä) | 1 kr | 1 kg |
+| Kaapu | 1 kr | 2 kg |
+| Kauppiaan vaaka | 5 kr | 1 kg |
+| Kahleet | 2 kr | 3 kg |
+| Kahden hengen teltta | 2 kr | 10 kg |
+| Kalliopora | 10 kr | 5 kg |
+| Kalastusvälineet | 1 kr | 2 kg |
+| Kannu | 2 kup | 2 kg |
+| Kartan suojaputki | 1 kr | 0,5 kg |
+| Kaukoputki | 1,000 kr | 0,5 kg |
+| Käsipeili | 5 kr | 0,5 kg |
+| Kauha | 2 kr | 1 kg |
+| Kengänpohjat (pari) | 1 kr | - |
+| Keppi tai piiskanvarsi | 1 kr | 0,5 kg |
+| Ketju (3 metriä) | 5 kr | 5 kg |
+| Kiila | 5 kup | 0,5 kg |
+| Kiipeilyvälineet | 25 kr | 5 kg |
+| Kirja | 25 kr | 2 kg |
+| Kirjoitussetti | 5 kr | 1 kg |
+| Kirves | 1 kr | 2 kg |
+| Kiviä (20 kpl säkissä) | 1 kr | 5 kg |
+| Kokkiapulainen | 2 kr | 2 kg |
+| Kori | 4 hr | 1 kg |
+| Kuivamuona (1 päiväksi) | 5 hr | 1 kg |
+| Kuulia (1,000 kpl säkissä) | 1 kr | 1 kg |
+| Kulkunen | 1 kr | - |
+| Kynttilä | 1 kup | - |
+| Läjä vaatteita (10 vaatekappaletta) | 2 kr | 1 kg |
+| Lapio | 2 kr | 2 kg |
+| Lasipullo | 2 kr | 1 kg |
+| Lekakirves | 5 kr | 7 kg |
+| Liitu | 1 kup | - |
+| Loitsukirja | 50 kr | 1 kg |
+| Lukko | 10 kr | 0,5 kg |
+| Lusikka | 1 kr | 0,5 kg |
+| Lyhty | 10 kr | 1 kg |
+| Makuupussi | 1 kr | 3 kg |
+| Matkavaatteet | 2 kr | 2 kg |
+| Muste (pieni pullo) | 10 kr | - |
+| Muurinmurtaja | 4 kr | 15 kg |
+| Myrkkypullo | 100 kr | - |
+| Naamiaisasu | 5 kr | 2 kg |
+| Näytepullo | 1 kr | - |
+| Öljypullo | 1 hr | 0,5 kg |
+| Pada | 2 kr | 5 kg |
+| Pari sukkia | 1 kr | - |
+| Parannusjuoma | 50 kr | 0,5 kg |
+| Parfyymi (pullo) | 5 kr | - |
+| Parantajan välineet | 5 kr | 1 kg |
+| Pergamentti (yksi liuska) | 1 hr | - |
+| Pihdit | 1 kr | 1 kg |
+| Pilli | 5 kup | - |
+| Pora | 10 kr | 5 kg |
+| Pullo pyhää vettä | 25 kr | 0,5 kg |
+| Pussi | 5 hr | 0,5 kg |
+| Pyyhe | 1 kr | 0,5 kg |
+| Rautapiikki (10) | 1 kr | 2 kg |
+| Reppu | 2 kr | 2 kg |
+| Ruokailuvälineet | 2 hr | 0,5 kg |
+| Saippua | 2 kup | - |
+| Salamanvaraspuvut | 5 kr | 1 kg |
+| Sankariuskomus | 5 kr | 0,5 kg |
+| Säkki | 1 kup | 0,5 kg |
+| Sinettisormus | 5 kr | - |
+| Sinettivaha | 5 hr | - |
+| Soihtu | 1 kup | 0,5 kg |
+| Sudenraudat | 5 kr | 10 kg |
+| Sorkkarauta | 2 kr | 2 kg |
+| Suurennuslasi | 100 kr | - |
+| Suutin | 1 kup | - |
+| Tarttumiskoukku | 2 kr | 2 kg |
+| Tiimalasi | 25 kr | 0,5 kg |
+| Tulusrasia | 5 hr | 0,5 kg |
+| Tynnyri | 2 kr | 30 kg |
+| Vasama | 1 kr | 1 kg |
+| Vasamakotelo | 1 kr | 0,5 kg |
+| Vasara | 1 kr | 1 kg |
+| Vastamyrkkypullo | 50 kr | - |
+| Vesileili (täytenä) | 2 hr | 2 kg |
+| Vinssi | 1 kr | 2 kg |
+| Viltti | 5 hr | 1 kg |
+| Viuhka | 1 kr | 0,5 kg |
+| Yksi nuoli | 1 kr | - |
+| Öljylamppu | 5 hr | 1 kg |
+
 ----
 
