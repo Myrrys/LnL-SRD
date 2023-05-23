@@ -290,5 +290,28 @@ alueella oleva olento saa 5 pistettä vahinkoa liikkuessaan palavalle alueelle t
 | Yksi nuoli | 1 kr | - |
 | Öljylamppu | 5 hr | 1 kg |
 
+### Kantovälineiden kapasiteetti
+| Kantoväline | Kapasiteetti |
+| ----------- | ------------ |
+| Reppu* | 30 litraa/15 kiloa tavaraa |
+| Tynnyri | 150 litraa nestettä/kiinteää ainetta |
+| Kori | 60 litraa/20 kiloa tavaraa |
+| Pullo | ½ litraa nestettä |
+| Ämpäri | 10 litraa nestettä/kiinteää tavaraa |
+| Arkku | 300 litraa/150 kiloa tavaraa |
+| Taskumatti tai kolpakko | ½ litraa nestettä |
+| Kannu | 3 litraa nestettä |
+| Pata | 3 litraa nestettä |
+| Pussi | 5 litraa/3 kiloa tavaraa |
+| Säkki | 25 litraa/15 kiloa tavaraa |
+| Näytepullo | 0,5 dl nestettä |
+| Vesileili | 2 litraa nestettä |
+
+\* Voit myös sitoa esineitä, kuten makuupussin tai köysinipun
+repun ulkopuolelle.
+
 ----
 
+Edellinen [Seikkailuvarusteet](Seikkailuvarusteet.md)
+
+Seuraava [Työkalut](Tyokalut.md)
