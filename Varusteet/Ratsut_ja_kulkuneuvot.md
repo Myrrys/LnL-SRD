@@ -38,3 +38,56 @@ Näitä kulkuvälineitä ei pysty soutamaan merkittävää virtausta
 vastaan, vaan ne täytyy vetää ylävirtaan rannalla vetävillä
 vetojuhdilla. Jos seikkailijat joutuvat kantamaan soutuvenettä
 maitse, on syytä huomioida, että se painaa 45 kiloa.
+
+## Ratsut ja muut eläimet
+
+| Ratsu | Hinta | Nopeus metreinä | Kantokyky |
+|:------|:------|:----------------|:----------|
+| Aasi tai muuli | 8 kr | 16 | 190 kg |
+| Elefantti | 200 kr | 16 | 600 kg |
+| Kameli | 50 kr | 20 | 215 kg |
+| Poni | 30 kr | 16 | 100 kg |
+| Ratsuhevonen | 75 kr | 24 | 210 kg |
+| Sotahevonen | 400 kr | 24 | 245 kg |
+| Työhevonen | 50 kr | 16 | 245 kg |
+| Vahtikoira | 25 kr | 16 | 90 kg |
+
+## Vetovälineet, kulkuvälineet ja varusteet
+
+| Esine | Hinta | Paino |
+|:------|:------|:------|
+| Hevosen rehu (päiväksi) | 5 kup | 6 kg |
+| Hevoshaarniska | x4 | x2 |
+| Kuolain ja suitset | 2 kr | 0,5 kg |
+| Kärryt | 15 kr | 90 kg |
+| Rattaat | 100 kr | 270 kg |
+| Reki | 20 kr | 135 kg |
+| Satulalaukut | 4 kr | 4 kg |
+| Sotavaunut | 250 kr | 45 kg |
+| Tallipaikka (päiväksi) | 5 hr | - |
+| Vaunut | 35 kr | 180 kg |
+
+## Satulat
+| Esine | Hinta | Paino |
+|:------|:------|:------|
+| Erikoinen | 60 kr | 18 kg |
+| Laukku | 5 kr | 7 kg |
+| Ratsastus | 10 kr | 11 kg |
+| Sotilas | 20 kr | 14 kg |
+
+## Vesikulkuvälineet
+
+| Esine | Hinta | Nopeus|
+|:------|:------|:------|
+|Kaljaasi | 30 000 kr | 6 km/h |
+|Kölivene | 3000 kr | 2 km/h |
+|Soutuvene | 50 kr | 2 km/h |
+|Pitkälaiva | 10 000 kr | 5 km/h |
+|Purjelaiva | 10 000 kr | 3 km/h |
+|Sotalaiva | 25 000 kr | 4 km/h |
+
+----
+
+Edellinen [Valmispakkaukset](Valmispakkaukset.md)
+
+Seuraava [Kauppatavara](Kauppatavara.md)
