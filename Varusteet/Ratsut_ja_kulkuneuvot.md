@@ -57,7 +57,7 @@ maitse, on syytä huomioida, että se painaa 45 kiloa.
 | Esine | Hinta | Paino |
 |:------|:------|:------|
 | Hevosen rehu (päiväksi) | 5 kup | 6 kg |
-| Hevoshaarniska | x4 | x2 |
+| Hevoshaarniska (\* | x4 | x2 |
 | Kuolain ja suitset | 2 kr | 0,5 kg |
 | Kärryt | 15 kr | 90 kg |
 | Rattaat | 100 kr | 270 kg |
@@ -66,6 +66,8 @@ maitse, on syytä huomioida, että se painaa 45 kiloa.
 | Sotavaunut | 250 kr | 45 kg |
 | Tallipaikka (päiväksi) | 5 hr | - |
 | Vaunut | 35 kr | 180 kg |
+
+\* Hevoshaarniska maksaa neljä kertaa enemmän ja painaa kaksi kertaa enemmän kuin tavallinen haarniska.
 
 ## Satulat
 | Esine | Hinta | Paino |
