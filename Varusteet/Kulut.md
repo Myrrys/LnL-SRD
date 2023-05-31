@@ -30,6 +30,7 @@ huomion itseesi. Säästeliäästi ja kohtalaisesti elämällä
 et kiinnitä huomiota itseesi ja todennäköisesti kukaan ei oleta,
 että sinulla olisi mitään varastamisen arvoista, mutta et kyllä
 luo yhteyksiä vallanpitäjiinkään.
+
 **Kurja.** Elät epäinhimillisissä oloissa. Sinulla ei ole omaa kotia
 vaan ainoastaan se suoja, minkä voit löytää. Olet suurimman
 osan ajasta sään armoilla. Yövyt missä pystyt. Jos pystyt livahtamaan
@@ -42,6 +43,7 @@ omasta näkökulmastaan omaisuuden. Suurin osa paremmin
 toimeen tulevasta väestä ei kiinnitä sinuun edes huomiota.
 Laki ja järjestys ei ole sinun tai muun samassa asemassa elävän
 puolella.
+
 **Ankea.** Elät kostean tallin nurkassa, mutalattiaisessa majassa
 kaupungin ulkopuolella tai rottia ja luteita kuhisevassa vuokrakasarmissa.
 Et ole ulkoilmassa sään armoilla, mutta elät epätoivoisessa
@@ -54,6 +56,7 @@ kärsineet elämässään jonkin merkittävän takaiskun. He voivat
 olla sairaita, paossa toisesta maasta tai muutoin menettäneet
 elinkeinonsa. Kodittomuuteen ja vielä kurjempaan jamaan
 joutuminen on alituinen uhka.
+
 **Kehno.** Elät ilman suurinta osaa mukavuuksista. Majoituksesi
 on karu, ruokasi yksinkertaista ja vaatteesi nukkavieruja.
 Asuinolosuhteesi ovat juuri ja juuri riittävät, joskin sangen
@@ -64,6 +67,7 @@ joudut silti varautumaan väkivallan uhkaan, rikoksiin ja tauteihin.
 Näissä olosuhteissa elävät yleensä ammattitaidottomat
 työläiset, kulkukauppiaat, romunkerääjät, ammattirikolliset ja
 palkkasoturit.
+
 **Kohtalainen.** Kohtalainen elintasosi pitää sinut poissa slummien
 kurjuudesta ja antaa sinulle myös mahdollisuuden pitää
 seikkailijan varusteesi kunnossa. Elät kaupungin vanhemmassa
@@ -78,6 +82,7 @@ mökissä tai asunnossa tai omassa huoneessa hyvälaatuisessa
 majatalossa. Samalla alueella naapureinasi elää hyvin toimeentulevia
 taitavia käsityöläisiä, kauppiaita ja armeijan upseereja
 perheineen.
+
 **Varakas.** Elintasosi on ylellinen, vaikka et ehkä olisi ihan samalla
 tasolla kuin äveriäiden mahtisukujen perintörikkauksilla
 elävät. Elät kuin hyvin menestynyt kauppias, kuninkaallisten
@@ -85,6 +90,7 @@ suosikkipalvelija tai jonkin menestyneen yrityksen omistaja. Sinulla
 on iso koti kaupungin paremmalla puolella tai majatalon
 paras huone. Tarpeistasi huolehtii muutama palvelija, kuten
 keittäjä ja taloudenhoitaja.
+
 **Aristokraattinen.** Elät täydessä yltäkylläisyydessä. Asut
 talossa kaikkein mukavimmassa ja viihtyisimmässä osassa
 kaupunkia tai erittäin hienossa majatalossa. Syöt parhaissa
