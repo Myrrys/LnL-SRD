@@ -174,3 +174,96 @@ toisen omaa, mutta harva todellisia kalleuksia jäämättä kiinni.
 **Velhot** ovat magian todellisia asiantuntijoita. Heidän syvällinen
 tietämyksensä tulee kirjanoppineisuudesta ja valtavasta
 perehtyneisyydestä aiheeseen.
+
+## 4. Heitä ominaisuudet
+Sinulla on kuusi ominaisuutta: voimakkuus, sitkeys, ketteryys,
+älykkyys, viisaus ja karisma. Tutustu niiden tarkempiin
+kuvauksiin sääntökirjan luvusta Ominaisuudet. Voit kuitenkin
+sitä ennen arpoa ne noppia heittämällä.
+
+Heitä neljä tavallista 6-sivuista noppaa ja laske niistä yhteen
+kolme parasta tulosta. Esimerkiksi, jos heitit 4, 6, 2, ja 1, laske
+yhteen 4, 6 ja 2 eli yhteensä 12. Jos heitit 6, 4, 3 ja 3 laske yhteen
+6, 4 ja 3 eli yhteensä 13. Toista tämä kuusi kertaa niin että sinulla
+on kuusi tulosta, jotka ovat esimerkiksi 12, 13, 10, 17, 12 ja 17.
+
+Lisää yhteen ominaisuuteen vielä 2 pistettä valintasi mukaan.
+Kirjaa nämä luvut ylös muistiinpanoihin. Nämä ovat hahmosi
+ominaisuudet. Tutustu viimeistään tässä vaiheessa lukuun [Ominaisuudet].
+
+Sijoita heitetyt tulokset hahmolomakkeelle haluamallasi tavalla
+kullekin kuudelle ominaisuudesta. Pidä mielessäsi, että tietyt
+ominaisuudet ovat tietyille luokille tärkeämpiä (esimerkiksi
+sitkeys barbaarille tai älykkyys velholle). On suotavaa joskaan ei
+pakollista sijoitella ominaisuudet niin, että niistä on hyötyä hahmosi
+luokkaa ajatellen. Esimerkiksi, jos suunnittelet hahmosi
+luokaksi velhoa ja on valittavanasi laitatko hänelle älykkyyteen
+10 vai 16, on suotavampaa hänen seikkailijan uransa kannalta
+laittaa 16 älykkyyteen. Saat lisätä yhteen ominaisuuteen vielä 2
+pistettä, jolloin voi olla hyvä idea nostaa velhosi älykkyyttä siten,
+että se on lopulta 18. Voit aina kysyä neuvoa pelinjohtajalta
+ominaisuuksien sijoittelussa. Kirjaa hahmolomakkeelle lopulliset
+ominaisuudet ja niiden muuttujat. Kirjaa myös osumapisteesi
+ja osumapistemaksimisi nyt kun sitkeytesi on selvillä.
+
+### Ominaisuudet
+Kuusi ominaisuutta antavat pikaisen käsityksen olennon henkisistä
+ja fyysistä kyvyistä:
+- **Voimakkuus** kuvaa fyysistä suorituskykyä
+voimanponnistuksiin.
+- **Ketteryys** kuvaa sorminäppäryyttä, notkeutta ja
+tasapainoa.
+- **Sitkeys** kuvaa kestävyyttä, sitkeyttä ja kuntoa.
+- **Älykkyys** kuvaa järkeä ja muistia.
+- **Viisaus** kuvaa havainnointikykyä ja oivaltamista.
+- **Karisma** kuvaa luonteenlujuutta ja vetovoimaa.
+
+| Ominaisuusarvo | Muuttuja |
+|:---------------|:---------|
+| 1              | -5       |
+| 2-3            | -4       |
+| 4-5            | -3       |
+| 6-7            | -2       |
+| 8-9            | -1       |
+| 10-11          | +0       |
+| 12-13          | +1       |
+| 14-15          | +2       |
+| 16-17          | +3       |
+| 18-19          | +4       |
+| 20-21          | +5       |
+| 22-23          | +6       |
+| 24-25          | +7       |
+| 26-27          | +8       |
+| 28-29          | +9       |
+| 30             | +10      |
+
+### Muunnelma: Osta ominaisuudet
+Jotkut pelinjohtajat sallivat pelaajien ostaa ominaisuutensa pisteillä.
+Kysy aina ensin pelinjohtajalta lupa tämän sääntömuunnelman
+käyttöön. Ominaisuuksia ostettaessa ei heitellä noppia.
+Saat käyttöösi 27 pistettä ja voit seuraavan taulukon mukaisilla
+hinnoilla ostaa itselle ominaisuudet. Ostettuasi ominaisuudet
+saat lisätä yhteen ominaisuuteen vielä 2 pistettä.
+
+| Ominaisuusarvo | Hinta |
+|:---------------|:------|
+| 8              | 0     |
+| 9              | 1     |
+| 10             | 2     |
+| 11             | 3     |
+| 12             | 4     |
+| 13             | 5     |
+| 14             | 7     |
+| 15             | 9     |
+
+## 5. Valitse vakaumus
+
+Sinulle on varmasti alkanut muodostua käsitys, minkälainen
+henkilö hahmosi on, ja nyt sinun on aika päättää. Onko hän
+hyvä, paha vai sellainen joka pitää huolen lähinnä vain omista
+asioistaan? Miten hän suhtautuu vallanpitäjiin ja noudattaako
+hän sääntöjä? Pohdiskeltuasi näitä lue [Vakaumus] kuvaukset
+eri vakaumuksista ja valitse niistä se, joka on hahmollesi sopiva
+ja sinua miellyttävä. Kysy myös pelinjohtajaltasi, ovatko jotkin
+vakaumukset sallittuja hänen pelissään. Kaikki eivät halua, että
+pelissä pelataan esimerkiksi pahoja hahmoja.
