@@ -267,3 +267,140 @@ eri vakaumuksista ja valitse niistä se, joka on hahmollesi sopiva
 ja sinua miellyttävä. Kysy myös pelinjohtajaltasi, ovatko jotkin
 vakaumukset sallittuja hänen pelissään. Kaikki eivät halua, että
 pelissä pelataan esimerkiksi pahoja hahmoja.
+
+## 6. Varusta hahmosi
+
+Seikkailija tarvitsee hengissä selviytyäkseen erinäisiä varusteita,
+kuten aseen ja usein panssarin. Aseet ja varusteet on lueteltu
+luvussa **Varusteet**. Saat taustasi ja hahmoluokkasi yhteydessä
+kuvatut varusteet sekä yhden satunnaisesti heitetyn pikkutavaran
+taulukosta Pikkutavara luvussa **Varusteet**. Kun olet
+kokeneempi, voit valmiiden aloitusvarusteiden sijaan varustaa
+hahmosi itse. Katso siinä tapauksessa luvun **Varusteet** osiosta
+Aloitusvarusteet paljonko hahmollasi on aloitusvaroja, osta
+haluamasi varusteet listoilta itse ja heitä itsellesi pikkutavara. Ei
+ole suositeltavaa ostaa enempää varusteita kuin hahmosi jaksaa
+kantaa. Tarkista hahmon kantokyky luvusta **Ominaisuudet**
+kohdasta **Voimakkuus**. Emme suosittele hahmon itse varustamista
+ensimmäistä hahmoa tehdessä. On myös hyvä tapa
+keskustella kampanjan tyylistä ennen varusteiden ostamista,
+jolloin voi varustautuessa varautua esimerkiksi erämaiden tai
+luolastojen aiheuttamiin haasteisiin.
+
+### Puolustus
+Puolustus kuvaa, kuinka hyvin hahmosi pystyy välttämään
+vahingoittumista taistelun tuoksinassa. Puolustukseen vaikuttavat
+haarniska, kilpi ja ketteryysmuuttuja. Ilman haarniskaa
+Puolustuksesi on 10 + ketteryysmuuttujasi. Jos hahmollasi on
+haarniska ja/tai kilpi, laske puolustuksesi luvun **Varusteet**
+osion **Haarniska** ja kilvet mukaan. Merkitse hahmosi puolustus
+hahmolomakkeelle.
+
+## Aseet
+Hahmollasi on todennnäköisesti varusteissaan aseita, joille
+täytyy laskea muuttujat hyökkäysheittoa ja vahinkoheittoa
+varten. Saat lisätä pätevyysbonuksesi niiden aseiden hyökkäyshei
+ttoihin, joihin sinulla on pätevyys. Lähitaisteluhyökkäyksien
+hyökkäys- ja vahinkoheittoihin lisätään voimakkuusmuuttujasi,
+paitsi niitä aseita käyttäessä, joilla on ominaisuus hienostunut.
+Hienostuneilla aseilla (esimerkiksi pistomiekka tai tikari) voit
+käyttää halutessasi ketteryysmuuttujaasi.
+Kantamahyökkäyksien hyökkäys- ja vahinkoheittoihin lisätään
+ketteryysmuuttujasi, paitsi niitä aseita käyttäessä, joilla on
+ominaisuus heitettävä. Heitettävillä aseilla, kuten kirves tai heittokeihäs,
+voit käyttää halutessasi voimakkuusmuuttujaasi.
+Aseiden tiedot löytyvät luvusta **Varusteet** osiosta **Aseet**.
+Merkitse lomakkeelle omistamiesi aseiden hyökkäysbonukset ja
+niiden tekemä vahinko muuttujien kera.
+
+## 7. Kaikki muu
+
+Kuvaile hahmoasi muutamalla sanalla. Voit kirjoittaa kuvauksesi
+ylös ja esittää sen muille pelaajille ja pelinjohtajalle.
+Mieti hahmosi historiaa. Tiedät suurin piirtein, minkälainen
+henkilö on ja minkälainen elämäntarina hänellä kenties on sen
+mukaan, mitä tämän tausta, luonteenpiirteet, ihanteet, siteet
+ja heikkoudet hänestä kertovat. Kysy myös pelinjohtajalta ehdotuksia,
+minkälaisia elämänvaiheita hahmollasi on voinut olla,
+kuten mistäpäin kampanjamaailmaa hän voisi olla kotoisin.
+Hahmosi sukupuoli on vapaasti määritettävissä tai sen voi jättää
+määrittämättä. Kaiken kruunaa se, että kehität hahmollesi 
+hyvän nimen, sillä hahmoasi kutsutaan pelaajan nimen sijaan
+hahmon nimellä, ja sillä nimellä hänen seikkailunsa tullaan
+tuntemaan maailmassa. Onnea ensimmäiseen seikkailuusi.
+Olkoot noppien tulokset aina sinulle suotuisia!
+
+### Tasot ja kokemus
+Hahmosi kerää kokemusta ja kehittyy kyvyissään seikkaillessaan
+ja päihittäessään haasteita. Kertynyttä kokemusta mitataan
+kokemuspisteinä ja hahmon kehitystä entistä kyvykkäämmäksi
+hänen tasollaan, joka nousee, kun hahmo saavuttaa tietyn
+määrän kokemuspisteitä. Tasonnousun yhteydessä hahmo saa
+luokastaan riippuen erilaisia uusia erikoisuuksia ja kykyjä.
+Pätevyysbonus kuvaa hahmon asiantuntevuutta ja osaamista.
+Sen kasvu kuvastaa hahmon kasvanutta itsevarmuutta ja myös
+uusien asioiden oppimista sekä vanhan osaamisen entistä harjaantuneempaa
+hallintaa.
+
+Jokaisen tasonnousun yhteydessä saat yhden hahmoluokan
+mukaisen osumapistenopan lisää. Heitä osumapistenoppaa,
+lisää noppatulokseen sitkeysmuuttujasi ja lisää tulos osumapisteisiisi
+ja osumapistemaksimiisi. Voit nopanheiton sijaan myös
+päättää ottaa hahmoluokkasi yhteydessä mainitun kiinteän
+luvun ja sitkeysmuuttujan summan verran lisää osumapisteitä.
+Jos hahmon sitkeys nousee sen verran, että ominaisuusmuuttuja
+kasvaa, lisätään kasvanut bonus jokaista kokemustasoa kohden.
+
+### Kokemustaulukko
+
+Seuraavasta taulukosta näet, kuinka paljon kokemuspisteitä tarvitset
+tasonnousuun sekä tason mukaisen pätevyysbonuksesi.
+
+| Kokemuspisteet | Taso | Pätevyysbonus |
+|:---------------|:-----|:--------------|
+| 0              | 1    | +2            |
+| 300            | 2    | +2            |
+| 900            | 3    | +2            |
+| 2 700          | 4    | +2            |
+| 6 500          | 5    | +3            |
+| 14 000         | 6    | +3            |
+| 23 000         | 7    | +3            |
+| 34 000         | 8    | +3            |
+| 48 000         | 9    | +4            |
+| 64 000         | 10   | +4            |
+| 85 000         | 11   | +4            |
+| 100 000        | 12   | +4            |
+| 120 000        | 13   | +5            |
+| 140 000        | 14   | +5            |
+| 165 000        | 15   | +5            |
+| 195 000        | 16   | +5            |
+| 225 000        | 17   | +6            |
+| 265 000        | 18   | +6            |
+| 305 000        | 19   | +6            |
+| 355 000        | 20   | +6            |
+
+## Peli eri tasoilla
+Hahmojen seikkailut ja pelaajien pelikokemus muuttuvat hahmojen
+noustessa tasoja. Seikkailijoiden kohtaamien haasteiden
+luonne ja mittakaava muuttuvat korkeammilla tasoilla.
+
+**Tasoilla 1-4 eli matalilla tasoilla** hahmot ovat aloittelevia, vasta
+taitojaan opettelevia seikkailijoita.
+Heidän kohtaamansa haasteet ovat yleensä lieviä ja uhkaavat
+korkeintaan pieniä kyliä tai syrjäseutujen asukkeja.
+
+**Tasoilla 5-10 eli keskitasolla hahmot** ovat kokeneita seikkailijoita,
+joilla on hallussaan hahmoluokkiensa oleellisimmat kyvyt
+ja taiat. Heidän kohtaamansa haasteet uhkaavat kaupunkeja ja
+kokonaisia kuningaskuntia.
+
+**Tasoilla 11-16 eli korkeilla tasoilla** hahmot ovat kyvyiltään
+suurimman osan väestä yläpuolella ja poikkeuksellisia jopa
+seikkailijoiden keskuudessa. Heidän kohtaamansa haasteet
+ovat sellaisia, että ne uhkaavat isoja alueita tai kokonaisia
+mantereita.
+
+**Tasoilla 17-20 eli eeppisillä tasoilla** hahmot ovat kyvyiltään
+huippuluokkaa ja tunnettuja, legendaarisia sankareita.
+Maailman tai koko maailmankaikkeuden kohtalo on heidän
+käsissään.
