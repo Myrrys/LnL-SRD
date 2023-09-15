@@ -122,7 +122,7 @@ voi käyttää kymmenen kertaa. Voit toimintona vakatt aa
 olennon, jolla on 0 osumapistettä ilman, etä sinun tarvitsee
 tehdä viisaus (lääketiede) heittoa.
 
-**Pullo pyhää vettä.** Voit toimintona levittää tämän pullon sisällön 2x2 metrin alueelle viereesi tai heittää sen korkeintaan 8 metrin päähän, jolloin se hajoaa osuessaan kiinteään pintaan tai esineeseen. Heitä hyökkäysheitto (pullo pyhää vettä lasketaan improvisoiduksi aseeksi). Osuessaan kohde saa 2n6 pistettä vahinkoa, jos se on piru tai epäkuollut.
+**Pullo pyhää vettä.** Voit toimintona levittää tämän pullon sisällön 2x2 metrin alueelle viereesi tai heittää sen korkeintaan 8 metrin päähän, jolloin se hajoaa osuessaan kiinteään pintaan tai esineeseen. Heitä hyökkäysheitto (pullo pyhää vettä lasketaan improvisoiduksi aseeksi). Osuessaan kohde saa 2n6 pistettä vahinkoa, jos se on *piru* tai *epäkuollut*.
 
 Temppeliritari tai paladiini voi pyhittää tavallista vettä pyhäksi
 vedeksi rituaalilla. Rituaali kestää tunnin, vaatii 25 kultarahan

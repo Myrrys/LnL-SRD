@@ -21,3 +21,11 @@ käyttäen toisen tai korkeamman piirin loitsuvarausta, loitsu luo
 yhden nuolen lisää jokaista loitsuvarauksen piiriä kohden, joka
 on ensimmäistä piiriä korkeammalla (esim. Neljännen piirin
 loitsuvaraus loisi 3 nuolta lisää, eli yhteensä 6 nuolta).
+
+----
+
+Ylätaso [Ensimmäisen piirin loitsut](1.piirin_loitsut.md)
+
+Edellinen [Naurukohtaus](Naurukohtaus.md)
+
+Seuraava [Nopea pako](Nopea_pako.md)
