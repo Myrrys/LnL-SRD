@@ -17,7 +17,7 @@ lieskat ympäröivät tämän hetkellisesti. Olento joutuu heittämään
 ketteryyspelastusheiton. Epäonnistuessaan se kärsii 2n10
 tulivahinkoa. Onnistuminen puolittaa vahingon
 
-**Korkeammilla loitsuvarauksilla.** Kun loitsit hornankoston
+**Korkeammilla loitsuvarauksilla.** Kun loitsit ***hornankoston***
 käyttäen toisen tai korkeamman piirin loitsuvarausta, vahinko
 nousee 1n10 jokaista loitsuvarauksen piiriä kohden, joka on
 ensimmäistä piiriä korkeammalla.

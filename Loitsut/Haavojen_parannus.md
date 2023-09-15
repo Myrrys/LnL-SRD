@@ -14,7 +14,7 @@ Olento, jota kosketat, saa välittömästi takaisin 1n8+loitsimisominaisuutesi
 muuttujan verran osumapisteitä. Tämä loitsu ei
 vaikuta epäkuolleisiin tai rakennelmiin.
 
-**Korkeammilla loitsuvarauksilla.** Kun loitsit haavojen parannuksen
+**Korkeammilla loitsuvarauksilla.** Kun loitsit ***haavojen parannuksen***
 käyttäen toisen tai korkeamman piirin loitsuvarausta,
 parantaa se 1n8 osumapistettä lisää jokaista loitsuvarauksen
 piiriä kohden, joka on ensimmäistä piiriä korkeammalla.

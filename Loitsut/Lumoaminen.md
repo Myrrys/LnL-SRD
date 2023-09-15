@@ -19,7 +19,7 @@ liittolaisesi teette jotain, joka vahingoittaa häntä. *Lumottu* olento
 pitää sinua ystävällismielisinä tuttuna tai ystävänä. Loitsun
 loputtua olento tietää tulleensa sinun lumoamaksi.
 
-**Korkeammilla loitsuvarauksilla.** Kun loitsit lumoamisen
+**Korkeammilla loitsuvarauksilla.** Kun loitsit ***lumoamisen***
 käyttäen toisen tai korkeamman piirin loitsuvarausta, loitsu
 vaikuttaa yhteen olentoon lisää jokaista loitsuvarauksen piiriä
 kohden, joka on ensimmäistä piiriä korkeammalla (esim.

@@ -13,7 +13,7 @@
 Teet lähitaisteluhyökkäyksen olentoa vastaan, joka on ulottuvillasi.
 Osuessasi kohde kärsii 3n10 kuolonvahinkoa.
 
-**Korkeammilla loitsuvarauksilla.** Kun loitsit haavoittamisen
+**Korkeammilla loitsuvarauksilla.** Kun loitsit ***haavoittamisen***
 käyttäen toisen tai korkeamman piirin loitsuvarausta, vahinko
 nousee 1n10 jokaista loitsuvarauksen piiriä kohden, joka on
 ensimmäistä piiriä korkeammalla.

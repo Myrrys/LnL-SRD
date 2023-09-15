@@ -13,7 +13,7 @@
 Loitsun kantamalla 8x8 metrin alueella maasta alkaa puskea
 kiinni takertuvia rikkaruohoja, köynnöksiä ja juuria. Loitsun
 keston ajan maasto on vaikeaa, ja jokainen, joka on alueella
-loitsiessasi kampituksen joutuu heittämään voimakkuuspelastusheiton
+loitsiessasi ***kampituksen*** joutuu heittämään voimakkuuspelastusheiton
 tai on *sidottu*. Olento voi vapautua käyttämällä
 toimintonsa voimakkuusheittoon loitsun pelastusheiton vaikeusastetta
 vastaan. Loitsun päätyttyä sen kutsuma ja kasvattama

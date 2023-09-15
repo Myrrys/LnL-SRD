@@ -18,8 +18,8 @@ sinulla on *etu* viisausheittoihin (tarkkaavaisuus ja selviytyminen) jäljittäe
 laskevat nollaan ennen kuin loitsun kesto on kulunut
 loppuun, voit valita uuden kohteen.
 
-**Korkeammilla loitsuvarauksilla.** Kun loitsit metsästäjän
-merkin käyttäen kolmannen tai neljännen piirin loitsuvarausta,
+**Korkeammilla loitsuvarauksilla.** Kun loitsit ***metsästäjän
+merkin*** käyttäen kolmannen tai neljännen piirin loitsuvarausta,
 voit pitää keskittymisellä loitsua yllä 8 tuntia. Käyttäessäsi
 viidennen piirin loitsuvarauksen voit keskittyä pitämään loitsua
 yllä 24 tuntia.

@@ -13,7 +13,7 @@
 Näkymätön maagisen energian voimakenttä ilmestyy suojaamaan
 sinua. Sinulla on seuraavan vuorosi alkuun saakka +5
 bonus puolustukseen, myös sitä hyökkäystä vastaan, johon reaktiona
-loitsit kilven. [Noidannuoli](Noidannuoli.md) ei aiheuta sinuun lainkaan
+loitsit ***kilven***. [Noidannuoli](Noidannuoli.md) ei aiheuta sinuun lainkaan
 vahinkoa loitsiessasi kilven reaktiona siihen.
 
 ----
