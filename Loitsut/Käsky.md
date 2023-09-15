@@ -13,7 +13,7 @@
 Sanot yhden sanan mittaisen komennon olennolle loitsun kantamalla.
 Kohteen täytyy onnistua viisauspelastusheitossa tai
 hänen on toteltava käskyä seuraavalla vuorollaan. Loitsu ei tehoa
-epäkuolleisiin eikä kohteeseen, joka ei ymmärrä puhumaasi
+*epäkuolleisiin* eikä kohteeseen, joka ei ymmärrä puhumaasi
 kieltä tai kohteeseen, jolle käsky aiheuttaisi suoraan vahinkoa
 (esim. jos käsket kohdetta lähestymään, mutta välissänne on
 syvä kuoppa, jonka kohde näkee). Loitsun vaikutus päättyy, jos

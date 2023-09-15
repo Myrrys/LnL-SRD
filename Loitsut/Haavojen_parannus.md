@@ -12,7 +12,7 @@
 
 Olento, jota kosketat, saa välittömästi takaisin 1n8+loitsimisominaisuutesi
 muuttujan verran osumapisteitä. Tämä loitsu ei
-vaikuta epäkuolleisiin tai rakennelmiin.
+vaikuta *epäkuolleisiin* tai *rakennelmiin*.
 
 **Korkeammilla loitsuvarauksilla.** Kun loitsit ***haavojen parannuksen***
 käyttäen toisen tai korkeamman piirin loitsuvarausta,

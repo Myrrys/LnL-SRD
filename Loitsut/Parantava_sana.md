@@ -12,8 +12,8 @@
 
 Olento kantamalla, johon sinulla on näköyhteys, saa välittömästi
 takaisin 1n4+loitsimisominaisuutesi bonuksen verran
-osumapisteitä. Tämä loitsu ei vaikuta epäkuolleisiin tai
-rakennelmiin.
+osumapisteitä. Tämä loitsu ei vaikuta *epäkuolleisiin* tai
+*rakennelmiin*.
 
 **Korkeammilla loitsuvarauksilla.** Kun loitsit ***parantavan sanan*** käyttäen toisen tai korkeamman piirin loitsuvarausta, parantaa
 se 1n4 osumapistettä lisää jokaista loitsuvarauksen piiriä

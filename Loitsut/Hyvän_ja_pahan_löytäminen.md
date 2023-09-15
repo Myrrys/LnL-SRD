@@ -10,8 +10,8 @@
 
 **Kesto:** keskittyminen, enintään 10 minuuttia
 
-Loitsun keston ajan aistit elementaalien, epäkuolleiden, epäsikiöiden,
-keijujen, pirujen ja taivaallisten läsnäolon ja tarkan
+Loitsun keston ajan aistit *elementaalien*, *epäkuolleiden*, *epäsikiöiden*,
+*keijujen*, *pirujen* ja *taivaallisten* läsnäolon ja tarkan
 sijainnin korkeintaan 12 metrin etäisyydellä itsestäsi. Samalla
 aistit myös alueet ja esineet loitsun kantamalla, jos ne ovat
 pyhiä tai epäpyhiä.

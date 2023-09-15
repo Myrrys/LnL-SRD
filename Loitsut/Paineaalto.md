@@ -20,7 +20,7 @@ esineet, joita ei ole kiinnitetty paikalleen, tulevat automaattisesti
 pusketuksi 4 metrin päähän. Paineaallon jyrähdys kuuluu 120
 metrin päähän.
 
-**Korkeammilla loitsuvarauksilla.** Kun loitsit paineaallon
+**Korkeammilla loitsuvarauksilla.** Kun loitsit ***paineaallon***
 käyttäen toisen tai korkeamman piirin loitsuvarausta, vahinko
 nousee 1n8 jokaista loitsuvarauksen piiriä kohden, joka on
 ensimmäistä piiriä korkeammalla.

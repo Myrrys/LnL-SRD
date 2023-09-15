@@ -10,7 +10,7 @@
 
 **Kesto:** välitön
 
-Kosketat elävää olentoa, jolla on 0 osumapistettä. Olennon tilasta tulee vakaa. Tämä loitsu ei vaikuta olentoihin, jotka ovat epäkuolleita tai rakennelmia.
+Kosketat elävää olentoa, jolla on 0 osumapistettä. Olennon tilasta tulee vakaa. Tämä loitsu ei vaikuta olentoihin, jotka ovat *epäkuolleita* tai *rakennelmia*.
 
 ----
 
