@@ -100,7 +100,7 @@ taikasauva. Loihtija, noita tai velho voi käyttää maaginfokusta
 loitsufokuksena.
 
 **Muurinmurtaja.** Saat +4 bonuksen voimakkuusheittoihin
-murtaessasi ovia muurinmurtajalla. Saat edun voimakkuus-
+murtaessasi ovia muurinmurtajalla. Saat *edun* voimakkuus-
 heittoon, jos joku auttaa sinua muurinmurtajan käytössä.
 
 **Myrkkypullo.** Voit levittää tämän pullon myrkyn yhteen viiltävään
@@ -118,7 +118,7 @@ nuolta tai jotain muuta.
 
 **Parantajan välineet**.** Parantajan välineisiin kuuluu sidetarpeita,
 parantavia voiteita ja lastoitustarvikkeet. Parantajan välineitä
-voi käyttää kymmenen kertaa. Voit toimintona vakatt aa
+voi käyttää kymmenen kertaa. Voit toimintona vakauttaa
 olennon, jolla on 0 osumapistettä ilman, etä sinun tarvitsee
 tehdä viisausheittoa (lääketiede).
 
@@ -136,7 +136,7 @@ ensimmäisen tason loitsuvaraus.
 **Soihtu.** Soihtu palaa 1 tunnin ja valaisee kirkkaasti 8 metrin päähän ja himmeästi 8 metriä siitä eteenpäin.
 Soihtu tekee osuessaan 1 pisteen vahinkoa, jos käytät sitä lähitaisteluhyökkäykseen.
 
-**Sorkkarauta.** Sorkkarauta antaa *edun* voimakkuus -heittoihin, joissa vipuvarresta on hyötyä.
+**Sorkkarauta.** Sorkkarauta antaa *edun* voimakkuusheittoihin, joissa vipuvarresta on hyötyä.
 
 **Sudenraudat.** Voit käyttää toiminnon asettaaksesi ansan. Sudenrautojen ketju kiinnitetään puuhun tai maahan lyötyyn keppiin. Kun kohde astuu ansan painelaatalle, raudat sulkeutuvat. Olennon tulee onnistua VA 13 ketteryyspelastusheitossa tai se
 saa 1n4 pistovahinkoa ja ei voi enää liikkua. Olento voi käyttää toiminnon ja yrittää VA 13 voimakkuusheittoa vapautuakseen, tai joku toinen voi yrittää samaa heittoa vapauttaakseen olennon raudoista. Epäonnistuessaan olento saa 1 pisteen pistovahinkoa.

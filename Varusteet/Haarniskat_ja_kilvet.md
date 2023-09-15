@@ -23,7 +23,7 @@ myöskään loitsia haarniska päälläsi.
 
 | Kevyt panssari         | Hinta | Puolustus (PL) | Voimakkuus | Hiipiminen | Paino |
 |------------------------|-------|----------------|------------|------------|-------|
-|Topattu panssari        | 5 kr  | 11 + KET       | -          |Haitta      | 4 kg  |
+|Topattu panssari        | 5 kr  | 11 + KET       | -          | Haitta     | 4 kg  |
 |Nahkapanssari           | 10 kr | 11 + KET       | -          | -          | 5 kg  |
 |Kovetettu nahkapanssari | 45 kr | 12 + KET       | -          | -          | 6 kg  |
 
