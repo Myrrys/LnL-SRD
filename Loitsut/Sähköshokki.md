@@ -10,7 +10,7 @@
 
 **Kesto:** välitön
 
-Kätesi salamoivat iskien sähköiskun olentoon, jota yrität koskettaa. Tee lähitaisteluhyökkäys kohteeseen. Saat edun hyökkäykseesi, jos kohteella on yllään metallinen haarniska. Osuessasi kohde kärsii 1n8 salamavahinkoa. Tämän lisäksi hän ei saa tehtyä reaktioita ennen seuraavan vuoronsa alkua. Loitsun vaurio kasvaa 1n8 viidennellä tasolla (2n6), tasolla 11 (3n8) ja tasolla 17 (4n8).
+Kätesi salamoivat iskien sähköiskun olentoon, jota yrität koskettaa. Tee lähitaisteluhyökkäys kohteeseen. Saat *edun* hyökkäykseesi, jos kohteella on yllään metallinen haarniska. Osuessasi kohde kärsii 1n8 salamavahinkoa. Tämän lisäksi hän ei saa tehtyä reaktioita ennen seuraavan vuoronsa alkua. Loitsun vaurio kasvaa 1n8 viidennellä tasolla (2n6), tasolla 11 (3n8) ja tasolla 17 (4n8).
 
 ----
 

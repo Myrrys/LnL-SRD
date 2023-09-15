@@ -1,6 +1,6 @@
 # Ruoka, juoma ja majoitus
 
-Seuraavissa taulukoissa on anne  u hinnat yksi  äisille elintarvikkeille
+Seuraavissa taulukoissa on annettu hinnat yksittäisille elintarvikkeille
 ja majoitukselle. Nämä kulut on huomioitu jo
 elintasokuluissasi.
 

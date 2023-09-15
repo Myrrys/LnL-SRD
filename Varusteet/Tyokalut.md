@@ -6,7 +6,7 @@ Työkalupätevyys tarkoittaa sitä, että voit lisätä pätevyysbonuksesi omina
 
 Pätevyys jonkin työkalun käyttöön ei ole sidottu mihinkään
 tiettyyn ominaisuuteen, koska se kuvastaa laaja-alaisempaa
-tietämystä. Pelinjohtaja voi esimerkiksi pyytää sinua tekemään ketteryys-heiton, kun kaiverrat hienoa yksityiskohtaa puunkaivertajan työkaluilla tai voimakkuus-heiton, kun työstät äärimmäisen kovaa puuta.
+tietämystä. Pelinjohtaja voi esimerkiksi pyytää sinua tekemään ketteryysheiton, kun kaiverrat hienoa yksityiskohtaa puunkaivertajan työkaluilla tai voimakkuusheiton, kun työstät äärimmäisen kovaa puuta.
 
 **Käsityöläisen työkalut.** Näillä työkaluilla pystytään harjoittamaan jotain tiettyä käsityöläisammattia. Käsityöläisen työkaluissa on listattuna useamman ammatin työkaluja. Työkalupätevyys antaa sinun lisätä pätevyysbonuksesi ominaisuusheittoihin, jotka liittyvät kyseisen ammatin harjoittamiseen. Jokainen käsityöläisen työkalu vaatii oman pätevyytensä.
 
