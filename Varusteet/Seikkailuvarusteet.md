@@ -15,7 +15,7 @@ hajoaa osuessaan kiinteään pintaan tai esineeseen. Heitä hyökkäysheitto
 
 Osuessaan kohde kärsii 1n4 pistettä tulivahinkoa joka vuoronsa
 aluksi. Kohde voi yrittää sammuttaa tulen käyttämällä toiminnon
-ja yrittämällä VA 10 ketteryys-heittoa.
+ja yrittämällä VA 10 ketteryysheittoa.
 
 **Druidin talismaani.** Druidin talismaani voi olla mistelin
 oksa, kuusesta tai muusta pyhästä puusta tehty taikasauva, elävästä
@@ -36,7 +36,7 @@ valoa viereesi.
 
 **Jalkapiikki.** Voit toimintona levittää säkillisen jalkapiikkejä
 yhdelle 2x2 metrin alueelle. Minkä tahansa olennon, joka
-astuu alueelle, täytyy onnistua VA 15 ketteryys-pelastusheitossa
+astuu alueelle, täytyy onnistua VA 15 ketteryyspelastusheitossa
 tai lopettaa liikkeensä kyseiselle alueelle ja samalla kärsiä 1
 pisteen verran pistovahinkoa. Tämän vahingon jälkeen olennon
 kulkunopeus laskee 4 metrin verran siihen asti, kunnes se saa
@@ -44,15 +44,15 @@ takaisin vähintään yhden osumapisteen.
 
 **Kahleet.** Rautaisilla kahleilla voi sitoa pienen tai keskikokoisen
 olennon. Kahleista vapautumiseen vaaditaan onnistunut VA 20
-voimakkuus-heitto. Kahleet voi avata ilman avainta onnistuneella
-VA 15 ketteryys-heitolla, jos avaajalla on varkaan työkalujen
+voimakkuusheitto. Kahleet voi avata ilman avainta onnistuneella
+VA 15 ketteryysheitolla, jos avaajalla on varkaan työkalujen
 tiirikka käytössään. Kahleilla on 15 osumapistettä.
 
 **Kalastusvälineet.** Kalastusvälinepaketissa on mukana puinen
 onkivapa, siimaa, pari kohoa, koukkuja, painoja, vieheitä ja
 pienet kalaverkot.
 
-**Kartan suojaputki.** Tähän koteloon mahtuu rulla  una kymmenen
+**Kartan suojaputki.** Tähän koteloon mahtuu rullattuna kymmenen
 paperia tai viisi pergamenttia.
 
 **Kaukoputki.** Kohteet näkyvät kaksi kertaa suurempina.
@@ -60,7 +60,7 @@ Kauppiaan vaaka. Vaa’an mukana tulee kilon verran
 punnuksia.
 
 **Ketju.** Ketjulla on 10 osumapistettä. Kahlehdittu olento voi
-katkaista kahleet onnistuneella VA 20 voimakkuus-heitolla.
+katkaista kahleet onnistuneella VA 20 voimakkuusheitolla.
 
 **Kiipeilyvälineet.** Kiipeilyvarusteisiin kuuluu kiiloja, valjaat,
 kenkien jääraudat ja hansikkaat. Voit ankkuroida itsesi paikalleen,
@@ -70,8 +70,8 @@ ankkurointipisteestä irroittamatta ankkuria.
 
 **Kuulia.** Voit toimintona levittää nämä kuulat 4x4 metrin
 kokoiselle alueelle. Tuon alueen läpi kulkevan olennon tulee
-onnistua VA 10 ketteryys-pelastusheitossa tai se putoaa maihin.
-Jos olento puoli  aa kulkunopeutensa ja kulkee varovasti tämän
+onnistua VA 10 ketteryyspelastusheitossa tai se putoaa maihin.
+Jos olento puolittaa kulkunopeutensa ja kulkee varovasti tämän
 alueen läpi, ei pelastusheittoa tarvita.
 
 **Kuivamuona.** Kuivamuonaan kuuluu esimerkiksi kuivalihaa,
@@ -81,13 +81,13 @@ metrin päähän ja himmeästi yhden kahden metrin verran siitä
 eteenpäin.
 
 **Köysi.** Köydellä on 2 osumapistettä. Köysiin sidottu olento voi
-katkaista köydet onnistuneella VA 17 voimakkuus-heitolla.
+katkaista köydet onnistuneella VA 17 voimakkuusheitolla.
 Lamppu. Lamppu valaisee kirkkaasti kuuden metrin päähän
 ja himmeästi kuusi metriä siitä eteenpäin. Lampun öljy palaa 6
 tuntia.
 
 **Lukko.** Lukon voi tiirikoida auki varkaan työkalujen tiirikkaa
-käy  äen onnistuneella VA 15 ketteryys-heitolla. Pelinjohtajan
+käyttäen onnistuneella VA 15 ketteryysheitolla. Pelinjohtajan
 päätöksellä hahmot voivat ostaa korkeammalla hinnalla vaikeammin
 tiirikoitavia lukkoja.
 
@@ -96,17 +96,17 @@ tiirikoitavia lukkoja.
 
 **Maaginfokus.** Maaginfokus on jokin maagisia voimia
 kanavoiva esine, kuten kristallipallo, kristalli, sauva tai
-taikasauva. Loihtija, noita tai velho voi käy  ää maaginfokusta
+taikasauva. Loihtija, noita tai velho voi käyttää maaginfokusta
 loitsufokuksena.
 
-**Muurinmurtaja.** Saat +4 bonuksen voimakkuus-hei  oihin
+**Muurinmurtaja.** Saat +4 bonuksen voimakkuusheittoihin
 murtaessasi ovia muurinmurtajalla. Saat edun voimakkuus-
-heittoon, jos joku au  aa sinua muurinmurtajan käytössä.
+heittoon, jos joku auttaa sinua muurinmurtajan käytössä.
 
 **Myrkkypullo.** Voit levittää tämän pullon myrkyn yhteen viiltävään
 tai pistävään aseeseen tai kolmeen ammukseen. Levittäminen
 vaatii toiminnon käyttämisen. Kohteen, johon osutaan
-myrkytetyllä aseella, täytyy tehdä VA 10 sitkeys-pelastusheitto.
+myrkytetyllä aseella, täytyy tehdä VA 10 sitkeyspelastusheitto.
 Jos pelastusheitto epäonnistuu, kohde kärsii 1n4 pistettä myrkkyvahinkoa.
 Myrkky kuivuu tehottomaksi 1 minuutissa.
 
@@ -120,13 +120,13 @@ nuolta tai jotain muuta.
 parantavia voiteita ja lastoitustarvikkeet. Parantajan välineitä
 voi käyttää kymmenen kertaa. Voit toimintona vakatt aa
 olennon, jolla on 0 osumapistettä ilman, etä sinun tarvitsee
-tehdä viisaus (lääketiede) heittoa.
+tehdä viisausheittoa (lääketiede).
 
 **Pullo pyhää vettä.** Voit toimintona levittää tämän pullon sisällön 2x2 metrin alueelle viereesi tai heittää sen korkeintaan 8 metrin päähän, jolloin se hajoaa osuessaan kiinteään pintaan tai esineeseen. Heitä hyökkäysheitto (pullo pyhää vettä lasketaan improvisoiduksi aseeksi). Osuessaan kohde saa 2n6 pistettä vahinkoa, jos se on piru tai epäkuollut.
 
 Temppeliritari tai paladiini voi pyhittää tavallista vettä pyhäksi
 vedeksi rituaalilla. Rituaali kestää tunnin, vaatii 25 kultarahan
-arvon edestä hopeajauhe  a, ja rituaalin tekijän tulee käyttää
+arvon edestä hopeajauhetta, ja rituaalin tekijän tulee käyttää
 ensimmäisen tason loitsuvaraus.
 
 **Pyhä symboli.** Pyhä symboli edustaa kantajansa uskoa. Niitä voivat olla esimerkiksi amuletit, pyhäinjäännöslippaat ja symbolit kilvissä tai muissa esineissä. Temppeliritarit ja paladiinit voivat käyttää pyhää symbolia loitsufokuksena pitäessään sitä käsissään.
@@ -136,19 +136,20 @@ ensimmäisen tason loitsuvaraus.
 **Soihtu.** Soihtu palaa 1 tunnin ja valaisee kirkkaasti 8 metrin päähän ja himmeästi 8 metriä siitä eteenpäin.
 Soihtu tekee osuessaan 1 pisteen vahinkoa, jos käytät sitä lähitaisteluhyökkäykseen.
 
-**Sorkkarauta.** Sorkkarauta antaa edun voimakkuus -hei  oihin, joissa vipuvarresta on hyötyä.
+**Sorkkarauta.** Sorkkarauta antaa *edun* voimakkuus -heittoihin, joissa vipuvarresta on hyötyä.
 
-**Sudenraudat.** Voit käyttää toiminnon asettaaksesi ansan. Sudenrautojen ketju kiinnitetään puuhun tai maahan lyötyyn keppiin. Kun kohde astuu ansan painelaatalle, raudat sulkeutuvat. Olennon tulee onnistua VA 13 ketteryys-pelastusheitossa tai se
-saa 1n4 pistovahinkoa ja ei voi enää liikkua. Olento voi käyttää toiminnon ja yrittää VA 13 voimakkuus-heittoa vapautuakseen, tai joku toinen voi yrittää samaa heittoa vapauttaakseen olennon raudoista. Epäonnistuessaan olento saa 1 pisteen pistovahinkoa.
+**Sudenraudat.** Voit käyttää toiminnon asettaaksesi ansan. Sudenrautojen ketju kiinnitetään puuhun tai maahan lyötyyn keppiin. Kun kohde astuu ansan painelaatalle, raudat sulkeutuvat. Olennon tulee onnistua VA 13 ketteryyspelastusheitossa tai se
+saa 1n4 pistovahinkoa ja ei voi enää liikkua. Olento voi käyttää toiminnon ja yrittää VA 13 voimakkuusheittoa vapautuakseen, tai joku toinen voi yrittää samaa heittoa vapauttaakseen olennon raudoista. Epäonnistuessaan olento saa 1 pisteen pistovahinkoa.
 
-**Suurennuslasi.** Suurennuslasilla voi sytyttää tulen kirkkaalla säällä, kunhan käytössä on sytykkeitä. Tulen sytyttäminen tällä tavoin kestää 5 minuuttia Suurennuslasi antaa myös edun heittoihin, kun pitää tarkastella jotain pientä tai yksityiskohtaista.
+**Suurennuslasi.** Suurennuslasilla voi sytyttää tulen kirkkaalla säällä, kunhan käytössä on sytykkeitä. Tulen sytyttäminen tällä tavoin kestää 5 minuuttia Suurennuslasi antaa myös *edun* heittoihin, kun pitää tarkastella jotain pientä tai yksityiskohtaista.
 
 **Tulusrasia.** Soihdun sytyttäminen tuluksilla vaatii toiminnon. Muunlaisen tulen sytyttäminen vie 1 minuutin.
 
 **Vasamakotelo.** Tähän puiseen koteloon mahtuu 20 varsijousen vasamaa.
 
-**Vastamyrkky.** Vastamyrkyn juominen antaa edun pelastusheittoihin myrkkyjä vastaan.
-Vinssi. Vinssin avulla voi nostaa 4 kertaa painavampia taakkoja
+**Vastamyrkky.** Vastamyrkyn juominen antaa *edun* pelastusheittoihin myrkkyjä vastaan.
+
+**Vinssi.** Vinssin avulla voi nostaa 4 kertaa painavampia taakkoja
 kuin voisit normaalisti nostaa.
 
 **Öljypullo.** Voit toimintona levittää tämän pullon sisällön 2x2 metrin alueelle viereesi tai heittää sen korkeintaan 8 metrin päähän, jolloin se hajoaa osuessaan kiinteään pintaan tai esineeseen. Heitä hyökkäysheitto (öljypullo lasketaan improvisoiduksi

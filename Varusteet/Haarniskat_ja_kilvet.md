@@ -7,7 +7,7 @@ hinnat, painot ja muut ominaisuudet.
 mutta niiden kanssa tehokas toimiminen vaatii koulutusta ja totuttelua. Hahmoluokkasi voi antaa 
 sinulle pätevyyden joidenkin haarniskatyyppien käyttämiseen.
 
-Jos pidät päälläsi haarniskaa, jonka käyttämiseen sinulla ei ole pätevyyttä, saat haitan ketteryyteen 
+Jos pidät päälläsi haarniskaa, jonka käyttämiseen sinulla ei ole pätevyyttä, saat *haitan* ketteryyteen 
 tai voimakkuuteen liittyviin ominaisuusheittoihin, pelastusheittoihin ja hyökkäysheittoihin, etkä voi
 myöskään loitsia haarniska päälläsi.
 
@@ -15,7 +15,7 @@ myöskään loitsia haarniska päälläsi.
 
 **Voimakkuus.** Raskaat panssarit hidastavat hahmoa, jolla ei ole tarpeeksi voimaa sen kantamiseen. Jos haarniskataulukossa lukee voimakkuus 13 tai voimakkuus 15 ja voimakkuutesi ei täytä tuollaista vaatimusta, nopeutesi hidastuu neljällä metrillä.
 
-**Hiipiminen.** Jos haarniskataulukossa lukee ”Haitta”, saa hahmo *haitan* ketteryys (hiipiminen) heittoihin.
+**Hiipiminen.** Jos haarniskataulukossa lukee ”Haitta”, saa hahmo *haitan* ketteryysheittoihin (hiipiminen).
 
 **Kilvet.** Kilven käyttäminen korottaa puolustustasi kahdella pisteellä.
 
@@ -83,7 +83,7 @@ rintakehää ja keskivartaloa suojaavasta metallihaarniskasta ja
 raajoja sekä alavartaloa suojaavasta nahkahaarniskasta.
 
 **Puolipanssari.** Puolipanssari koostuu muotoon taotuista irtometallilevyistä,
-jotka suojaavat suurinta osaa käy  äjän kehosta.
+jotka suojaavat suurinta osaa käyttäjän kehosta.
 Jalkojen suojana on metalliset säärisuojat, jotka kiinnitetään nahkahihnalla.
 
 ### Raskas panssari
