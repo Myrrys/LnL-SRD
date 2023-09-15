@@ -1,8 +1,8 @@
 # Hahmonluonnin vaiheet
 
 Tässä osiossa opastetaan vaihe vaiheelta, kuinka hahmo luodaan.
-Jos olet tekemässä hahmoa ensimmäistä kertaa, kanna
-ttaa lukea lajeista, taustoista ja hahmoluokista tarkemmin
+Jos olet tekemässä hahmoa ensimmäistä kertaa, kannattaa 
+lukea lajeista, taustoista ja hahmoluokista tarkemmin
 niiden omista osioista. Jokaisen osion lopusta löytyy kuva, jossa
 on esitetty ne tiedot, mitä hahmolomakkeelle pitäisi sen osion
 pohjalta lisätä.
@@ -59,8 +59,8 @@ asiantuntija. Teet tarpeen mukaan muitakin kovia ja vaativia
 töitä, mutta vain rahasta.
 
 ### Akolyytti
-Olet suorittanut pappisvihkimyksen tai vastaavat riitit. Et välttämä
-ttä ole temppeliritari, mutta suurimman osan elämästäsi
+Olet suorittanut pappisvihkimyksen tai vastaavat riitit. Et välttämättä 
+ole temppeliritari, mutta suurimman osan elämästäsi
 olet ollut uskon asialla.
 
 ### Alkemisti
@@ -299,8 +299,8 @@ hahmolomakkeelle.
 ## Aseet
 Hahmollasi on todennnäköisesti varusteissaan aseita, joille
 täytyy laskea muuttujat hyökkäysheittoa ja vahinkoheittoa
-varten. Saat lisätä pätevyysbonuksesi niiden aseiden hyökkäyshei
-ttoihin, joihin sinulla on pätevyys. Lähitaisteluhyökkäyksien
+varten. Saat lisätä pätevyysbonuksesi niiden aseiden hyökkäysheittoihin, 
+joihin sinulla on pätevyys. Lähitaisteluhyökkäyksien
 hyökkäys- ja vahinkoheittoihin lisätään voimakkuusmuuttujasi,
 paitsi niitä aseita käyttäessä, joilla on ominaisuus hienostunut.
 Hienostuneilla aseilla (esimerkiksi pistomiekka tai tikari) voit
