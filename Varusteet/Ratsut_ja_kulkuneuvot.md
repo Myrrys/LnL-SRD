@@ -23,7 +23,7 @@ kuin tavallinen humanoidille tehty haarniska.
 
 **Satulat**. Sotilassatula tukee ratsastajaa ja estää häntä putoamasta
 taistelun aikana ratsunsa selästä. Sotilassatulan käyttäjällä
-on etu kaikkiin heittoihin koskien ratsun selässä pysymistä.
+on *etu* kaikkiin heittoihin koskien ratsun selässä pysymistä.
 Erikoinen satula on tarkoitettu lentävän tai merenalaisen ratsun
 selkään.
 

@@ -4,11 +4,11 @@ viljana, maaomaisuutena, oikeutena kerätä veroja tai oikeuksina
 johonkin luonnonvaraan, kuten kaivokseen tai metsään.
 Killat, aatelisto ja kuninkaalliset säätelevät kaupankäyntiä.
 Erioikeuskirjalla varustetut yhtiöt
-maksavat tie  yjen rei  ien ja satamien käytöstä tai jopa yksinoikeudesta
-ostaa tie  yjä hyödykkeitä. Killat ase  avat tuo  eille
+maksavat tiettyjen reittien ja satamien käytöstä tai jopa yksinoikeudesta
+ostaa tiettyjä hyödykkeitä. Killat asettavat tuotteille
 ja palveluille haluamansa hinnan ja määräävät, kuka niitä saa
-tarjota ja missä. Kauppiaat vaihtavat tavaraa ilman, e  ä rahaa
-käytetään. Kauppatavarataulukko näy  ää yleisimpien kauppatavaroiden
+tarjota ja missä. Kauppiaat vaihtavat tavaraa ilman, että rahaa
+käytetään. Kauppatavarataulukko näyttää yleisimpien kauppatavaroiden
 arvon.
 
 ## Kauppatavarataulukko

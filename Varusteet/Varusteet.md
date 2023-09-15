@@ -11,19 +11,19 @@ Seikkailijalle löytyy kaikkea kuviteltavissa olevaa varustetta,
 mitä hän voi retkillään ikinä tarvita. Rajaseudun linnoitutetussa
 pikkukylässä taasen myydään lähinnä tarvikkeita tutkimusmatkailijoille,
 jotka varustautuvat viimeistä kertaa ennen
-tuntema  omille maille suuntaamista.
+tuntemattomille maille suuntaamista.
 
 Varustautuminen on osa seikkailijan työtä, kävi se missä
 maailman kolkassa tahansa, oli valikoima laaja tai suppea, ja oli
-kauppana kokonainen kauppakor  eli tai sekatavarakauppa rajaseudulla.
+kauppana kokonainen kauppakortteli tai sekatavarakauppa rajaseudulla.
 Koskaan ei tiedä, milloin kieppi köyttä tai sorkkarauta
-on tarpeen - puhuma  akaan aseesta, jolla puolustaa itseään.
+on tarpeen - puhumattakaan aseesta, jolla puolustaa itseään.
 
 ## Aloitusvarusteet
 Luodessasi hahmon saat varusteita taustaasi ja hahmoluokkaasi
 liittyen. Voi olla, että haluat kuitenkin päättää itsenäisemmin
 monipuolisemmasta valikoimasta varusteita. Heitä hahmollesi
-aloitusvarat seuraavan taulukon mukaisesti, jos haluat pää  ää
+aloitusvarat seuraavan taulukon mukaisesti, jos haluat päättää
 varusteet itse. Osta varusteet hahmosi varojen rajoissa. Sinä
 itse päätät, miten hahmosi pääsi näihin varusteisiin käsiksi.
 Ehkä hän peri ne, sai ostettua ne säästöillään tai jopa varasti ne
@@ -96,7 +96,7 @@ Yksi kolikko painaa 30 grammaa ja 100 kolikkoa painaa 3 kiloa.
 Tulet seikkailujen aikana poimimaan mukaasi aarteita, varusteita,
 aseita, haarniskoita ja joskus melkein mitä tahansa, mitä
 ei ole naulattu kiinni lattiaan. Yleensä voit myydä aarteet ja
-muut löytösi lähimmässä kaupungissa ole  aen, että siellä on
+muut löytösi lähimmässä kaupungissa olettaen, että siellä on
 kauppiaita ja muita ostajia, jotka ovat kiinnostuneita niistä.
 
 **Aseet, haarniskat ja muut varusteet.** Yleensä vahingoittumattomista 
@@ -114,7 +114,7 @@ muutaman kultakolikon toivossa. Niitä ei myöskään yleensä saa
 käsiinsä edes maksamalla tarpeeksi.
 
 **Jalokivet, korut ja taide.** Nämä esineet säilyttävät täyden
-arvonsa markkinoilla, ja ne voi joko myydä tai niitä voi käy  ää
+arvonsa markkinoilla, ja ne voi joko myydä tai niitä voi käyttää
 rahan asemasta. Joidenkin hyvin arvokkaiden esineiden kohdalla
 tosin pelinjohtaja voi vaatia löytämään tarpeeksi varoissaan
 olevan ostajan, jonka etsiminen voi olla jo seikkailu itsessään.
