@@ -20,3 +20,11 @@ ei voi myöskään *lumota*, *kauhistuttaa* tai ottaa haltuun näiden
 olentojen toimesta. Lisäksi, jos kohde on joutunut tällaisen
 olennon *lumoamaksi*, *kauhistuttamaksi* tai haltuunottamaksi,
 hän saa uuden pelastusheiton vaikutusta vastaan.
+
+----
+
+Ylätaso [Ensimmäisen piirin loitsut](1.piirin_loitsut.md)
+
+Edellinen [Sumupilvi](Sumupilvi.md)
+
+Seuraava [Tunnistaminen](Tunnistaminen.md)
