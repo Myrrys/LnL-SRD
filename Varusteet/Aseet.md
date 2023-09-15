@@ -27,7 +27,7 @@ joidenkin aseiden käyttöön.
 sille tarkoitettuja ammuksia (nuolia, vasamia, kiviä) hyökkäyksissä.
 Et voi hyökätä tällaisella aseella normaalisti, jos
 ammukset ovat loppuneet. Taistelun lopuksi voit keräillä puolet
-käytetyistä ammuksista, jos sinulla on vähintään minuu  i
+käytetyistä ammuksista, jos sinulla on vähintään minuutti
 aikaa tutkia taistelukenttää.
 
 Jos käytät tällaista asetta lähitaisteluhyökkäykseen, se toimii
@@ -41,7 +41,7 @@ hyökkäät aseella, jolla on ominaisuus “tarkkuus”, voit valita
 käytätkö voimakkuus- tai ketteryysmuuttujaasi hyökkäys- ja
 vahinkoheittoihin.
 
-**Raskas ase.** Pienet olennot saavat haitan hyökkäysheittoihin
+**Raskas ase.** Pienet olennot saavat *haitan* hyökkäysheittoihin
 raskailla aseilla.
 
 **Kevyt ase.** Kevyet aseet ovat pieniä ja helppoja hallita. Ne ovat
@@ -54,7 +54,7 @@ voisitkin muuten hyökätä useammin saman toiminnon aikana.
 **Kantama.** Aseen kantama ilmoitetaan kahdella luvulla. Ensimmäinen
 luku on normaalikantama metreinä ja toinen luku on pitkä kantama. Kun 
 hyökkäät aseella normaalikantamaa
-pidemmälle matkalle, saat haitan hyökkäysheittoon.
+pidemmälle matkalle, saat *haitan* hyökkäysheittoon.
 
 **Ulottuva.** Voit hyökätä korkeintaan neljän päähän aseella, jolla
 on ominaisuus ulottuva. Tämä koskee myös vapaahyökkäyksiä.
@@ -95,10 +95,10 @@ vahinkoa. Improvisoidun heitetyn aseen kantama on (8/24).
 
 ### Hopeoidut aseet
 Jotkut olennot ovat immuuneja tai sietokykyisiä normaalien
-aseiden vahinkoa vastaan. Ne saa  avat kuitenkin olla al  iita
+aseiden vahinkoa vastaan. Ne saattavat kuitenkin olla alttiita
 hopeisten aseiden vahingolle. Aseen tai kymmenen ammusta
 voi päällystää hopealla 100 kultarahan hintaan. Tämä hinta
-ka  aa materiaalien lisäksi sepän työn.
+kattaa materiaalien lisäksi sepän työn.
 
 ### Erikoispiirteiset aseet
 **Peitsi.** Saat haitan, kun käytät peistä vieressäsi (korkeintaan
@@ -108,7 +108,7 @@ molempien käsien käyttämisen, kun et ole ratsailla.
 **Verkko.** Suuri tai suurta pienempi olento, johon hyökkäys verkolla
 onnistuu on sidottu, kunnes se vapautetaan verkosta. Verkolla
 ei ole vaikutusta valtaviin tai sitä suurempiin sekä aineettomiin
-olentoihin. Olento voi tehdä VA 10 voimakkuus-heiton
+olentoihin. Olento voi tehdä VA 10 voimakkuusheiton
 vapautuakseen itse tai vapauttaakseen toisen olennon verkosta.
 
 Verkko voidaan myös tuhota ja samalla vapauttaa siihen sidotut
