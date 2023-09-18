@@ -12,7 +12,7 @@
 
 Luot aavemaisen luurankokäden samaan tilaan loitsun kantamalla olevan olennon kanssa. Tee kantamahyökkäys hyökätäksesi olentoa vastaan haudan kylmyydellä. Osumalla kohde kärsii 1n8 kuolonvahinkoa eikä voi saada osumapisteitään takaisin ennen sinun seuraavaa vuoroasi. Aina siihen saakka luurankokäsi pitää otteensa kohteessa.
 
-Epäkuolleella loitsun kohteella on *haitta* hyökkäysheittoihin sinua kohtaan. Loitsun vaurio kasvaa 1n8 tasolla 5 (2n8), tasolla 11 (3n8) ja tasolla 17 (4n8).
+*Epäkuolleella* loitsun kohteella on *haitta* hyökkäysheittoihin sinua kohtaan. Loitsun vaurio kasvaa 1n8 tasolla 5 (2n8), tasolla 11 (3n8) ja tasolla 17 (4n8).
 
 ----
 
