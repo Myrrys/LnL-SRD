@@ -4,24 +4,42 @@
 
 |               |              |
 | ------------- | ------------ |
-| **Julkaisu**  | 0.0.1-beta5  |
+| **Julkaisu**  | 0.0.1-beta6  |
 
-Tämä on Legendoja & Lohikäärmeitä (L&L) SRD (Systems Reference Document) -materiaali, joka on muotoiltu Markdown-muotoon. Tämä mahdollistaa materiaalin helpomman siirtämisen eri julkaisualustoille.
+Tämä on Legendoja & Lohikäärmeitä (L&L) SRD (Systems Reference Document) -materiaali, joka on muotoiltu Markdown-muotoon. Muotoilu mahdollistaa materiaalin helpomman siirtämisen eri julkaisualustoille.
 
-Tämä julkaisu ns. "beta", joka on tarkoitettu konseptin testaamiseen ja palautteen antamiseen. Projekti ei ole vielä millään asteella valmis, ja sen sisältöä tai rakenne voivat muuttua huomattavasti.
+SRD on ns. "beta", ja tarkoitettu SRD konseptin testaamiseen käytännössä. Projekti ei ole millään asteella valmis, ja sen sisältö tai rakenne voivat muuttua milloin tahansa.
 
 SRD perustuu L&L:ään ja Wizards of the Coastin "5th Edition System Reference Document 5.1":eenn. SRD:n sisältö on kokonaisuudessaan [vapaasti käytettävissä Creative Commons BY 4.0 -lisenssin mukaisesti](LICENSE.md). Tarkempi ohjeistus löytyy [tämän dokumentin lopusta](#käyttö-ja-lisenssit).
 
 ## Ohjeita
 
-Tämä GitHub -projekti sisältää joukon L&L -materiaalia, joka on muotoiltu Markdown-muotoon. Tämä mahdollistaa materiaalin helpomman siirtämisen eri julkaisualustoille.
+Tämä GitHub -projekti sisältää joukon avointa L&L -materiaalia CSV, Markdown tai MDX -muodossa. Materiaali on 
+jaettu eri kansioihin mukaillen Legendoja & Lohikäärmeitä -kirjan rakennetta. Toistaiseksi mukana on vain materiaalia, joka
+on lisensoitavissa Creative Commons BY 4.0 -lisenssin mukaisesti. Kirjan OGL -materiaali on tarkoitus lisätä myöhemmin, kunhan
+selvitetään miten se onnistuu siten, että materiaali on helposti kopioitavissa ja käytettävissä ilman suurempia lisenssiteknisiä
+mutkia.
 
-Halutessasi osallistua projektin kehittämiseen, voit tehdä ehdottamastasi muutoskesta suoraan pull requestin tai ilmoittaa ongelmista projektin [issue tracker -toimintoa käyttäen](https://github.com/Myrrys/LnL-SRD/issues).
+### Osallistuminen projektiin
+
+Tämä SRD on avoin, voittoa tuottamaton projekti, johon voi osallistua kuka tahansa. Myrrysmiehet Oy ja Legendoja & Lohikäärmeitä -kirjan tekijät tukevat projektia ja sen kehittämistä. 
+
+Projektiin voi osallistua esimerkiksi seuaavilla tavoilla:
+1. Käymällä materiaalia läpi tai käyttämällä sitä, ja ilmoittamalla ongelmista tai puutteista Legendoja & lohikäärmeitä -discordissa tai GitHubin issue tracker -toiminnon (https://github.com/Myrrys/LnL-SRD/issues) kautta.
+2. Ehdottamalla muutoksia materiaaliin, ja tekemällä niistä pull requestin GitHubin kautta.
+3. Pyytämällä pääsyn raakamateriaaliin, ja konvertoimalla sitä Markdown-muotoon. Tällöin materiaali on mahdollista lisätä suoraan GitHubiin kuten muutokset yllä.
 
 ### Muokkaaminen
 
-Projektin main-branch on suojattu, ja materiaalia voi muokata vain pull requestin kautta. Pull request vaatii
-aina vähintään yhden projektin omistajan hyväksynnän.
+Projektin julkaistu versio (main-branch) on suojattu ja materiaalia voi muokata vain pull requestilla. Pull request vaatii
+aina vähintään yhden projektin omistajan hyväksynnän, ennen kuin se voidaan yhdistää main-branchiin.
+
+Käytännössä materiaalin päivity seuraa seuraavaa kaavaa:
+1. Tee uusi branch, esim `Feature/Ohjeet`
+2. Tee muutokset
+3. Tee pull request, jossa muutokset yhdistetään dev-branchiin
+4. Kun muutokset on hyväksytty, yhdistä muutoksesi dev-branchiin
+5. Kun dev-branchissä on tarpeeksi muutoksia, joku omistajista yhdistää dev-branch main-branchiin
 
 ## Käyttö ja lisenssit
 
