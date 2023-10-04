@@ -7,7 +7,7 @@ Useamman vaikutuksen aiheuttaessa saman olotilan olennolle, jokaisella olotilall
 Seuraavat kuvaukset kertovat mitä tapahtuu olennolle jolla on tietty olotila.
 
 ## Halvaantunut
-* Halvaantunut on lisäksi myös toimintakyvytön eikä voi liikkua tai puhua.
+* Halvaantunut on lisäksi myös [toimintakyvytön](#toimintakyvytön) eikä voi liikkua tai puhua.
 * Halvaantuneen ketteryys- ja voimakkuuspelastusheitot epäonnistuvat automaattisesti.
 * Osumaheitoilla halvaantuneeseen olentoon on etu.
 * Jokainen lähietäisyydeltä viereisestä karttaruudusta tullut osuma halvaantuneeseen on kriittinen.
@@ -18,12 +18,12 @@ Seuraavat kuvaukset kertovat mitä tapahtuu olennolle jolla on tietty olotila.
 
 ## Kiinniotettu
 * Kiinniotetun olennon nopeus on 0 eikä se voi hyötyä mistään bonuksista nopeuteen liittyen
-* Olotila päättyy jos kiinniottaja on toimintakyvytön.
+* Olotila päättyy jos kiinniottaja on [toimintakyvytön](#toimintakyvytön).
 * Olotila päättyy myös jos jokin vaikutus siirtää kiinniotetun olennon kiinniottaja ulottumattomiin, esimerkiksi loitsun kuten paineaalto vaikutuksesta. 
 
 ## Kivettynyt
 * Kivettynyt olento ja kaikki kannetut ei-maagiset varusteet ja vaatteet muuttuvat kiinteäksi liikkumattomaksi aineeksi (yleensä kiveksi). Kivettyneen olennon paino kymmenkertaistuu ja ikääntyminen lakkaa. 
-* Kivettynyt olento on myös toimintakyvytön eikä voi liikkua tai puhua. Olento ei ole myöskään tietoinen ympäristöstään.
+* Kivettynyt olento on myös [toimintakyvytön](#toimintakyvytön) eikä voi liikkua tai puhua. Olento ei ole myöskään tietoinen ympäristöstään.
 * Osumaheitoilla kivettyneeseen olentoon on etu.
 * Kivettyneen ketteryys- ja voimakkuuspelastusheitot epäonnistuvat automaattisesti.
 * Kivettyneellä on sietokyky kaikkeen vahinkoon.
@@ -63,7 +63,7 @@ Lähietäisyydeltä viereisestä karttaruudusta osumaheitoilla maissa olevaan ol
 * Osumaheitoilla taintuneeseen olentoon on etu.
 
 ## Tajuton
-* Tajuton olento on myös toimintakyvytön eikä voi liikkua tai puhua. Olento ei ole myöskään tietoinen ympäristöstään.
+* Tajuton olento on myös [toimintakyvytön](#toimintakyvytön) eikä voi liikkua tai puhua. Olento ei ole myöskään tietoinen ympäristöstään.
 * Tajuton olento tiputtaa kaiken mitä oli kantamassa ja on myös maissa.
 * Taijuttoman ketteryys- ja voimakkuuspelastusheitot epäonnistuvat automaattisesti.
 * Osumaheitoilla tajuttomaan olentoon on etu.
