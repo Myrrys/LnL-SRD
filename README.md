@@ -4,7 +4,7 @@
 
 |               |              |
 | ------------- | ------------ |
-| **Julkaisu**  | 0.0.1-beta6  |
+| **Julkaisu**  | 0.0.1-beta7  |
 
 Tämä on Legendoja & Lohikäärmeitä (L&L) SRD (Systems Reference Document) -materiaali, joka on muotoiltu Markdown-muotoon. Muotoilu mahdollistaa materiaalin helpomman siirtämisen eri julkaisualustoille.
 
