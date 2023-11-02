@@ -1,7 +1,7 @@
 # Sisällys
 
 Hahmonluonti
-* [Hahmonluonti](Hahmonluonti/Vaiheet.md.md)
+* [Hahmonluonti](Hahmonluonti/Vaiheet.md)
 
 Olotilat
 * [Olotilat](Olotilat/Olotilat.md)
@@ -21,7 +21,7 @@ Varusteet
 * [Pikkutavarat](Varusteet/Pikkutavarat.md)
 
 Loitsut
-* [0. piirin taikakonstit](Loitsut/0.piirin_taikakonstitmd) 
+* [0. piirin taikakonstit](Loitsut/0.piirin_taikakonstit.md) 
 * [1. piirin loitsut](Loitsut/1.piirin_loitsut.md)
 
 Muut
