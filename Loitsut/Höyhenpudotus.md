@@ -20,7 +20,7 @@ loppuu hänen osaltaan laskeutumisen yhteydessä.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1.piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
 
 Edellinen [Hälytys](Hälytys.md)
 

@@ -30,7 +30,7 @@ toimintonsa sinun tarkkailemiseen ja onnistuttava älykkyysheitossa
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1.piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
 
 Edellinen [Uskon kilpi](Uskon_kilpi.md)
 

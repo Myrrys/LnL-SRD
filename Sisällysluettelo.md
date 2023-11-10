@@ -21,8 +21,8 @@ Varusteet
 * [Pikkutavarat](Varusteet/Pikkutavarat.md)
 
 Loitsut
-* [0. piirin taikakonstit](Loitsut/0.piirin_taikakonstitmd) 
-* [1. piirin loitsut](Loitsut/1.piirin_loitsut.md)
+* [0. piirin taikakonstit](Loitsut/0_piirin_taikakonstitmd) 
+* [1. piirin loitsut](Loitsut/1_piirin_loitsut.md)
 
 Muut
 * [Sanasto (MarkDown)](Sanasto.md)

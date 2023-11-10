@@ -32,7 +32,7 @@ palvelijan 24 metriä kauemmaksi sinusta.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1.piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
 
 Edellinen [Nopea pako](Nopea_pako.md)
 
