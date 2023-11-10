@@ -14,7 +14,7 @@ Ojennat kätesi ja osoitat sormella kohdetta loitsun kantamalla. Taikakonsti ant
 
 ----
 
-Ylätaso [Taikakonstit](0.piirin_taikakonstit.md)
+Ylätaso [Taikakonstit](0_piirin_taikakonstit.md)
 
 Edellinen [Tanssivat valot](Tanssivat_valot.md)
 

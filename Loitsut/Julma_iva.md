@@ -16,7 +16,7 @@ Loitsun vaurio kasvaa 1n4 viidennellä tasolla (2n4), tasolla 11 (3n4) ja tasoll
 
 ----
 
-Ylätaso [Taikakonstit](0.piirin_taikakonstit.md)
+Ylätaso [Taikakonstit](0_piirin_taikakonstit.md)
 
 Edellinen [Jäädytyssäde](Jäädytyssäde.md)
 

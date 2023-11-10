@@ -24,7 +24,7 @@ onnistuminen päättää loitsun.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1.piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
 
 Edellinen [Myrkyn ja taudin löytäminen](Myrkyn_ja_taudin_löytäminen.md)
 

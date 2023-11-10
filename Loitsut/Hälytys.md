@@ -24,7 +24,7 @@ hälytys tuottaa käsikellon kilinää, joka soi 10 sekuntia ja kuuluu
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1.piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
 
 Edellinen [Hyvän ja pahan löytäminen](Hyvän_ja_pahan_löytäminen.md)
 

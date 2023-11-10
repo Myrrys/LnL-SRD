@@ -14,7 +14,7 @@ Luonnon voima virtaa pitelemääsi nuijaan tai sauvaan. Loitsun keston ajan käy
 
 ----
 
-Ylätaso [Taikakonstit](0.piirin_taikakonstit.md)
+Ylätaso [Taikakonstit](0_piirin_taikakonstit.md)
 
 Edellinen [Opastus](Opastus.md)
 

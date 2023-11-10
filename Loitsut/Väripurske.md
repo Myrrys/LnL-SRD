@@ -28,6 +28,6 @@ monen osumapisteen arvosta vaikutat vastustajiin.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1.piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
 
 Edellinen [Veden luominen tai tuhoaminen](Veden_luominen_tai_tuhoaminen.md)
