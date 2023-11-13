@@ -21,7 +21,7 @@ myös heittämään ketteryyspelastusheiton ja on epäonnistuessaan
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1.piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
 
 Edellinen [Pikamarssi](Pikamarssi.md)
 

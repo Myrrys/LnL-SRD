@@ -20,7 +20,7 @@ sinulle jonkin pienen palveluksen.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1.piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
 
 Edellinen [Apulaishengen kutsuminen](Apulaishengen_kutsuminen.md)
 

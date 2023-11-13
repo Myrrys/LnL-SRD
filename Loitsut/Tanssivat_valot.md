@@ -14,7 +14,7 @@ Luot korkeintaan neljä soihdun kokoista valoa kantaman sisälle. Ne voivat vaik
 
 ----
 
-Ylätaso [Taikakonstit](0.piirin_taikakonstit.md)
+Ylätaso [Taikakonstit](0_piirin_taikakonstit.md)
 
 Edellinen [Taikatemppu](Taikatemppu.md)
 

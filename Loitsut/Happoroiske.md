@@ -14,7 +14,7 @@ Heität hapon täyttämän kuplan. Valitse loitsun kantamalla oleva kohde tai ka
 
 ----
 
-Ylätaso [Taikakonstit](0.piirin_taikakonstit.md)
+Ylätaso [Taikakonstit](0_piirin_taikakonstit.md)
 
 Edellinen [Druidintaito](Druidintaito.md)
 

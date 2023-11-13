@@ -22,7 +22,7 @@ alla. Keijuliekin valoa hohkaava olento ei voi myöskään hyötyä
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1.piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
 
 Edellinen [Kampitus](Kampitus.md)
 

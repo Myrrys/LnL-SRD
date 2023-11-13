@@ -24,7 +24,7 @@ merkki ei ole osa mitään kirjoitettua kieltä.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1.piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
 
 Edellinen [Keijuliekki](Keijuliekki.md)
 

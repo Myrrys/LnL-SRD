@@ -21,7 +21,7 @@ piiriä kohden, joka on ensimmäistä piiriä korkeammalla.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1.piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
 
 Edellinen [Haavoittaminen](Haavoittaminen.md)
 

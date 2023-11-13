@@ -14,7 +14,7 @@ Heität tulenlieskan olentoon tai esineeseen loitsun kantamalla. Tee kantamahyö
 
 ----
 
-Ylätaso [Taikakonstit](0.piirin_taikakonstit.md)
+Ylätaso [Taikakonstit](0_piirin_taikakonstit.md)
 
 Edellinen [Tarkka isku](Tarkka_isku.md)
 
