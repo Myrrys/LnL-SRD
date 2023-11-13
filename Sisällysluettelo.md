@@ -1,7 +1,7 @@
 # Sisällys
 
 Hahmonluonti
-* [Hahmonluonti](Hahmonluonti/Vaiheet.md.md)
+* [Hahmonluonti](Hahmonluonti/Vaiheet.md)
 
 Olotilat
 * [Olotilat](Olotilat/Olotilat.md)
