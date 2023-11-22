@@ -16,4 +16,6 @@ Kosketat vapaaehtoista olentoa ja annat sille kyvyn nähdä pimeässä. Keston a
 
 Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Pimeys](Pimeys.md)
+
 Seuraava [Pirstominen](Pirstominen.md)

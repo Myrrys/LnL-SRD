@@ -20,4 +20,6 @@ Voit bonustoimintona muuttaa tuulen suuntaa jokaisella vuorollasi loitsun vaikut
 
 Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Taika-ase](Taika-ase.md)
+
 Seuraava [Uskon miekka](Uskon_miekka.md)

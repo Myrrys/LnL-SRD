@@ -22,4 +22,6 @@ Verkot ovat tulenarkoja ja syttyvät kontaktista liekkeihin. Yhdessä kierrokses
 
 Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Velhon suu](Velhon_suu.md)
+
 Seuraava [Voimapalautus](Voimapalautus.md)

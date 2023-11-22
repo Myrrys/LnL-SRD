@@ -22,4 +22,6 @@ Jos sinä tai joku seurueestasi vahingoittaa loitsun kohdetta, loitsu raukeaa.
 
 Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Apu](Apu.md)
+
 Seuraava [Eläinlähetti](Eläinlähetti.md)

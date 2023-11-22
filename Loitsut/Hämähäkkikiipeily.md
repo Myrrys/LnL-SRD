@@ -16,4 +16,6 @@ Loitsun keston ajan yksi koskettamasi vapaaehtoinen olento saa kyvyn liikkua yl�
 
 Yl채taso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Hohkaava isku](Hohkaava_isku.md)
+
 Seuraava [J채ljitt채 kulkeminen](J채ljitt채_kulkeminen.md)

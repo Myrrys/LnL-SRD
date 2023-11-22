@@ -24,4 +24,6 @@ Jokaisella vuorolla loitsimisen jälkeen voit käyttää toiminnon siirtääkses
 
 Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Korventava säde](Korventava_säde.md)
+
 Seuraava [Köysitemppu](Köysitemppu.md)

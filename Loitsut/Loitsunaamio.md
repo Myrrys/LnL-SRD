@@ -22,4 +22,6 @@ Naamio. Saat vapaasti valita kohteen olentotyypin koskien miten se ilmenee loits
 
 Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Liekkiterä](Liekkiterä.md)
+
 Seuraava [Mystinen side](Mystinen_side.md)

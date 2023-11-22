@@ -16,4 +16,6 @@ Valitsemasi pisteen ympärille loitsun kantamalla syntyy 8 metrin säteelle ulot
 
 Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Heikentävä säde](Heikentävä_säde.md)
+
 Seuraava [Hohkaava isku](Hohkaava_isku.md)

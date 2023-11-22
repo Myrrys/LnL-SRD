@@ -18,4 +18,6 @@ Valitse loitsun kantamalla oleva humanoidi, jonka näet. Kohteen tulee onnistua 
 
 Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Punahehku](Punahehku.md)
+
 Seuraava [Rauhoittaminen](Rauhoittaminen.md)

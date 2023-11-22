@@ -18,4 +18,6 @@ Seuraavan kerran kun osut vastustajaan, aseesi hohkaa ylimaallisesta valosta. Hy
 
 Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Hiljaisuus](Hiljaisuus.md)
+
 Seuraava [Hämähäkkikiipeily](Hämähäkkikiipeily.md)

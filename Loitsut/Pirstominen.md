@@ -20,4 +20,6 @@ Ei-maagiset esineet, jotka ovat loitsun vaikutusalueella olevien olentojen pää
 
 Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Pimeänäkö](Pimeänäkö.md)
+
 Seuraava [Punahehku](Punahehku.md)

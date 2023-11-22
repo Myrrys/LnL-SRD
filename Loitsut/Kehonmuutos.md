@@ -22,4 +22,6 @@ Voit loitsiessasi valita jonkin alla mainituista vaihtoehdoista, joka kestää l
 
 Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Kaarnaiho](Kaarnaiho.md)
+
 Seuraava [Kiehtova](Kiehtova.md)

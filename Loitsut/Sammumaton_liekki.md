@@ -16,4 +16,6 @@ Soihtua vastaava maaginen liekki syttyy esineeseen, jota kosketat. Liekki naytt√
 
 Yl√§taso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Rukouksella parantaminen](Rukouksella_parantaminen.md)
+
 Seuraava [Sivuaskel](Sivuaskel.md)

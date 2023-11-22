@@ -22,4 +22,6 @@ Peilikuvan puolustus on 10+ketteryysmuuttujasi. Jos hyökkäys osuu kopioon, se 
 
 Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Ominaisuuden korotus](Ominaisuuden_korotus.md)
+
 Seuraava [Piikkipensas](Piikkipensas.md)

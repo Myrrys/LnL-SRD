@@ -16,4 +16,6 @@ Hopeinen kimalteleva sumu ympäröi sinut ohikiitäväksi hetkeksi. Siirryt väl
 
 Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Sammumaton liekki](Sammumaton_liekki.md)
+
 Seuraava [Sokeus/kuurous](Sokeus_kuurous.md)

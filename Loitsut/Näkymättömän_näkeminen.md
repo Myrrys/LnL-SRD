@@ -16,4 +16,6 @@ Loitsun keston ajan näet *näkymättömät* olennot ja esineet aivan kuin ne ol
 
 Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Näkymättömyys](Näkymättömyys.md)
+
 Seuraava [Ominaisuuden korotus](Ominaisuuden_korotus.md)

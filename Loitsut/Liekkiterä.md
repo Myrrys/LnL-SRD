@@ -22,4 +22,6 @@ Liekkiterä loistaa kirkasta valoa 4 metrin päähän ja himmeää valoa 4 metri
 
 Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Liekkikuula](Liekkikuula.md)
+
 Seuraava [Loitsunaamio](Loitsunaamio.md)

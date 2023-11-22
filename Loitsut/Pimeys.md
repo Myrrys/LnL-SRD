@@ -20,4 +20,6 @@ Tämän loitsun vaikutus kumoaa kaikki toisen tai sitä alemman piirin loitsuill
 
 Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Piikkipensas](Piikkipensas.md)
+
 Seuraava [Pimeänäkö](Pimeänäkö.md)

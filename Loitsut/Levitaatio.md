@@ -18,4 +18,6 @@ Loitsun kohde voi liikkua ilmassa ainoastaan vetämällä tai työntämällä ki
 
 Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Köysitemppu](Köysitemppu.md)
+
 Seuraava [Liekkikuula](Liekkikuula.md)

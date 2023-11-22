@@ -18,4 +18,6 @@ Hohtava vihreä nuoli lentää kohti kohdetta ja räjähtää happoroiskeiksi. T
 
 Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Esineen löytäminen](Esineen_löytäminen.md)
+
 Seuraava [Heikentävä säde](Heikentävä_säde.md)

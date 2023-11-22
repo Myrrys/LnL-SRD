@@ -30,4 +30,6 @@ Kosketat olentoa antaen sille samalla maagisen lisän ominaisuuteen. Voit valita
 
 Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Näkymättömän näkeminen](Näkymättömän_näkeminen.md)
+
 Seuraava [Peilikuva](Peilikuva.md)

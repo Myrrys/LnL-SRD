@@ -18,4 +18,6 @@ Koskettamasi olento ja kaikki sen kantamat varusteet muuttuvat *näkymättömiks
 
 Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Mystinen side](Mystinen_side.md)
+
 Seuraava [Näkymättömän näkeminen](Näkymättömän_näkeminen.md)

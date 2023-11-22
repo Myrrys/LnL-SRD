@@ -16,4 +16,6 @@ Kuvaile tai nimeä tietyntyyppinen eläin tai kasvi. Keskityt luonnon ääniin y
 
 Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Eläinlähetti](Eläinlähetti.md)
+
 Seuraava [Ennusmerkit](Ennusmerkit.md)

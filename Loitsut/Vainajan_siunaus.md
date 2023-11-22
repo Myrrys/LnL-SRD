@@ -18,4 +18,6 @@ Täma loitsu myös pidentää aikaa kuolleista herättämiseen liittyvien loitsu
 
 Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Uskon miekka](Uskon_miekka.md)
+
 Seuraava [Valheeton alue](Valheeton_alue.md)

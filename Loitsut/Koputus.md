@@ -22,4 +22,6 @@ Loitsiessasi tämän loitsun avattavasta esineestä kuuluu kova koputus, jonka k
 
 Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Kiehtova](Kiehtova.md)
+
 Seuraava [Korventava säde](Korventava_säde.md)

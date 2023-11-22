@@ -18,4 +18,6 @@ Voit koskettamalla muuttaa tavallisen aseen maagiseksi. Ase saa +1 bonuksen hyö
 
 Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Suurennus/kutistus](Suurennus_kutistus.md)
+
 Seuraava [Tuulenvire](Tuulenvire.md)

@@ -20,4 +20,6 @@ Voit päättää itse minkälainen ehto on, mutta sen pitää kuitenkin perustua
 
 Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Velhon lukko](Velhon_lukko.md)
+
 Seuraava [Verkko](Verkko.md)

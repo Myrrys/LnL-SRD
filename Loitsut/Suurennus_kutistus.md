@@ -20,4 +20,6 @@ Saat loitsun kantamalla olevan olennon tai esineen suurenemaan tai kutistumaan l
 
 Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Suojaus myrkyltä](Suojaus_myrkyltä.md)
+
 Seuraava [Taika-ase](Taika-ase.md)

@@ -16,4 +16,6 @@ Kosketat vapaaehtoista olentoa. Loitsun keston ajan kohteen iho on karkeaa kuin 
 
 Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
 
+Edellinen [Jäljittä kulkeminen](Jäljittä_kulkeminen.md)
+
 Seuraava [Kehonmuutos](Kehonmuutos.md)
