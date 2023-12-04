@@ -1,0 +1,53 @@
+## Kolmannen piirin loitsut
+
+A-V ajatustenvaihdosta vilahdukseen.
+
+ - [Ajatustenvaihto](Ajatustenvaihto.md)
+ - [Elvytys](Elvytys.md)
+ - [Eläinten kutsuminen](Eläinten_kutsuminen.md)
+ - [Epäkuollut palvelija](Epäkuollut_palvelija.md)
+ - [Hidastus](Hidastus.md)
+ - [Huomaamattomuus](Huomaamattomuus.md)
+ - [Hypnoottinen kuvio](Hypnoottinen_kuvio.md)
+ - [Kaasumuoto](Kaasumuoto.md)
+ - [Kasveille puhuminen](Kasveille_puhuminen.md)
+ - [Kasvikasvu](Kasvikasvu.md)
+ - [Kielillä puhuminen](Kielillä_puhuminen.md)
+ - [Kiiruhtaminen](Kiiruhtaminen.md)
+ - [Kirouksen kumoaminen](Kirouksen_kumoaminen.md)
+ - [Kirous](Kirous.md)
+ - [Kiveen sulautuminen](Kiveen_sulautuminen.md)
+ - [Kuolleille puhuminen](Kuolleille_puhuminen.md)
+ - [Kuvajainen](Kuvajainen.md)
+ - [Lento](Lento.md)
+ - [Löyhkäävä pilvi](Löyhkäävä_pilvi.md)
+ - [Maja](Maja.md)
+ - [Myrskyvalli](Myrskyvalli.md)
+ - [Parannuksen mahtisana](Parannuksen_mahtisana.md)
+ - [Pelko](Pelko.md)
+ - [Päivänvalo](Päivänvalo.md)
+ - [Räntäsade](Räntäsade.md)
+ - [Salama](Salama.md)
+ - [Selvännäkeminen](Selvännäkeminen.md)
+ - [Suoja energialta](Suoja_energialta.md)
+ - [Suojelushenget](Suojelushenget.md)
+ - [Taikakehä](Taikakehä.md)
+ - [Taikaratsu](Taikaratsu.md)
+ - [Taikuuden purkaminen](Taikuuden_purkaminen.md)
+ - [Toivon majakka](Toivon_majakka.md)
+ - [Torjuva merkki](Torjuva_merkki.md)
+ - [Tulipallo](Tulipallo.md)
+ - [Ukkosen kutsuminen](Ukkosen_kutsuminen.md)
+ - [Vampyyrikosketus](Vampyyrikosketus.md)
+ - [Vastaloitsu](Vastaloitsu.md)
+ - [Veden hengittäminen](Veden_hengittäminen.md)
+ - [Veden ja ruoan luominen](Veden_ja_ruoan_luominen.md)
+ - [Vetten päällä kävely](Vetten_päällä_kävely.md)
+ - [Vilahdus](Vilahdus.md)
+
+ 
+----
+
+Ylätaso [Loitsut](Loitsut.md)
+
+Edellinen [Toisen piirin loitsut](2_piirin_loitsut.md)

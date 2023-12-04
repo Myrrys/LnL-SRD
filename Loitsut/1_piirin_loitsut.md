@@ -57,3 +57,5 @@ A-V apulaishengen kutsumisesta väripurskeeseen.
 Ylätaso [Loitsut](Loitsut.md)
 
 Edellinen [Taikakonstit](0_piirin_taikakonstit.md)
+
+Seuraava [Toisen piirin loitsut](2_piirin_loitsut.md)
