@@ -23,6 +23,8 @@ Varusteet
 Loitsut
 * [0. piirin taikakonstit](Loitsut/0_piirin_taikakonstit.md) 
 * [1. piirin loitsut](Loitsut/1_piirin_loitsut.md)
+* [2. piirin loitsut](Loitsut/2_piirin_loitsut.md)
+* [3. piirin loitsut](Loitsut/3_piirin_loitsut.md)
 
 Muut
 * [Sanasto (MarkDown)](Sanasto.md)
