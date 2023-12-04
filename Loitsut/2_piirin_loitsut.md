@@ -62,3 +62,5 @@ A-V Aaveratsusta voimapalautukseen.
 Ylätaso [Loitsut](Loitsut.md)
 
 Edellinen [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+
+Seuraava [Kolmannen piirin loitsut](3_piirin_loitsut.md)
