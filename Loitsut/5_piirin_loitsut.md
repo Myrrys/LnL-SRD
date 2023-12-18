@@ -1,0 +1,47 @@
+## Viidennen piirin loitsut
+
+E-Y elementaalin kutsumisesta ylimaalliseen yhteyteen.
+
+ - [Elementaalin kutsuminen](Elementaalin_kutsuminen.md)
+ - [Esineen herättäminen](Esineen_herättäminen.md)
+ - [Etäkatselu](Etäkatselu.md)
+ - [Henkiherruus](Henkiherruus.md)
+ - [Herättäminen](Herättäminen.md)
+ - [Hirviön pysäyttäminen](Hirviön_pysäyttäminen.md)
+ - [Houkutuslintu](Houkutuslintu.md)
+ - [Hyvän ja pahan hajottaminen](Hyvän_ja_pahan_hajottaminen.md)
+ - [Hyytävä purkaus](Hyytävä_purkaus.md)
+ - [Hyönteisvitsaus](Hyönteisvitsaus.md)
+ - [Johdatus](Johdatus.md)
+ - [Joukkoparannus](Joukkoparannus.md)
+ - [Kivivalli](Kivivalli.md)
+ - [Kuolleista nostaminen](Kuolleista_nostaminen.md)
+ - [Legenda](Legenda.md)
+ - [Liekkipilari](Liekkipilari.md)
+ - [Luominen](Luominen.md)
+ - [Luontoyhteys](Luontoyhteys.md)
+ - [Metsäharppaus](Metsäharppaus.md)
+ - [Muistinmuokkaus](Muistinmuokkaus.md)
+ - [Myrkkypilvi](Myrkkypilvi.md)
+ - [Pyhittäminen](Pyhittäminen.md)
+ - [Suojaus eläviltä](Suojaus_eläviltä.md)
+ - [Tahdon hallinta](Tahdon_hallinta.md)
+ - [Taikakäsi](Taikakäsi.md)
+ - [Taikaovi](Taikaovi.md)
+ - [Tarttuva tauti](Tarttuva_tauti.md)
+ - [Tehtävä](Tehtävä.md)
+ - [Telekinesia](Telekinesia.md)
+ - [Telepaattinen side](Telepaattinen_side.md)
+ - [Teleportaatiokehä](Teleportaatiokehä.md)
+ - [Univiesti](Univiesti.md)
+ - [Uudelleensyntyminen](Uudelleensyntyminen.md)
+ - [Valemuoto](Valemuoto.md)
+ - [Voimakenttä](Voimakenttä.md)
+ - [Voimallinen palautus](Voimallinen_palautus.md)
+ - [Ylimaallinen yhteys](Ylimaallinen_yhteys.md)
+
+----
+
+Ylätaso [Loitsut](Loitsut.md)
+
+Edellinen [Neljännen piirin loitsut](4_piirin_loitsut.md)
