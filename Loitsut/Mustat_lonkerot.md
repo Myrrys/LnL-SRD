@@ -18,8 +18,8 @@ Olento, joka menee tuolle alueelle tai aloittaa vuoronsa sieltä, joutuu heittä
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Muodonvaihdos](Muodonvaihdos.md)
+Edellinen [Muodonvaihdos](Muodonvaihdos)
 
-Seuraava [Paikanna olento](Paikanna_olento.md)
+Seuraava [Paikanna olento](Paikanna_olento)

@@ -14,8 +14,8 @@ Tämä loitsu palauttaa toivon ja elämänhalun. Valitse mikä tahansa määrä 
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Taikuuden purkaminen](Taikuuden_purkaminen.md)
+Edellinen [Taikuuden purkaminen](Taikuuden_purkaminen)
 
-Seuraava [Torjuva merkki](Torjuva_merkki.md)
+Seuraava [Torjuva merkki](Torjuva_merkki)

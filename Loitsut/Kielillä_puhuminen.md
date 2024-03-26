@@ -14,8 +14,8 @@ Tämä loitsu antaa koskettamallesi olennolle kyvyn ymmärtää mitä tahansa pu
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Kasvikasvu](Kasvikasvu.md)
+Edellinen [Kasvikasvu](Kasvikasvu)
 
-Seuraava [Kiiruhtaminen](Kiiruhtaminen.md)
+Seuraava [Kiiruhtaminen](Kiiruhtaminen)

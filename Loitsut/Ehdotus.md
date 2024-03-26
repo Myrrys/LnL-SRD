@@ -20,8 +20,8 @@ Jos sinä tai joku seurueestasi vahingoittaa loitsun kohdetta, loitsu raukeaa.
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Apu](Apu.md)
+Edellinen [Apu](Apu)
 
-Seuraava [Eläinlähetti](Eläinlähetti.md)
+Seuraava [Eläinlähetti](Eläinlähetti)

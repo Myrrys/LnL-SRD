@@ -16,8 +16,8 @@ Valitse loitsun kohteeksi yksi olento, esine tai maaginen vaikutus loitsun kanta
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Taikaratsu](Taikaratsu.md)
+Edellinen [Taikaratsu](Taikaratsu)
 
-Seuraava [Toivon majakka](Toivon_majakka.md)
+Seuraava [Toivon majakka](Toivon_majakka)

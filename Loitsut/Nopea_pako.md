@@ -17,8 +17,8 @@ loppuun saakka.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Noidannuoli](Noidannuoli.md)
+Edellinen [Noidannuoli](Noidannuoli)
 
-Seuraava [Näkymätön palvelija](Näkymätön_palvelija.md)
+Seuraava [Näkymätön palvelija](Näkymätön_palvelija)

@@ -16,8 +16,8 @@ Korkeintaan kuusi olentoa, jotka näet loitsun kantamalla, paranevat 2n8+loitsim
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Rauhoittaminen](Rauhoittaminen.md)
+Edellinen [Rauhoittaminen](Rauhoittaminen)
 
-Seuraava [Sammumaton liekki](Sammumaton_liekki.md)
+Seuraava [Sammumaton liekki](Sammumaton_liekki)

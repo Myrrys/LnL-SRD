@@ -16,8 +16,8 @@ Valitse jokin metallista valmistettu esine, kuten ase tai haarniska kantamalla. 
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Pirstominen](Pirstominen.md)
+Edellinen [Pirstominen](Pirstominen)
 
-Seuraava [Pysäytys](Pysäytys.md)
+Seuraava [Pysäytys](Pysäytys)

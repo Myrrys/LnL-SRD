@@ -16,8 +16,8 @@ Varjojen verhoama kätesi ryövää muiden elämänenergiaa parantaen omia haavo
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Ukkosen kutsuminen](Ukkosen_kutsuminen.md)
+Edellinen [Ukkosen kutsuminen](Ukkosen_kutsuminen)
 
-Seuraava [Vastaloitsu](Vastaloitsu.md)
+Seuraava [Vastaloitsu](Vastaloitsu)

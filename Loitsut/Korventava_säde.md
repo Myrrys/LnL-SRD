@@ -18,8 +18,8 @@ Tee kaukohyökkäys loitsulla erikseen jokaiselle säteelle. Kohde kärsii 2n6 t
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Koputus](Koputus.md)
+Edellinen [Koputus](Koputus)
 
-Seuraava [Kuunsäde](Kuunsäde.md)
+Seuraava [Kuunsäde](Kuunsäde)

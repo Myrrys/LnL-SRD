@@ -33,8 +33,8 @@ korkeammalla.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Varjelus](Varjelus.md)
+Edellinen [Varjelus](Varjelus)
 
-Seuraava [Väripurske](Väripurske.md)
+Seuraava [Väripurske](Väripurske)

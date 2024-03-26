@@ -20,8 +20,8 @@ ensimmäistä piiriä korkeammalla.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Eläinystävä](Eläinystävä.md)
+Edellinen [Eläinystävä](Eläinystävä)
 
-Seuraava [Haavojen parannus](Haavojen_parannus.md)
+Seuraava [Haavojen parannus](Haavojen_parannus)

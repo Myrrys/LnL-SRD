@@ -14,8 +14,8 @@ Lausut litanian sanoja, jotka hämäävät kohteitaan. Valitse joukko olentoja l
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Kehonmuutos](Kehonmuutos.md)
+Edellinen [Kehonmuutos](Kehonmuutos)
 
-Seuraava [Koputus](Koputus.md)
+Seuraava [Koputus](Koputus)

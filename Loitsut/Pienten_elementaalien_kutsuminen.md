@@ -27,8 +27,8 @@ Pelinjohtaja pitää huolta olentojen tiedoista ja *Pelaajan kirjan* ***liittees
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Pakko](Pakko.md)
+Edellinen [Pakko](Pakko)
 
-Seuraava [Taikakupla](Taikakupla.md)
+Seuraava [Taikakupla](Taikakupla)

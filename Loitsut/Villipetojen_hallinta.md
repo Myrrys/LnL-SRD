@@ -22,6 +22,6 @@ Joka kerta kun loitsun kohde kärsii vahinkoa, se saa uusia viisauspelastusheitt
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Velhonsilmä](Velhonsilmä.md)
+Edellinen [Velhonsilmä](Velhonsilmä)

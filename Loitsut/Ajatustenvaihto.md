@@ -16,6 +16,6 @@ Voit lähettää loitsun niin kauas kuin haluat ja jopa toisille maailmatasoille
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Seuraava [Elvytys](Elvytys.md)
+Seuraava [Elvytys](Elvytys)

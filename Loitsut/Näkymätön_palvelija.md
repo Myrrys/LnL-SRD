@@ -32,8 +32,8 @@ palvelijan 24 metriä kauemmaksi sinusta.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Nopea pako](Nopea_pako.md)
+Edellinen [Nopea pako](Nopea_pako)
 
-Seuraava [Paineaalto](Paineaalto.md)
+Seuraava [Paineaalto](Paineaalto)

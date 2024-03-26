@@ -18,8 +18,8 @@ Jos olento on kotoisin toiselta maailmatasolta, tämä loitsu karkottaa sen taka
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Kangastus](Kangastus.md)
+Edellinen [Kangastus](Kangastus)
 
-Seuraava [Kato](Kato.md)
+Seuraava [Kato](Kato)

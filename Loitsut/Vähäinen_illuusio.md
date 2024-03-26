@@ -18,6 +18,6 @@ Luodessasi näkyvän illuusion se voi olla esimerkiksi tuoli, törkyiset saappaa
 
 ----
 
-Ylätaso [Taikakonstit](0_piirin_taikakonstit.md)
+Ylätaso [Taikakonstit](0_piirin_taikakonstit)
 
-Edellinen [Viesti](Viesti.md)
+Edellinen [Viesti](Viesti)

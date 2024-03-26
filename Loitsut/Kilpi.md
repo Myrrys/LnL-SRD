@@ -2,7 +2,7 @@
 
 *1-piirin suojelus*
 
-**Loitsimisviive:** 1 reaktio, kun sinuun osuu hyökkäys tai loitsu [noidannuoli](Noidannuoli.md)
+**Loitsimisviive:** 1 reaktio, kun sinuun osuu hyökkäys tai loitsu [noidannuoli](Noidannuoli)
 
 **Kantama:** itse
 
@@ -13,13 +13,13 @@
 Näkymätön maagisen energian voimakenttä ilmestyy suojaamaan
 sinua. Sinulla on seuraavan vuorosi alkuun saakka +5
 bonus puolustukseen, myös sitä hyökkäystä vastaan, johon reaktiona
-loitsit ***kilven***. [Noidannuoli](Noidannuoli.md) ei aiheuta sinuun lainkaan
+loitsit ***kilven***. [Noidannuoli](Noidannuoli) ei aiheuta sinuun lainkaan
 vahinkoa loitsiessasi kilven reaktiona siihen.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Keijuliekki](Keijuliekki.md)
+Edellinen [Keijuliekki](Keijuliekki)
 
-Seuraava [Käsky](Käsky.md)
+Seuraava [Käsky](Käsky)

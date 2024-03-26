@@ -14,8 +14,8 @@ Kosketat olentoa, joka on kuollut viimeisen minuutin aikana. Tuo olento palaa he
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Ajatustenvaihto](Ajatustenvaihto.md)
+Edellinen [Ajatustenvaihto](Ajatustenvaihto)
 
-Seuraava [Eläinten kutsuminen](Eläinten_kutsuminen.md)
+Seuraava [Eläinten kutsuminen](Eläinten_kutsuminen)

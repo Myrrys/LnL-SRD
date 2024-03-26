@@ -18,8 +18,8 @@ Kun loitsit ukkosen kutsumisen, valitse piste loitsun kantamalla, johon sinulla 
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Tulipallo](Tulipallo.md)
+Edellinen [Tulipallo](Tulipallo)
 
-Seuraava [Vampyyrikosketus](Vampyyrikosketus.md)
+Seuraava [Vampyyrikosketus](Vampyyrikosketus)

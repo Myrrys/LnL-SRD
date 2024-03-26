@@ -28,8 +28,8 @@ Jos loitsit tämän loitsun samaan kohtaan joka päivä vuoden ajan, tulee loits
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Tulivalli](Tulivalli.md)
+Edellinen [Tulivalli](Tulivalli)
 
-Seuraava [Ulottuvuusovi](Ulottuvuusovi.md)
+Seuraava [Ulottuvuusovi](Ulottuvuusovi)

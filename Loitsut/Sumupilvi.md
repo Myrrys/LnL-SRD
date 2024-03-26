@@ -23,8 +23,8 @@ joka on ensimmäistä piiriä korkeammalla.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Siunaus](Siunaus.md)
+Edellinen [Siunaus](Siunaus)
 
-Seuraava [Suojaus hyvältä ja pahalta](Suojaus_hyvältä_ja_pahalta.md)
+Seuraava [Suojaus hyvältä ja pahalta](Suojaus_hyvältä_ja_pahalta)

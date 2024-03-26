@@ -21,8 +21,8 @@ myös heittämään ketteryyspelastusheiton ja on epäonnistuessaan
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Pikamarssi](Pikamarssi.md)
+Edellinen [Pikamarssi](Pikamarssi)
 
-Seuraava [Ruoan ja juoman puhdistus](Ruoan_ja_juoman_puhdistus.md)
+Seuraava [Ruoan ja juoman puhdistus](Ruoan_ja_juoman_puhdistus)

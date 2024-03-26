@@ -16,8 +16,8 @@ Jokainen sinua kohtaan vihamielinen olento, joka liikkuu neljän metrin säteell
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Ulottuvuusovi](Ulottuvuusovi.md)
+Edellinen [Ulottuvuusovi](Ulottuvuusovi)
 
-Seuraava [Vahtikoira](Vahtikoira.md)
+Seuraava [Vahtikoira](Vahtikoira)

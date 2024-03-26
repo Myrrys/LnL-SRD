@@ -18,8 +18,8 @@ Pienet vahingot kiven pintaan eivät vahingoita sinua, mutta jos kiveä tuhotaan
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Kirous](Kirous.md)
+Edellinen [Kirous](Kirous)
 
-Seuraava [Kuolleille puhuminen](Kuolleille_puhuminen.md)
+Seuraava [Kuolleille puhuminen](Kuolleille_puhuminen)

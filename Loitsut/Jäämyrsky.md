@@ -17,8 +17,8 @@ Rakeet muuttavat vaikutusalueen vaikeaksi maastoksi seuraavan vuorosi loppuun as
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Jättiläisötökkä](Jättiläisötökkä.md)
+Edellinen [Jättiläisötökkä](Jättiläisötökkä)
 
-Seuraava [Kangastus](Kangastus.md)
+Seuraava [Kangastus](Kangastus)

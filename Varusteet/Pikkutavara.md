@@ -109,6 +109,6 @@ huoneisiin tai hirviöiden aarteisiin omituisia esineitä.
 
 ----
 
-Edellinen [Ruoka, Juoma ja Majoitus](Ruoka_ja_juoma.md)
+Edellinen [Ruoka, Juoma ja Majoitus](Ruoka_ja_juoma)
 
 Seuraava --> Luku: Säännöt

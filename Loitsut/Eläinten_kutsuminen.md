@@ -26,8 +26,8 @@ Pelinjohtaja pitää kirjaa eläinten tiedoista.
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Elvytys](Elvytys.md)
+Edellinen [Elvytys](Elvytys)
 
-Seuraava [Epäkuollut palvelija](Epäkuollut_palvelija.md)
+Seuraava [Epäkuollut palvelija](Epäkuollut_palvelija)

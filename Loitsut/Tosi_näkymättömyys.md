@@ -14,8 +14,8 @@ Sinä tai olento, jota kosket muututte *näkymättömäksi* loitsun keston ajaks
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Taikakupla](Taikakupla.md)
+Edellinen [Taikakupla](Taikakupla)
 
-Seuraava [Tulikilpi](Tulikilpi.md)
+Seuraava [Tulikilpi](Tulikilpi)

@@ -90,6 +90,6 @@ maitse, on syytä huomioida, että se painaa 45 kiloa.
 
 ----
 
-Edellinen [Valmispakkaukset](Valmispakkaukset.md)
+Edellinen [Valmispakkaukset](Valmispakkaukset)
 
-Seuraava [Kauppatavara](Kauppatavara.md)
+Seuraava [Kauppatavara](Kauppatavara)

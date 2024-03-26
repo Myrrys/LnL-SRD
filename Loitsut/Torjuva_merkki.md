@@ -28,8 +28,8 @@ Tehdessäsi merkin saat valita onko se **räjähtävä merkki** vai **loitsumerk
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Toivon majakka](Toivon_majakka.md)
+Edellinen [Toivon majakka](Toivon_majakka)
 
-Seuraava [Tulipallo](Tulipallo.md)
+Seuraava [Tulipallo](Tulipallo)

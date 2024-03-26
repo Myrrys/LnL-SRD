@@ -16,8 +16,8 @@ Loitsun vaurio kasvaa 1n8 viidennellä tasolla (2n8), tasolla 11 (3n8) ja tasoll
 
 ----
 
-Ylätaso [Taikakonstit](0_piirin_taikakonstit.md)
+Ylätaso [Taikakonstit](0_piirin_taikakonstit)
 
-Edellinen [Happoroiske](Happoroiske.md)
+Edellinen [Happoroiske](Happoroiske)
 
-Seuraava [Julma iva](Julma_iva.md)
+Seuraava [Julma iva](Julma_iva)

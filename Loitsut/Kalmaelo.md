@@ -22,8 +22,8 @@ loitsuvaraus loisi 15 väliaikaista osumapistettä lisää, eli yhteensä
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Höyhenpudotus](Höyhenpudotus.md)
+Edellinen [Höyhenpudotus](Höyhenpudotus)
 
-Seuraava [Kampitus](Kampitus.md)
+Seuraava [Kampitus](Kampitus)

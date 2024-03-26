@@ -27,8 +27,8 @@ Pelinjohtaja pitää kirjaa olentojen tiedoista ja *Pelaajan kirjan* ***liittees
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Kivinahka](Kivinahka.md)
+Edellinen [Kivinahka](Kivinahka)
 
-Seuraava [Muodonvaihdos](Muodonvaihdos.md)
+Seuraava [Muodonvaihdos](Muodonvaihdos)

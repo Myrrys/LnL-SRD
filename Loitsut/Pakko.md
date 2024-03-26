@@ -14,8 +14,8 @@ Valitsemasi olennot loitsun kantamalla, jotka voivat nähdä ja kuulla sinut, jo
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Paikanna olento](Paikanna_olento.md)
+Edellinen [Paikanna olento](Paikanna_olento)
 
-Seuraava [Pienten elementaalien kutsuminen](Pienten_elementaalien_kutsuminen.md)
+Seuraava [Pienten elementaalien kutsuminen](Pienten_elementaalien_kutsuminen)

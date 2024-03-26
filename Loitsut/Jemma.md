@@ -16,8 +16,8 @@ Niin kauan kuin kirstu on eetterissä voit käyttää toimintosi siihen, että k
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Hämmennys](Hämmennys.md)
+Edellinen [Hämmennys](Hämmennys)
 
-Seuraava [Jättiläisötökkä](Jättiläisötökkä.md)
+Seuraava [Jättiläisötökkä](Jättiläisötökkä)

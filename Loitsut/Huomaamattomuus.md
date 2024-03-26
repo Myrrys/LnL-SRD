@@ -14,8 +14,8 @@ Kätket loitsun kohteen loitsun keston ajaksi kaikelta ennustamisen koulukunnan 
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Hidastus](Hidastus.md)
+Edellinen [Hidastus](Hidastus)
 
-Seuraava [Hypnoottinen kuvio](Hypnoottinen_kuvio.md)
+Seuraava [Hypnoottinen kuvio](Hypnoottinen_kuvio)

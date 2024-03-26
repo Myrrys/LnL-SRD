@@ -14,8 +14,8 @@ Valitse piste, joka on loitsun kantamalla. Tämän pisteen ympärille kasvaa 8 m
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Peilikuva](Peilikuva.md)
+Edellinen [Peilikuva](Peilikuva)
 
-Seuraava [Pimeys](Pimeys.md)
+Seuraava [Pimeys](Pimeys)

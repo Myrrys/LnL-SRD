@@ -16,8 +16,8 @@ Tämän loitsun vaikutuksessa lukittua kohdetta on myös vaikeampi hajottaa. Haj
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Valheeton alue](Valheeton_alue.md)
+Edellinen [Valheeton alue](Valheeton_alue)
 
-Seuraava [Velhon suu](Velhon_suu.md)
+Seuraava [Velhon suu](Velhon_suu)

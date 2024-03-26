@@ -18,8 +18,8 @@ Kohtalainen tuuli (ainakin 5 m/s) hajottaa pilven neljässä kierroksessa ja kov
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Lento](Lento.md)
+Edellinen [Lento](Lento)
 
-Seuraava [Maja](Maja.md)
+Seuraava [Maja](Maja)

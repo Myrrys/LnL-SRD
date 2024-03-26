@@ -16,8 +16,8 @@ Maaston taktiset ominaisuudet eivät kuitenkaan oikeasti muutu, joten alueelle l
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Jäämyrsky](Jäämyrsky.md)
+Edellinen [Jäämyrsky](Jäämyrsky)
 
-Seuraava [Karkottaminen](Karkottaminen.md)
+Seuraava [Karkottaminen](Karkottaminen)

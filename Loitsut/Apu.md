@@ -16,8 +16,8 @@ Vahvistat littolaisiasi päättäväisyydellä ja tarmokkuudella. Valitse enint�
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Ansojen löytäminen](Ansojen_löytäminen.md)
+Edellinen [Ansojen löytäminen](Ansojen_löytäminen)
 
-Seuraava [Ehdotus](Ehdotus.md)
+Seuraava [Ehdotus](Ehdotus)

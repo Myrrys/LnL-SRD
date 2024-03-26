@@ -18,8 +18,8 @@ Voit vuorollasi bonustoimintona liikuttaa terää kahdeksan metriä ja hyökät�
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Tuulenvire](Tuulenvire.md)
+Edellinen [Tuulenvire](Tuulenvire)
 
-Seuraava [Vainajan siunaus](Vainajan_siunaus.md)
+Seuraava [Vainajan siunaus](Vainajan_siunaus)

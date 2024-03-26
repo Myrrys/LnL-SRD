@@ -18,8 +18,8 @@ Kun lähetti pääsee perille, se toimittaa viestisi kuvailemallesi kohteelle pu
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Ehdotus](Ehdotus.md)
+Edellinen [Ehdotus](Ehdotus)
 
-Seuraava [Eläinten tai kasvien löytäminen](Eläinten_tai_kasvien_löytäminen.md)
+Seuraava [Eläinten tai kasvien löytäminen](Eläinten_tai_kasvien_löytäminen)

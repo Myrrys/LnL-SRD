@@ -23,8 +23,8 @@ hän saa uuden pelastusheiton vaikutusta vastaan.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Sumupilvi](Sumupilvi.md)
+Edellinen [Sumupilvi](Sumupilvi)
 
-Seuraava [Tunnistaminen](Tunnistaminen.md)
+Seuraava [Tunnistaminen](Tunnistaminen)

@@ -18,8 +18,8 @@ Vaihtoehtoisesti voit saada loitsun kohteen vaikuttamaan välinpitämättömält
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Pysäytys](Pysäytys.md)
+Edellinen [Pysäytys](Pysäytys)
 
-Seuraava [Rukouksella parantaminen](Rukouksella_parantaminen.md)
+Seuraava [Rukouksella parantaminen](Rukouksella_parantaminen)

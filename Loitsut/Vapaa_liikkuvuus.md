@@ -16,8 +16,8 @@ Kohde voi käyttää myös kahden metrin verran liikkeestään vapautuakseen ei-
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Valmistaminen](Valmistaminen.md)
+Edellinen [Valmistaminen](Valmistaminen)
 
-Seuraava [Veden hallinta](Veden_hallinta.md)
+Seuraava [Veden hallinta](Veden_hallinta)

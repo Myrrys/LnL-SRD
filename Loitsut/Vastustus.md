@@ -14,8 +14,8 @@ Kosketat yhtä vapaaehtoista olentoa. Ennen loitsun vaikutuksen loppumista kohde
 
 ----
 
-Ylätaso [Taikakonstit](0_piirin_taikakonstit.md)
+Ylätaso [Taikakonstit](0_piirin_taikakonstit)
 
-Edellinen [Valo](Valo.md)
+Edellinen [Valo](Valo)
 
-Seuraava [Velhonkäsi](Velhonkäsi.md)
+Seuraava [Velhonkäsi](Velhonkäsi)

@@ -14,8 +14,8 @@ Muutat enintään kolme pientä tavallista ötökkää vaarallisiksi jättiläis
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Jemma](Jemma.md)
+Edellinen [Jemma](Jemma)
 
-Seuraava [Jäämyrsky](Jäämyrsky.md)
+Seuraava [Jäämyrsky](Jäämyrsky)

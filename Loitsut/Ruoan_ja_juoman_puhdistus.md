@@ -16,8 +16,8 @@ myrkyistä.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Rasvalammikko](Rasvalammikko.md)
+Edellinen [Rasvalammikko](Rasvalammikko)
 
-Seuraava [Salakirjoitus](Salakirjoitus.md)
+Seuraava [Salakirjoitus](Salakirjoitus)

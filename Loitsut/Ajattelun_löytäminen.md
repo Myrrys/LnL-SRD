@@ -22,8 +22,8 @@ Kun löydät olennon yllä mainitulla tavalla, voit lukea sen ajatuksia keston a
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Aaveratsu](Aaveratsu.md)
+Edellinen [Aaveratsu](Aaveratsu)
 
-Seuraava [Ansojen löytäminen](Ansojen_löytäminen.md)
+Seuraava [Ansojen löytäminen](Ansojen_löytäminen)

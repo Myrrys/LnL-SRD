@@ -14,8 +14,8 @@ Luot *näkymättömän* silmän kantaman sisällä, joka leijuu ilmassa loitsun 
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Veden hallinta](Veden_hallinta.md)
+Edellinen [Veden hallinta](Veden_hallinta)
 
-Seuraava [Villipetojen hallinta](Villipetojen_hallinta.md)
+Seuraava [Villipetojen hallinta](Villipetojen_hallinta)

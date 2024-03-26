@@ -20,8 +20,8 @@ Olennon uusi muoto rajoittaa sen toimia, eikä puhuminen, loitsiminen tai käsie
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Metsän olentojen kutsuminen](Metsän_olentojen_kutsuminen.md)
+Edellinen [Metsän olentojen kutsuminen](Metsän_olentojen_kutsuminen)
 
-Seuraava [Mustat lonkerot](Mustat_lonkerot.md)
+Seuraava [Mustat lonkerot](Mustat_lonkerot)
