@@ -24,8 +24,8 @@ Loitsiessasi taikatempun useita kertoja sinulla voi olla enintään kolme korkei
 
 ----
 
-Ylätaso [Taikakonstit](0_piirin_taikakonstit.md)
+Ylätaso [Taikakonstit](0_piirin_taikakonstit)
 
-Edellinen [Sähköshokki](Sähköshokki.md)
+Edellinen [Sähköshokki](Sähköshokki)
 
-Seuraava [Tanssivat valot](Tanssivat_valot.md)
+Seuraava [Tanssivat valot](Tanssivat_valot)

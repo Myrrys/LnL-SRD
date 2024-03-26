@@ -18,8 +18,8 @@ Kaasumuodossa oleva kohde ei voi puhua, käyttää esineitä eikä myöskään p
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Hypnoottinen kuvio](Hypnoottinen_kuvio.md)
+Edellinen [Hypnoottinen kuvio](Hypnoottinen_kuvio)
 
-Seuraava [Kasveille puhuminen](Kasveille_puhuminen.md)
+Seuraava [Kasveille puhuminen](Kasveille_puhuminen)

@@ -16,8 +16,8 @@ Kutsut henkiä suojelemaan sinua. Ne liikkuvat kuuden metrin säteellä sinusta.
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Suoja energialta](Suoja_energialta.md)
+Edellinen [Suoja energialta](Suoja_energialta)
 
-Seuraava [Taikakehä](Taikakehä.md)
+Seuraava [Taikakehä](Taikakehä)

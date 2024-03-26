@@ -16,8 +16,8 @@ Loitsun vaikutus lakkaa, jos osumapisteesi laskevat nollaan tai jos välimatkann
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Loitsunaamio](Loitsunaamio.md)
+Edellinen [Loitsunaamio](Loitsunaamio)
 
-Seuraava [Näkymättömyys](Näkymättömyys.md)
+Seuraava [Näkymättömyys](Näkymättömyys)

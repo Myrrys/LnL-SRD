@@ -24,8 +24,8 @@ Voit myös päättää loitsia tämä loitsun päinvastoin, jolloin estät kysei
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Suojelushenget](Suojelushenget.md)
+Edellinen [Suojelushenget](Suojelushenget)
 
-Seuraava [Taikaratsu](Taikaratsu.md)
+Seuraava [Taikaratsu](Taikaratsu)

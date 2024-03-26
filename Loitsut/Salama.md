@@ -18,8 +18,8 @@ Salama sytyttää tuleen kaikki alueella olevat syttyvät esineet, jotka eivät 
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Räntäsade](Räntäsade.md)
+Edellinen [Räntäsade](Räntäsade)
 
-Seuraava [Selvännäkeminen](Selvännäkeminen.md)
+Seuraava [Selvännäkeminen](Selvännäkeminen)

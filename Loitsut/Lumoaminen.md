@@ -29,8 +29,8 @@ etäisyydellä toisistaan.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Lounasmarja](Lounasmarja.md)
+Edellinen [Lounasmarja](Lounasmarja)
 
-Seuraava [Maaginpanssari](Maaginpanssari.md)
+Seuraava [Maaginpanssari](Maaginpanssari)

@@ -16,8 +16,8 @@ Loitsun vaikutus lakkaa, jos sen kohde kärsii vahinkoa tai jos joku muu raviste
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Huomaamattomuus](Huomaamattomuus.md)
+Edellinen [Huomaamattomuus](Huomaamattomuus)
 
-Seuraava [Kaasumuoto](Kaasumuoto.md)
+Seuraava [Kaasumuoto](Kaasumuoto)

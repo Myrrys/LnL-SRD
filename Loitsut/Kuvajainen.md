@@ -20,8 +20,8 @@ Jos joku koskee kuvajaiseen, se paljastuu illuusioksi, koska sen läpi voi kulke
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Kuolleille puhuminen](Kuolleille_puhuminen.md)
+Edellinen [Kuolleille puhuminen](Kuolleille_puhuminen)
 
-Seuraava [Lento](Lento.md)
+Seuraava [Lento](Lento)

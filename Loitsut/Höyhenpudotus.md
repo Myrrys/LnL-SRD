@@ -20,8 +20,8 @@ loppuu hänen osaltaan laskeutumisen yhteydessä.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Hälytys](Hälytys.md)
+Edellinen [Hälytys](Hälytys)
 
-Seuraava [Kalmaelo](Kalmaelo.md)
+Seuraava [Kalmaelo](Kalmaelo)

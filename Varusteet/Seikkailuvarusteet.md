@@ -313,6 +313,6 @@ repun ulkopuolelle.
 
 ----
 
-Edellinen [Seikkailuvarusteet](Seikkailuvarusteet.md)
+Edellinen [Seikkailuvarusteet](Seikkailuvarusteet)
 
-Seuraava [Työkalut](Tyokalut.md)
+Seuraava [Työkalut](Tyokalut)

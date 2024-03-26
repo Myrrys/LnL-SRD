@@ -14,8 +14,8 @@ Liekkien tavoin lepattava hohde ympäröi loitsun kantamalla olevan valitsemasi 
 
 ----
 
-Ylätaso [Taikakonstit](0_piirin_taikakonstit.md)
+Ylätaso [Taikakonstit](0_piirin_taikakonstit)
 
-Edellinen [Puunuija](Puunuija.md)
+Edellinen [Puunuija](Puunuija)
 
-Seuraava [Sähköshokki](Sähköshokki.md)
+Seuraava [Sähköshokki](Sähköshokki)

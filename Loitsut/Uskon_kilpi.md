@@ -17,8 +17,8 @@ puolustukseen loitsun keston ajaksi.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Uni](Uni.md)
+Edellinen [Uni](Uni)
 
-Seuraava [Valeasu](Valeasu.md)
+Seuraava [Valeasu](Valeasu)

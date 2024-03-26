@@ -14,8 +14,8 @@ Luot 6 metrin säteelle ulottuvan valheettoman alueen valitsemaasi sijaintiin lo
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Vainajan siunaus](Vainajan_siunaus.md)
+Edellinen [Vainajan siunaus](Vainajan_siunaus)
 
-Seuraava [Velhon lukko](Velhon_lukko.md)
+Seuraava [Velhon lukko](Velhon_lukko)

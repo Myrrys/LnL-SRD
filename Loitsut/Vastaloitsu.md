@@ -16,8 +16,8 @@ Yrität keskeyttää jonkun toisen loitsimisen. Kohteen loitsiessa kolmannen tai
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Vampyyrikosketus](Vampyyrikosketus.md)
+Edellinen [Vampyyrikosketus](Vampyyrikosketus)
 
-Seuraava [Veden hengittäminen](Veden_hengittäminen.md)
+Seuraava [Veden hengittäminen](Veden_hengittäminen)

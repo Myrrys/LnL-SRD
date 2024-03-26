@@ -30,8 +30,8 @@ piiriä korkeammalla.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Tunnistaminen](Tunnistaminen.md)
+Edellinen [Tunnistaminen](Tunnistaminen)
 
-Seuraava [Uskon kilpi](Uskon_kilpi.md)
+Seuraava [Uskon kilpi](Uskon_kilpi)

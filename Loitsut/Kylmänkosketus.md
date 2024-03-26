@@ -16,8 +16,8 @@ Luot aavemaisen luurankokäden samaan tilaan loitsun kantamalla olevan olennon k
 
 ----
 
-Ylätaso [Taikakonstit](0_piirin_taikakonstit.md)
+Ylätaso [Taikakonstit](0_piirin_taikakonstit)
 
-Edellinen [Kunnostaminen](Kunnostaminen.md)
+Edellinen [Kunnostaminen](Kunnostaminen)
 
-Seuraava [Luo liekkejä](Luo_liekkejä.md)
+Seuraava [Luo liekkejä](Luo_liekkejä)

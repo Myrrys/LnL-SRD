@@ -20,8 +20,8 @@ Voit loitsiessasi valita jonkin alla mainituista vaihtoehdoista, joka kestää l
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Kaarnaiho](Kaarnaiho.md)
+Edellinen [Kaarnaiho](Kaarnaiho)
 
-Seuraava [Kiehtova](Kiehtova.md)
+Seuraava [Kiehtova](Kiehtova)

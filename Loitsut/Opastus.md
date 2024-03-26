@@ -14,8 +14,8 @@ Kosketat yhtä suostuvaista olentoa. Ennen loitsun vaikutuksen loppumista kohde 
 
 ----
 
-Ylätaso [Taikakonstit](0_piirin_taikakonstit.md)
+Ylätaso [Taikakonstit](0_piirin_taikakonstit)
 
-Edellinen [Myrkkysuihku](Myrkkysuihku.md)
+Edellinen [Myrkkysuihku](Myrkkysuihku)
 
-Seuraava [Puunuija](Puunuija.md)
+Seuraava [Puunuija](Puunuija)

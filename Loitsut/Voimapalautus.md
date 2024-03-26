@@ -14,6 +14,6 @@ Kosketat olentoa ja voit poistaa siltä joko yhden taudin tai olotilan. Valintas
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Verkko](Verkko.md)
+Edellinen [Verkko](Verkko)

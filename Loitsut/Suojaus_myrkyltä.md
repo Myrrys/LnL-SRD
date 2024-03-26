@@ -14,8 +14,8 @@ Voit neutraloida olennossa vaikuttavan myrkyn koskemalla olentoa. Jos olennossa 
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Sumennus](Sumennus.md)
+Edellinen [Sumennus](Sumennus)
 
-Seuraava [Suurennus/kutistus](Suurennus_kutistus.md)
+Seuraava [Suurennus/kutistus](Suurennus_kutistus)

@@ -24,8 +24,8 @@ ensimmäistä piiriä korkeammalla.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Valeasu](Valeasu.md)
+Edellinen [Valeasu](Valeasu)
 
-Seuraava [Varjelus](Varjelus.md)
+Seuraava [Varjelus](Varjelus)

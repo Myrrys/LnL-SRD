@@ -10,7 +10,7 @@ Tämä on Legendoja & Lohikäärmeitä (L&L) SRD (Systems Reference Document) -m
 
 SRD on ns. "beta", ja tarkoitettu SRD konseptin testaamiseen käytännössä. Projekti ei ole millään asteella valmis, ja sen sisältö tai rakenne voivat muuttua milloin tahansa.
 
-SRD perustuu L&L:ään ja Wizards of the Coastin "5th Edition System Reference Document 5.1":eenn. SRD:n sisältö on kokonaisuudessaan [vapaasti käytettävissä Creative Commons BY 4.0 -lisenssin mukaisesti](LICENSE.md). Tarkempi ohjeistus löytyy [tämän dokumentin lopusta](#käyttö-ja-lisenssit).
+SRD perustuu L&L:ään ja Wizards of the Coastin "5th Edition System Reference Document 5.1":eenn. SRD:n sisältö on kokonaisuudessaan [vapaasti käytettävissä Creative Commons BY 4.0 -lisenssin mukaisesti](LICENSE). Tarkempi ohjeistus löytyy [tämän dokumentin lopusta](#käyttö-ja-lisenssit).
 
 ## Ohjeita
 

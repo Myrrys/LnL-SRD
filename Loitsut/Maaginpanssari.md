@@ -18,8 +18,8 @@ toiminnolla.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Lumoaminen](Lumoaminen.md)
+Edellinen [Lumoaminen](Lumoaminen)
 
-Seuraava [Magian löytäminen](Magian_löytäminen.md)
+Seuraava [Magian löytäminen](Magian_löytäminen)

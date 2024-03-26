@@ -26,8 +26,8 @@ yhteensä 4 eläintä).
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Eläimille puhuminen](Eläimille_puhuminen.md)
+Edellinen [Eläimille puhuminen](Eläimille_puhuminen)
 
-Seuraava [Haavoittaminen](Haavoittaminen.md)
+Seuraava [Haavoittaminen](Haavoittaminen)

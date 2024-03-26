@@ -14,8 +14,8 @@ Tämä loitsu paikkaa yhden halkeaman tai repeämän esineessä, jota kosketat. 
 
 ----
 
-Ylätaso [Taikakonstit](0_piirin_taikakonstit.md)
+Ylätaso [Taikakonstit](0_piirin_taikakonstit)
 
-Edellinen [Julma iva](Julma_iva.md)
+Edellinen [Julma iva](Julma_iva)
 
-Seuraava [Kylmänkosketus](Kylmänkosketus.md)
+Seuraava [Kylmänkosketus](Kylmänkosketus)

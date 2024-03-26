@@ -22,8 +22,8 @@ alla. Keijuliekin valoa hohkaava olento ei voi myöskään hyötyä
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Kampitus](Kampitus.md)
+Edellinen [Kampitus](Kampitus)
 
-Seuraava [Kielten ymmärrys](Kielten_ymmärrys.md)
+Seuraava [Kielten ymmärrys](Kielten_ymmärrys)

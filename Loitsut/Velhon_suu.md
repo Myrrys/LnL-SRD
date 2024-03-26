@@ -18,8 +18,8 @@ Voit päättää itse minkälainen ehto on, mutta sen pitää kuitenkin perustua
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Velhon lukko](Velhon_lukko.md)
+Edellinen [Velhon lukko](Velhon_lukko)
 
-Seuraava [Verkko](Verkko.md)
+Seuraava [Verkko](Verkko)

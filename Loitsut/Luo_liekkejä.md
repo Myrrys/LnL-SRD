@@ -14,8 +14,8 @@ Käteesi ilmestyy lepattava liekki. Liekki pysyy kädessäsi koko loitsun keston
 
 ----
 
-Ylätaso [Taikakonstit](0_piirin_taikakonstit.md)
+Ylätaso [Taikakonstit](0_piirin_taikakonstit)
 
-Edellinen [Kylmänkosketus](Kylmänkosketus.md)
+Edellinen [Kylmänkosketus](Kylmänkosketus)
 
-Seuraava [Myrkkysuihku](Myrkkysuihku.md)
+Seuraava [Myrkkysuihku](Myrkkysuihku)

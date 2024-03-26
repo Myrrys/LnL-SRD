@@ -25,8 +25,8 @@ Voit myös sopia pelinjohtajan kanssa, voiko tällä loitsulla olla joku muu vai
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Kirouksen kumoaminen](Kirouksen_kumoaminen.md)
+Edellinen [Kirouksen kumoaminen](Kirouksen_kumoaminen)
 
-Seuraava [Kiveen sulautuminen](Kiveen_sulautuminen.md)
+Seuraava [Kiveen sulautuminen](Kiveen_sulautuminen)
