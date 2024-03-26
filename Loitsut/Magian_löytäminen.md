@@ -21,8 +21,8 @@ metallia tai paperin paksuinen kerros lyijyä.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Maaginpanssari](Maaginpanssari.md)
+Edellinen [Maaginpanssari](Maaginpanssari)
 
-Seuraava [Metsästäjän merkki](Metsästäjän_merkki.md)
+Seuraava [Metsästäjän merkki](Metsästäjän_merkki)

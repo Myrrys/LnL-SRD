@@ -14,8 +14,8 @@ Kosketat elävää olentoa, jolla on 0 osumapistettä. Olennon tilasta tulee vak
 
 ----
 
-Ylätaso [Taikakonstit](0_piirin_taikakonstit.md)
+Ylätaso [Taikakonstit](0_piirin_taikakonstit)
 
-Edellinen [Tulinuoli](Tulinuoli.md)
+Edellinen [Tulinuoli](Tulinuoli)
 
-Seuraava [Valo](Valo.md)
+Seuraava [Valo](Valo)

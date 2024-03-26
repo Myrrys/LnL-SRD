@@ -18,8 +18,8 @@ Jos pisteessä, johon haluaisit teleportata on jo joku olento tai esine, joka es
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Turvasatama](Turvasatama.md)
+Edellinen [Turvasatama](Turvasatama)
 
-Seuraava [Uskon suojelija](Uskon_suojelija.md)
+Seuraava [Uskon suojelija](Uskon_suojelija)

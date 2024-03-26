@@ -16,8 +16,8 @@ Tällä loitsulla saat ainoastaan selville, että lähellä on ansa. Et saa selv
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Ajattelun löytäminen](Ajattelun_löytäminen.md)
+Edellinen [Ajattelun löytäminen](Ajattelun_löytäminen)
 
-Seuraava [Apu](Apu.md)
+Seuraava [Apu](Apu)

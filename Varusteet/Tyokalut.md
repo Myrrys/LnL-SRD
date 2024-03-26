@@ -89,6 +89,6 @@ Pätevyys varkaan työkaluissa antaa pätevyysbonuksesi kaikkiin ominaisuusheitt
 
 ----
 
-Edellinen [Työkalut](Tyokalut.md)
+Edellinen [Työkalut](Tyokalut)
 
-Seuraava [Valmispakkaukset](Valmispakkaukset.md)
+Seuraava [Valmispakkaukset](Valmispakkaukset)

@@ -38,6 +38,6 @@ ja valeasutarvikkeet.
 
 ----
 
-Edellinen [Työkalut](Tyokalut.md)
+Edellinen [Työkalut](Tyokalut)
 
-Seuraava [Ratsut ja kulkuvälineet](Ratsut_ja_kulkuneuvot.md)
+Seuraava [Ratsut ja kulkuvälineet](Ratsut_ja_kulkuneuvot)

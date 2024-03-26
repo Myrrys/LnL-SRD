@@ -20,8 +20,8 @@ Luomasi olento on komennossasi 24 tuntia, jonka jälkeen se ei tottele sinua. Pi
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Eläinten kutsuminen](Eläinten_kutsuminen.md)
+Edellinen [Eläinten kutsuminen](Eläinten_kutsuminen)
 
-Seuraava [Hidastus](Hidastus.md)
+Seuraava [Hidastus](Hidastus)

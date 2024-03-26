@@ -21,8 +21,8 @@ kohden, joka on ensimmäistä piiriä korkeammalla.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Palava käsi](Palava_käsi.md)
+Edellinen [Palava käsi](Palava_käsi)
 
-Seuraava [Piina](Piina.md)
+Seuraava [Piina](Piina)

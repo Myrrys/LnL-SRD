@@ -22,8 +22,8 @@ Tulivallin toinen puoli ei aiheuta vahinkoa.
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Tulikilpi](Tulikilpi.md)
+Edellinen [Tulikilpi](Tulikilpi)
 
-Seuraava [Turvasatama](Turvasatama.md)
+Seuraava [Turvasatama](Turvasatama)

@@ -18,8 +18,8 @@ Loitsun päättymiseen asti voit komennolla muuttaa halutessasi valaistusta kuvu
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Löyhkäävä pilvi](Löyhkäävä_pilvi.md)
+Edellinen [Löyhkäävä pilvi](Löyhkäävä_pilvi)
 
-Seuraava [Myrskyvalli](Myrskyvalli.md)
+Seuraava [Myrskyvalli](Myrskyvalli)

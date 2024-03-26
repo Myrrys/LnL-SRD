@@ -30,8 +30,8 @@ Esineen päätyessä ensimmäistä kertaa pyörteeseen se kärsii 2n8 pistettä 
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Vapaa liikkuvuus](Vapaa_liikkuvuus.md)
+Edellinen [Vapaa liikkuvuus](Vapaa_liikkuvuus)
 
-Seuraava [Velhonsilmä](Velhonsilmä.md)
+Seuraava [Velhonsilmä](Velhonsilmä)

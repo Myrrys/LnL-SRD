@@ -14,8 +14,8 @@ Annat ruumiille loitsun kantamalla väliaikaisen epäelon kipinän, jotta se voi
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Kiveen sulautuminen](Kiveen_sulautuminen.md)
+Edellinen [Kiveen sulautuminen](Kiveen_sulautuminen)
 
-Seuraava [Kuvajainen](Kuvajainen.md)
+Seuraava [Kuvajainen](Kuvajainen)

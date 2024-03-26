@@ -135,6 +135,6 @@ elintasoa esiintymällä.
 
 ----
 
-Edellinen [Kauppatavara](Kauppatavara.md)
+Edellinen [Kauppatavara](Kauppatavara)
 
-Seuraava [Ruoka, Juoma ja Majoitus](Ruoka_ja_juoma.md)
+Seuraava [Ruoka, Juoma ja Majoitus](Ruoka_ja_juoma)

@@ -14,8 +14,8 @@ Kosket keskikokoista tai pienempää kiveä, joka on korkeintaan 2 x 2 x 2 metri
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Kato](Kato.md)
+Edellinen [Kato](Kato)
 
-Seuraava [Kivinahka](Kivinahka.md)
+Seuraava [Kivinahka](Kivinahka)

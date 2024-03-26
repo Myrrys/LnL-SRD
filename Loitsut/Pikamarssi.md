@@ -19,8 +19,8 @@ kohden, joka on ensimmäistä piiriä korkeammalla.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Piina](Piina.md)
+Edellinen [Piina](Piina)
 
-Seuraava [Rasvalammikko](Rasvalammikko.md)
+Seuraava [Rasvalammikko](Rasvalammikko)

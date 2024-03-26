@@ -18,8 +18,8 @@ Et voi myöskään löytää etsimääsi olentoa, jos sinun ja kohteen välissä
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Mustat lonkerot](Mustat_lonkerot.md)
+Edellinen [Mustat lonkerot](Mustat_lonkerot)
 
-Seuraava [Pakko](Pakko.md)
+Seuraava [Pakko](Pakko)

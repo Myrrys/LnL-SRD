@@ -22,8 +22,8 @@ Tällä loitsulla saa myös ***kampitus***-loitsulla luodut kasvit päästämä�
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Kaasumuoto](Kaasumuoto.md)
+Edellinen [Kaasumuoto](Kaasumuoto)
 
-Seuraava [Kasvikasvu](Kasvikasvu.md)
+Seuraava [Kasvikasvu](Kasvikasvu)

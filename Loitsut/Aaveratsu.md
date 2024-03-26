@@ -20,6 +20,6 @@ Ratsun ollessa enintään 2 kilometrin etäisyydellä sinusta voit kommunikoida 
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Seuraava [Ajattelun löytäminen](Ajattelun_löytäminen.md)
+Seuraava [Ajattelun löytäminen](Ajattelun_löytäminen)

@@ -16,8 +16,8 @@ Jokaisen vuorosi alussa vahtikoira yrittää purra sinulle vihamielisiä olentoj
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Uskon suojelija](Uskon_suojelija.md)
+Edellinen [Uskon suojelija](Uskon_suojelija)
 
-Seuraava [Valmistaminen](Valmistaminen.md)
+Seuraava [Valmistaminen](Valmistaminen)

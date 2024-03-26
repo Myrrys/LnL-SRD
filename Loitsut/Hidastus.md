@@ -18,8 +18,8 @@ Jos loitsun vaikutuksen alaisena oleva olento yrittää loitsia, saat heittää 
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Epäkuollut palvelija](Epäkuollut_palvelija.md)
+Edellinen [Epäkuollut palvelija](Epäkuollut_palvelija)
 
-Seuraava [Huomaamattomuus](Huomaamattomuus.md)
+Seuraava [Huomaamattomuus](Huomaamattomuus)

@@ -14,6 +14,6 @@ Kuiskaillen luonnon hengille luot jonkin seuraavista vaikutuksista loitsun kanta
 
 ----
 
-Ylätaso [Taikakonstit](0_piirin_taikakonstit.md)
+Ylätaso [Taikakonstit](0_piirin_taikakonstit)
 
-Seuraava [Happoroiske](Happoroiske.md)
+Seuraava [Happoroiske](Happoroiske)

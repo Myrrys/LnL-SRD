@@ -16,6 +16,6 @@ Loihdit esiin loitsun kantamalla olevan olennon pahimmat pelot illuusiona, jonka
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Seuraava [Elämänlanka](Elämänlanka.md)
+Seuraava [Elämänlanka](Elämänlanka)

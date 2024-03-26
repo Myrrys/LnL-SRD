@@ -46,8 +46,8 @@ korkeintaan 12 metrin kokoisen alueen sisällä toisistaan.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Kilpi](Kilpi.md)
+Edellinen [Kilpi](Kilpi)
 
-Seuraava [Leijuva kiekko](Leijuva_kiekko.md)
+Seuraava [Leijuva kiekko](Leijuva_kiekko)

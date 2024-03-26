@@ -20,8 +20,8 @@ Jos kohdistat loitsun johonkin tavalliseen kasviin, kuten puuhun tai pensaaseen,
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Karkottaminen](Karkottaminen.md)
+Edellinen [Karkottaminen](Karkottaminen)
 
-Seuraava [Kivimuoto](Kivimuoto.md)
+Seuraava [Kivimuoto](Kivimuoto)

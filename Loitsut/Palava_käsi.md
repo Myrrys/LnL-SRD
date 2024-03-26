@@ -24,8 +24,8 @@ ensimmäistä piiriä korkeammalla.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Paineaalto](Paineaalto.md)
+Edellinen [Paineaalto](Paineaalto)
 
-Seuraava [Parantava sana](Parantava_sana.md)
+Seuraava [Parantava sana](Parantava_sana)

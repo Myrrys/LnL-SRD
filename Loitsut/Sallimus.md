@@ -16,8 +16,8 @@ hohkavahinkoa.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Salakirjoitus](Salakirjoitus.md)
+Edellinen [Salakirjoitus](Salakirjoitus)
 
-Seuraava [Sankaruus](Sankaruus.md)
+Seuraava [Sankaruus](Sankaruus)

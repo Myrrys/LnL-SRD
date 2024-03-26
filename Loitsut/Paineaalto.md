@@ -27,8 +27,8 @@ ensimmäistä piiriä korkeammalla.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Näkymätön palvelija](Näkymätön_palvelija.md)
+Edellinen [Näkymätön palvelija](Näkymätön_palvelija)
 
-Seuraava [Palava käsi](Palava_käsi.md)
+Seuraava [Palava käsi](Palava_käsi)

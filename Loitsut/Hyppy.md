@@ -15,8 +15,8 @@ ajan kolminkertainen.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Hornankosto](Hornankosto.md)
+Edellinen [Hornankosto](Hornankosto)
 
-Seuraava [Hyvän ja pahan löytäminen](Hyvän_ja_pahan_löytäminen.md)
+Seuraava [Hyvän ja pahan löytäminen](Hyvän_ja_pahan_löytäminen)

@@ -14,8 +14,8 @@ Muutat raaka-aineita niistä tehdyiksi esineiksi. Pystyt valmistamisella luomaan
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Vahtikoira](Vahtikoira.md)
+Edellinen [Vahtikoira](Vahtikoira)
 
-Seuraava [Vapaa liikkuvuus](Vapaa_liikkuvuus.md)
+Seuraava [Vapaa liikkuvuus](Vapaa_liikkuvuus)

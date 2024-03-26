@@ -16,8 +16,8 @@ Loitsun keston ajan valitsemasi olento voi ratsastaa tällä olennolla. Taikarat
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Taikakehä](Taikakehä.md)
+Edellinen [Taikakehä](Taikakehä)
 
-Seuraava [Taikuuden purkaminen](Taikuuden_purkaminen.md)
+Seuraava [Taikuuden purkaminen](Taikuuden_purkaminen)

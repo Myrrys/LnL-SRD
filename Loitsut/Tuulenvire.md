@@ -18,8 +18,8 @@ Voit bonustoimintona muuttaa tuulen suuntaa jokaisella vuorollasi loitsun vaikut
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Taika-ase](Taika-ase.md)
+Edellinen [Taika-ase](Taika-ase)
 
-Seuraava [Uskon miekka](Uskon_miekka.md)
+Seuraava [Uskon miekka](Uskon_miekka)

@@ -18,8 +18,8 @@ Olento, joka voi nähdä *näkymättömän* esimerkiksi *tosinäöllä* tai loit
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Salama](Salama.md)
+Edellinen [Salama](Salama)
 
-Seuraava [Suoja energialta](Suoja_energialta.md)
+Seuraava [Suoja energialta](Suoja_energialta)

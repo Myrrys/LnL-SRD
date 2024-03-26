@@ -20,8 +20,8 @@ loitsimisesta.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Leijuva kiekko](Leijuva_kiekko.md)
+Edellinen [Leijuva kiekko](Leijuva_kiekko)
 
-Seuraava [Lumoaminen](Lumoaminen.md)
+Seuraava [Lumoaminen](Lumoaminen)

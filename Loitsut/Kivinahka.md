@@ -14,8 +14,8 @@ Loitsu muuttaa koskettamasi vapaaehtoisen olennon lihan kivenkovaksi. Loitsun ke
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Kivimuoto](Kivimuoto.md)
+Edellinen [Kivimuoto](Kivimuoto)
 
-Seuraava [Metsän olentojen kutsuminen](Metsän_olentojen_kutsuminen.md)
+Seuraava [Metsän olentojen kutsuminen](Metsän_olentojen_kutsuminen)

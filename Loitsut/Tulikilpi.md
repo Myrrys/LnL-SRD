@@ -18,8 +18,8 @@ Lisäksi, kun joku olento 2 metrin säteellä osuu sinuun lähitaisteluhyökkäy
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Tosi näkymättömyys](Tosi_näkymättömyys.md)
+Edellinen [Tosi näkymättömyys](Tosi_näkymättömyys)
 
-Seuraava [Tulivalli](Tulivalli.md)
+Seuraava [Tulivalli](Tulivalli)

@@ -14,8 +14,8 @@ Ojennat kätesi kohti valitsemaasi loitsun kantamalla olevaa olentoa, johon sinu
 
 ----
 
-Ylätaso [Taikakonstit](0_piirin_taikakonstit.md)
+Ylätaso [Taikakonstit](0_piirin_taikakonstit)
 
-Edellinen [Luo liekkejä](Luo_liekkejä.md)
+Edellinen [Luo liekkejä](Luo_liekkejä)
 
-Seuraava [Opastus](Opastus.md)
+Seuraava [Opastus](Opastus)

@@ -14,8 +14,8 @@ Kätesi salamoivat iskien sähköiskun olentoon, jota yrität koskettaa. Tee lä
 
 ----
 
-Ylätaso [Taikakonstit](0_piirin_taikakonstit.md)
+Ylätaso [Taikakonstit](0_piirin_taikakonstit)
 
-Edellinen [Pyhä liekki](Pyhä_liekki.md)
+Edellinen [Pyhä liekki](Pyhä_liekki)
 
-Seuraava [Taikatemppu](Taikatemppu.md)
+Seuraava [Taikatemppu](Taikatemppu)

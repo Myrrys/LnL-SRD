@@ -14,8 +14,8 @@ Tämä loitsu antaa kyvyn liikkua veden ja muiden nestemäisessä tai juoksevass
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Veden ja ruoan luominen](Veden_ja_ruoan_luominen.md)
+Edellinen [Veden ja ruoan luominen](Veden_ja_ruoan_luominen)
 
-Seuraava [Vilahdus](Vilahdus.md)
+Seuraava [Vilahdus](Vilahdus)

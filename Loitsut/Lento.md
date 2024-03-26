@@ -16,8 +16,8 @@ Kosketat vapaaehtoista olentoa. Kohde saa 24 metrin lentonopeuden loitsun keston
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Kuvajainen](Kuvajainen.md)
+Edellinen [Kuvajainen](Kuvajainen)
 
-Seuraava [Löyhkäävä pilvi](Löyhkäävä_pilvi.md)
+Seuraava [Löyhkäävä pilvi](Löyhkäävä_pilvi)

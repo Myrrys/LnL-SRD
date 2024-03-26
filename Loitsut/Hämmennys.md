@@ -28,8 +28,8 @@ Jokaisen vuoronsa lopuksi loitsun kohde voi heittää viisauspelastusheiton. Onn
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Ennustaminen](Ennustaminen.md)
+Edellinen [Ennustaminen](Ennustaminen)
 
-Seuraava [Jemma](Jemma.md)
+Seuraava [Jemma](Jemma)

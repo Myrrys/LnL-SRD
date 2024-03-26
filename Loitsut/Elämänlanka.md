@@ -18,8 +18,8 @@ Jos kohde joutuu tämän loitsun keston aikana kuolettavan vaikutuksen alaiseksi
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Aavetappaja](Aavetappaja.md)
+Edellinen [Aavetappaja](Aavetappaja)
 
-Seuraava [Ennustaminen](Ennustaminen.md)
+Seuraava [Ennustaminen](Ennustaminen)

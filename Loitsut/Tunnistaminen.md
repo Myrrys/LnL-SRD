@@ -24,8 +24,8 @@ hetkellä.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Suojaus hyvältä ja pahalta](Suojaus_hyvältä_ja_pahalta.md)
+Edellinen [Suojaus hyvältä ja pahalta](Suojaus_hyvältä_ja_pahalta)
 
-Seuraava [Uni](Uni.md)
+Seuraava [Uni](Uni)

@@ -28,8 +28,8 @@ Kosketat olentoa antaen sille samalla maagisen lisän ominaisuuteen. Voit valita
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Näkymättömän näkeminen](Näkymättömän_näkeminen.md)
+Edellinen [Näkymättömän näkeminen](Näkymättömän_näkeminen)
 
-Seuraava [Peilikuva](Peilikuva.md)
+Seuraava [Peilikuva](Peilikuva)

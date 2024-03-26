@@ -14,8 +14,8 @@ Luot 20 kiloa ruokaa ja 120 litraa vettä joko loitsun kantamalla oleviin astioi
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Veden hengittäminen](Veden_hengittäminen.md)
+Edellinen [Veden hengittäminen](Veden_hengittäminen)
 
-Seuraava [Vetten päällä kävely](Vetten_päällä_kävely.md)
+Seuraava [Vetten päällä kävely](Vetten_päällä_kävely)

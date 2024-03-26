@@ -16,8 +16,8 @@ Lausut ääneen mahtisanan, joka parantaa liittolaisiasi. Enintään kuusi valit
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Myrskyvalli](Myrskyvalli.md)
+Edellinen [Myrskyvalli](Myrskyvalli)
 
-Seuraava [Pelko](Pelko.md)
+Seuraava [Pelko](Pelko)

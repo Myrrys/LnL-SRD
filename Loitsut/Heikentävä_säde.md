@@ -16,8 +16,8 @@ Loitsun kohde heittää jokaisen vuoronsa lopuksi sitkeys-pelastusheiton loitsua
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Happonuoli](Happonuoli.md)
+Edellinen [Happonuoli](Happonuoli)
 
-Seuraava [Hiljaisuus](Hiljaisuus.md)
+Seuraava [Hiljaisuus](Hiljaisuus)

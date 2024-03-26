@@ -18,8 +18,8 @@ Loitsu ei löydä esinettä, jos sinun ja esineen välissä on edes pieni kerros
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Ennusmerkit](Ennusmerkit.md)
+Edellinen [Ennusmerkit](Ennusmerkit)
 
-Seuraava [Happonuoli](Happonuoli.md)
+Seuraava [Happonuoli](Happonuoli)

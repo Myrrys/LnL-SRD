@@ -14,8 +14,8 @@ Sinut ympäröi varjojen ja hiljaisuuden verho, joka kätkee myös ystäväsi. L
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Hämähäkkikiipeily](Hämähäkkikiipeily.md)
+Edellinen [Hämähäkkikiipeily](Hämähäkkikiipeily)
 
-Seuraava [Kaarnaiho](Kaarnaiho.md)
+Seuraava [Kaarnaiho](Kaarnaiho)

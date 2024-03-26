@@ -16,8 +16,8 @@ Voit *sokeuttaa* tai *kuurouttaa* vihollisen. Valitse yksi olento loitsun kantam
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Sivuaskel](Sivuaskel.md)
+Edellinen [Sivuaskel](Sivuaskel)
 
-Seuraava [Sumennus](Sumennus.md)
+Seuraava [Sumennus](Sumennus)

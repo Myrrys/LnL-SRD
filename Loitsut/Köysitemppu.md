@@ -18,8 +18,8 @@ Tilassa oleskelevat näkevät kuitenkin ulos tilasta 1x1m kokoisesta "ikkunasta"
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Kuunsäde](Kuunsäde.md)
+Edellinen [Kuunsäde](Kuunsäde)
 
-Seuraava [Levitaatio](Levitaatio.md)
+Seuraava [Levitaatio](Levitaatio)

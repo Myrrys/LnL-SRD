@@ -21,8 +21,8 @@ kasvillisuus kuihtuu pois.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Kalmaelo](Kalmaelo.md)
+Edellinen [Kalmaelo](Kalmaelo)
 
-Seuraava [Keijuliekki](Keijuliekki.md)
+Seuraava [Keijuliekki](Keijuliekki)

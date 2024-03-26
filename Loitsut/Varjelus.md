@@ -22,8 +22,8 @@ olento hyökkää vihamielistä olentoa kohti.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Valojuova](Valojuova.md)
+Edellinen [Valojuova](Valojuova)
 
-Seuraava [Veden luominen tai tuhoaminen](Veden_luominen_tai_tuhoaminen.md)
+Seuraava [Veden luominen tai tuhoaminen](Veden_luominen_tai_tuhoaminen)

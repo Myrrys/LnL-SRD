@@ -14,8 +14,8 @@ Saat loitsun avulla yhteyden johonkin jumalalliseen olentoon, joka tarjoaa sinul
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Elämänlanka](Elämänlanka.md)
+Edellinen [Elämänlanka](Elämänlanka)
 
-Seuraava [Hämmennys](Hämmennys.md)
+Seuraava [Hämmennys](Hämmennys)

@@ -20,8 +20,8 @@ Kuplaan kohdistuva ***tuhosäde***-loitsu tuhoaa sen vahingoittamatta mitään s
 
 ----
 
-Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut.md)
+Ylätaso [Neljännen piirin loitsut](4_piirin_loitsut)
 
-Edellinen [Pienten elementaalien kutsuminen](Pienten_elementaalien_kutsuminen.md)
+Edellinen [Pienten elementaalien kutsuminen](Pienten_elementaalien_kutsuminen)
 
-Seuraava [Tosi näkymättömyys](Tosi_näkymättömyys.md)
+Seuraava [Tosi näkymättömyys](Tosi_näkymättömyys)
