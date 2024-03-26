@@ -21,7 +21,7 @@ Olento katoaa, kun sen osumapisteet laskevat nollaan tai kun loitsun vaikutus la
 
 Kutsutut olennot ovat ystävällisiä sinulle ja tovereillesi. Heitä aloiteheitto koko joukolle. Ne tottelevat sanallisia ohjeita (ei tarvitse erillistä toimintoa sinulta). Jos et anna niille ohjeita, ne puolustavat itseään, mutta eivät toimi muuten.
 
-Pelinjohtaja pitää kirjaa olentojen tiedoista ja tämän kirjan ***liitteestä D*** löytyvät mm. ***näkki***, ***dryadi***, ***satyyri*** ja ***keijukainen***, jotka ovat kaikki olentoja, joita tällä loitsulla voidaan kutsua.
+Pelinjohtaja pitää kirjaa olentojen tiedoista ja *Pelaajan kirjan* ***liitteestä D*** löytyvät mm. ***näkki***, ***dryadi***, ***satyyri*** ja ***keijukainen***, jotka ovat kaikki olentoja, joita tällä loitsulla voidaan kutsua.
 
 **Korkeammilla loitsuvarauksilla.** Jos loitsit tämän loitsun käyttäen korkeamman piirin loitsuvarauksen, voit valita yhden ylläolevista vaihtoehdoista ja saat kutsuttua enemmän olentoja: kaksi kertaa enemmän käyttäen kuudennen piirin loitsuvarauksen ja kolme kertaa enemmän käyttäen kahdeksannen piirin loitsuvarauksen.
 

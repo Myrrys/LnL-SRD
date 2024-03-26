@@ -10,7 +10,7 @@
 
 **Kesto:** keskittyminen, korkeintaan 1 minuutin
 
-Voimaa hehkuva kupla sulkee sisäänsä enintään suurikokoisen olennon tai esineen loitsun kantamalla. Jos olento ei halua kuplan sisälle, sen pitää heittää ketteryys-pelastusheitto. Epäonnistuessaan olento päätyy kuplan sisään loitsun keston ajaksi.
+Voimaa hehkuva kupla sulkee sisäänsä enintään suurikokoisen olennon tai esineen loitsun kantamalla. Jos olento ei halua kuplan sisälle, sen pitää heittää ketteryyspelastusheitto. Epäonnistuessaan olento päätyy kuplan sisään loitsun keston ajaksi.
 
 Mikään (fyysinen esine, energia tai loitsujen voima) ei voi läpäistä kuplan kuorta ulkoa sisäänpäin tai sisältä ulos, joskin sen sisällä oleva olento voi hengittää. Kupla on immuuni kaikelle vahingolle.
 

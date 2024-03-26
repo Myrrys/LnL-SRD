@@ -10,7 +10,7 @@
 
 **Kesto:** keskittyminen, enintään yksi tunti
 
-Luot *näkymättömän* silmän kantaman sisällä, joka leijuu ilmassa loitsun keston ajan. Silmä välittää mieleesi kaiken, mitä se näkee. Sillä on normaali näköaisti ja lisäksi pimeänäkö 12 metrin päähän. Silmä pystyy katsomaan mihin suuntaan tahansa. Voit toimintona liikuttaa silmää 12 metriä mihin suuntaan tahansa. Sille ei ole rajoituksia kuinka kauas silmää liikutat, mutta se ei voi siirtyä toiselle maailmatasolle. Kiinteä este tai seinä estää silmän liikkumisen, mutta se pystyy liikkumaan jopa vain 2-3 senttiä leveiden aukkojen ja halkeamien läpi.
+Luot *näkymättömän* silmän kantaman sisällä, joka leijuu ilmassa loitsun keston ajan. Silmä välittää mieleesi kaiken, mitä se näkee. Sillä on normaali näköaisti ja lisäksi pimeänäkö 12 metrin päähän. Silmä pystyy katsomaan mihin suuntaan tahansa. Voit toimintona liikuttaa silmää 12&nbsp;metriä mihin suuntaan tahansa. Sille ei ole rajoituksia kuinka kauas silmää liikutat, mutta se ei voi siirtyä toiselle maailmatasolle. Kiinteä este tai seinä estää silmän liikkumisen, mutta se pystyy liikkumaan jopa vain 2&ndash;3&nbsp;senttiä leveiden aukkojen ja halkeamien läpi.
 
 ----
 

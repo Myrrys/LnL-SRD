@@ -10,8 +10,7 @@
 
 **Kesto:** keskittyminen, korkeintaan 1 tunnin
 
-Kuvaile tai nimeä sinulle tuttu olento. Saat selville suunnan, jossa kyseinen olento on, kunhan se on alle 400 metrin päässä sinusta. Jos olento liikkuu, saat samalla selville sen liikkeen 
-suunnan.
+Kuvaile tai nimeä sinulle tuttu olento. Saat selville suunnan, jossa kyseinen olento on, kunhan se on alle 400 metrin päässä sinusta. Jos olento liikkuu, saat samalla selville sen liikkeen suunnan.
 
 Tällä loitsulla voit löytää jonkun tietyn sinulle tutun olennon tai lähimmän tiettyä lajia olevan olennon, kuten esimerkiksi ihmisen tai yksisarvisen, kunhan olet joskus nähnyt kyseisen olennon läheltä. Jos kyseinen olento on toisessa olomuodossa (esimerkiksi ***muodonvaihdos***-loitsun vaikutuksesta), tämä loitsu ei löydä kyseistä olentoa.
 

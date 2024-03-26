@@ -14,7 +14,7 @@ Kosketat olentoa ja annat sille samalla hitusen suojelusta kuolemalta.
 
 Kun loitsun keston aikana olennon osumapisteet laskevat ensimmäisen kerran nollaan vahingosta, laskevat ne sen sijaan 1 osumapisteeseen ja loitsu päättyy. 
 
-Jos kohde joutuu tämän loitsun keston aikana kuolettavan vaikutuksen alaiseksi, joka ei aiheuta vahinkoa, kumoaa elämänlanka tuon kuolettavan vaikutuksen ja tämä loitsu päättyy. 
+Jos kohde joutuu tämän loitsun keston aikana kuolettavan vaikutuksen alaiseksi, joka ei aiheuta vahinkoa, kumoaa ***elämänlanka*** tuon kuolettavan vaikutuksen ja tämä loitsu päättyy. 
 
 ----
 

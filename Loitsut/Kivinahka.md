@@ -10,7 +10,7 @@
 
 **Kesto:** keskittyminen, enintään tunti
 
-Loitsu muuttaa koskettamasi vapaaehtoisen olennon lihan kivenkovaksi. Loitsun keston ajan kohteella on sietokyky viilto-, pisto- ja murskausvahinkoon tavallisista ei-maagisista aseista.
+Loitsu muuttaa koskettamasi vapaaehtoisen olennon lihan kivenkovaksi. Loitsun keston ajan kohteella on **sietokyky** viilto-, pisto- ja murskausvahinkoon tavallisista ei-maagisista aseista.
 
 ----
 

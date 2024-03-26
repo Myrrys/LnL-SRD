@@ -12,9 +12,9 @@
 
 Hallitset loitsun keston ajan järven, joen tai meren vettä haluamallasi alueella loitsun kantamalla, joka on kuution muotoinen ja sivuiltaan korkeintaan 40 metrin kokoinen. Voit valita minkä tahansa alla olevista vaikutuksista loitsiessasi. Voit vuorollasi käyttää toiminnon toistaaksesi edellisen vaikutuksen tai valitaksesi jonkin muun.
 
-**Tulva.** Saat seisovan veden nousemaan jopa 6 metriä. Jos valitsemaasi alueeseen kuuluu ranta, vesi tulvii kuivalle maalle.
+**Tulva.** Saat seisovan veden nousemaan jopa 6&nbsp;metriä. Jos valitsemaasi alueeseen kuuluu ranta, vesi tulvii kuivalle maalle.
 
-Jos taas valitset alueen, joka on keskellä isompaa vesialuetta, saat luotua 6 metriä korkean aallon, joka kulkee valitsemasi alueen reunasta toiseen ja iskeytyy siellä alas. Kaikki valtavat tai niitä pienemmät alukset aallon kulkumatkalla kulkeutuvat aallon mukana alueen toiseen reunaan ja niillä on 25% mahdollisuus kaatua.
+Jos taas valitset alueen, joka on keskellä isompaa vesialuetta, saat luotua 6&nbsp;metriä korkean aallon, joka kulkee valitsemasi alueen reunasta toiseen ja iskeytyy siellä alas. Kaikki valtavat tai niitä pienemmät alukset aallon kulkumatkalla kulkeutuvat aallon mukana alueen toiseen reunaan ja niillä on 25% mahdollisuus kaatua.
 
 Veden pinta pysyy korkeana loitsun keston ajan tai kunnes valitset toisen vaikutuksen. Jos loit aallon, uusi aalto pyyhkii alueen läpi joka vuorosi jälkeen.
 
@@ -22,9 +22,9 @@ Veden pinta pysyy korkeana loitsun keston ajan tai kunnes valitset toisen vaikut
 
 **Virran kääntäminen.** Saat virtaavan veden kulkemaan haluamaasi suuntaan, vaikka sen pitäisi virrata ylämäkeen, ylittää muureja tai mennä muuten epätavalliseen suuntaan. Alueella oleva vesi virtaa haluamaasi suuntaan, mutta heti alueen ulkopuolella virta alkaa noudattaa luonnonlakeja. Vesi jatkaa virtaamista haluamaasi suuntaan loitsun keston ajan tai kunnes valitset toisen vaikutuksen.
 
-**Pyörre.** Tämä vaikutus vaatii vesialueen, jossa vettä on vähintään 20x20 metrin neliön verran ja vesialue on vähintään 7 metriä syvä. Saat aikaan pyörteen veden keskelle. Pyörre on 7 metriä syvä, pohjastaan 2 metriä leveä ja pinnalta korkeintaan 20 metriä leveä. Jokainen olento tai esine vedessä, joka on 10 metrin säteellä pyörteestä, joutuu pyörteen vetämäksi ja liikkuu 4 metriä kohti pyörrettä. Olento voi uida kauemmaksi pyörteestä onnistuneella voimakkuus (urheilu) heitolla sinun loitsusi pelastusheiton vaikeusastetta vastaan.
+**Pyörre.** Tämä vaikutus vaatii vesialueen, jossa vettä on vähintään 20&nbsp;x&nbsp;20&nbsp;metrin neliön verran ja vesialue on vähintään 7&nbsp;metriä syvä. Saat aikaan pyörteen veden keskelle. Pyörre on 7&nbsp;metriä syvä, pohjastaan 2&nbsp;metriä leveä ja pinnalta korkeintaan 20&nbsp;metriä leveä. Jokainen olento tai esine vedessä, joka on 10&nbsp;metrin säteellä pyörteestä, joutuu pyörteen vetämäksi ja liikkuu 4&nbsp;metriä kohti pyörrettä. Olento voi uida kauemmaksi pyörteestä onnistuneella voimakkuusheitolla (urheilu) sinun loitsusi pelastusheiton vaikeusastetta vastaan.
 
-Olento joutuu heittämään voimakkuus-pelastusheiton joutuessaan pyörteeseen ensimmäisen kerran vuorollaan tai aloittaessaan vuoronsa siellä. Epäonnistuessaan olento kärsii 2n8 pistettä murskausvahinkoa ja joutuu pyörteeseen loitsun keston ajaksi. Onnistuessaan olento kärsii puolet vahingosta eikä joudu pyörteeseen. Pyörteeseen joutunut olento voi käyttää toiminnon uidakseen pois pyörteestä. Uiminen onnistuu voimakkuus (urheilu) heitolla loitsusi pelastusheiton vaikeusastetta vastaan. Olennolla on *haitta* tähän heittoon.
+Olento joutuu heittämään voimakkuus-pelastusheiton joutuessaan pyörteeseen ensimmäisen kerran vuorollaan tai aloittaessaan vuoronsa siellä. Epäonnistuessaan olento kärsii 2n8 pistettä murskausvahinkoa ja joutuu pyörteeseen loitsun keston ajaksi. Onnistuessaan olento kärsii puolet vahingosta eikä joudu pyörteeseen. Pyörteeseen joutunut olento voi käyttää toiminnon uidakseen pois pyörteestä. Uiminen onnistuu voimakkuusheitolla (urheilu) loitsusi pelastusheiton vaikeusastetta vastaan. Olennolla on *haitta* tähän heittoon.
 
 Esineen päätyessä ensimmäistä kertaa pyörteeseen se kärsii 2n8 pistettä murskausvahinkoa. Se saa vastaavan määrän vahinkoa joka kierroksella kun se pysyy pyörteessä.
 

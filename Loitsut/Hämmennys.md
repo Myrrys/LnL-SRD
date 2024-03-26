@@ -10,9 +10,9 @@
 
 **Kesto:** keskittyminen, korkeintaan 1 minuutin
 
-Tämä loitsu vääntää kohteidensa mielet solmuun. Loitsit 4 metriä säteeltään olevan pallon, jonka keskipiste on jossain loitsun kantamalla. Jokainen olento, joka on pallon sisällä, joutuu heittämään viisaus-pelastusheiton. Epäonnistuessaan olento joutuu tämän loitsun vaikutuksen alaiseksi.
+Tämä loitsu vääntää kohteidensa mielet solmuun. Loitsit 4 metriä säteeltään olevan pallon, jonka keskipiste on jossain loitsun kantamalla. Jokainen olento, joka on pallon sisällä, joutuu heittämään viisauspelastusheiton. Epäonnistuessaan olento joutuu tämän loitsun vaikutuksen alaiseksi.
 
-Loitsun vaikutuksen alaisena oleva olento ei voi tehdä reaktiotoimintoja ja pelaajan tai pelinjohtajan on heitettävä n10 jokaisen vuoron aluksi määrittääkseen mitä kohde voi sillä vuorolla tehdä.
+Loitsun vaikutuksen alaisena oleva olento ei voi tehdä reaktiotoimintoja ja pelaajan tai pelinjohtajan on heitettävä 1n10 jokaisen vuoron aluksi määrittääkseen mitä kohde voi sillä vuorolla tehdä.
 
 | 1n10 | Käytös                                                                                                                                                     |
 |------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -22,7 +22,7 @@ Loitsun vaikutuksen alaisena oleva olento ei voi tehdä reaktiotoimintoja ja pel
 | 9-10 | Kohde voi toimia ja liikkua normaalisti.                                                                                                                   |
 |      |                                                                                                                                                            |
 
-Jokaisen vuoronsa lopuksi loitsun kohde voi heittää viisaus-pelastusheiton. Onnistuessaan loitsun vaikutus lakkaa.
+Jokaisen vuoronsa lopuksi loitsun kohde voi heittää viisauspelastusheiton. Onnistuessaan loitsun vaikutus lakkaa.
 
 **Korkeammilla loitsuvarauksilla.** Jos loitsit tämän loitsun käyttäen viidennen tai sitä korkeamman piirin loitsuvarauksen, pallon säde kasvaa kahdella metrillä jokaista loitsuvarauksen piiriä kohden, joka on neljättä piiriä korkeammalla. 
 

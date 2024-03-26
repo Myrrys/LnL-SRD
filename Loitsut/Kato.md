@@ -10,7 +10,7 @@
 
 **Kesto:** välitön
 
-Kuolonenergia virtaa haluamaasi olentoon loitsun kantamalla imien hänestä kosteutta ja elinvoimaa. Kohteen täytyy heittää sitkeys-pelastusheitto. Epäonnistuessaan kohde kärsii 8n8 pistettä kuolonvahinkoa ja onnistuessaan vain puolet siitä. Tämä loitsu ei vaikuta epäkuolleisiin tai rakennelmiin.
+Kuolonenergia virtaa haluamaasi olentoon loitsun kantamalla imien hänestä kosteutta ja elinvoimaa. Kohteen täytyy heittää sitkeyspelastusheitto. Epäonnistuessaan kohde kärsii 8n8 pistettä kuolonvahinkoa ja onnistuessaan vain puolet siitä. Tämä loitsu ei vaikuta epäkuolleisiin tai rakennelmiin.
 
 Jos kohdistat loitsun kasviolentoon tai maagiseen kasviin, se tekee pelastusheiton haitalla ja kärsii suurimman mahdollisimman vahingon, jonka kato voi aiheuttaa.
 

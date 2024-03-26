@@ -10,9 +10,9 @@
 
 **Kesto:** 24 tuntia
 
-Saat korkeintaan 60x60x60 metrin kokoisen alueen loitsun kantamalla vaikuttamaan joltakin toiselta maastolta. Voit esimerkiksi saada tien ja avoimen maaston näyttämään suolta, mäeltä tai metsiköltä, voit tehdä lammesta niityn näköisen tai voit saada louhikon näyttämään hyväkuntoiselta tieltä. Et voi muuttaa rakennusten, esineiden tai olentojen ulkonäköä alueella.
+Saat korkeintaan 60 x 60 x 60 metrin kokoisen alueen loitsun kantamalla vaikuttamaan joltakin toiselta maastolta. Voit esimerkiksi saada tien ja avoimen maaston näyttämään suolta, mäeltä tai metsiköltä, voit tehdä lammesta niityn näköisen tai voit saada louhikon näyttämään hyväkuntoiselta tieltä. Et voi muuttaa rakennusten, esineiden tai olentojen ulkonäköä alueella.
 
-Maaston taktiset ominaisuudet eivät kuitenkaan oikeasti muutu, joten alueelle liikkuvat olennot yleensä huomaavat kyseessä olevan illuusio. Jos eroa ei huomaa selvästi kosketuksesta, voi illuusiota tutkia. Onnistuneella älykkyys (tutkimus) heitolla loitsun pelastusheiton VA:ta vastaan huomaa kyseessä olevan illuusio.
+Maaston taktiset ominaisuudet eivät kuitenkaan oikeasti muutu, joten alueelle liikkuvat olennot yleensä huomaavat kyseessä olevan illuusio. Jos eroa ei huomaa selvästi kosketuksesta, voi illuusiota tutkia. Onnistuneella älykkyysheitolla (tutkimus) loitsun pelastusheiton VA:ta vastaan huomaa kyseessä olevan illuusio.
 
 ----
 

@@ -10,7 +10,7 @@
 
 **Kesto:** keskittyminen, korkeintaan 1 tunnin
 
-Tämä loitsu muuttaa näköpiirissä olevan olennon muotoa. Jos olento ei ole halukas muodonmuutokseen, sen pitää heittää viisaus-pelastusheitto. Loitsu ei vaikuta muodonmuuttajiin tai olentoihin, joilla on 0 osumapistettä.
+Tämä loitsu muuttaa näköpiirissä olevan olennon muotoa. Jos olento ei ole halukas muodonmuutokseen, sen pitää heittää viisauspelastusheitto. Loitsu ei vaikuta muodonmuuttajiin tai olentoihin, joilla on 0 osumapistettä.
 
 Muutos kestää loitsun keston ajan, kunnes kohteen osumapisteet laskevat nollaan tai jos kohde kuolee. Uusi muoto voi olla mikä tahansa eläin, jonka haastearvo on yhtä suuri tai pienempi kuin kohteen haastearvo tai tasot, jos kohteella ei ole haastearvoa. Kohteen ominaisuudet vaihtuvat valitun eläimen ominaisuuksiksi. Kohteen ryhmittyminen ja persoonallisuus säilyvät sen omina.
 

@@ -10,7 +10,7 @@
 
 **Kesto:** välitön
 
-Kosket keskikokoista tai pienempää kiveä, joka on korkeintaan 2x2x2 metrin kokoinen, ja muokkaat sen haluamasi muotoiseksi. Tällä loitsulla voit tehdä esimerkiksi aseen, patsaan tai arkun kivestä tai voit tehdä kahden metrin mittaisen käytävän korkeintaan 2 metriä paksuun kiviseinään. Tällä loitsulla voit myös muurata kivioven umpeen. Muovaamassasi esineessä voi olla kaksi saranaa ja salpa, mutta ei mitään sen monimutkaisempia mekanismeja.
+Kosket keskikokoista tai pienempää kiveä, joka on korkeintaan 2 x 2 x 2 metrin kokoinen, ja muokkaat sen haluamasi muotoiseksi. Tällä loitsulla voit tehdä esimerkiksi aseen, patsaan tai arkun kivestä tai voit tehdä kahden metrin mittaisen käytävän korkeintaan 2 metriä paksuun kiviseinään. Tällä loitsulla voit myös muurata kivioven umpeen. Muovaamassasi esineessä voi olla kaksi saranaa ja salpa, mutta ei mitään sen monimutkaisempia mekanismeja.
 
 ----
 
