@@ -6,3 +6,4 @@ Seuraavilla sivuilla löydät kuvaukset kaikista tunnetuista loitsuista. Loitsut
 * [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
 * [Toisen piirin loitsut](2_piirin_loitsut.md)
 * [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+* [Neljännen piirin loitsut](4_piirin_loitsut.md)

@@ -51,3 +51,5 @@ A-V ajatustenvaihdosta vilahdukseen.
 Ylätaso [Loitsut](Loitsut.md)
 
 Edellinen [Toisen piirin loitsut](2_piirin_loitsut.md)
+
+Seuraava [Neljännen piirin loitsut](4_piirin_loitsut.md)
