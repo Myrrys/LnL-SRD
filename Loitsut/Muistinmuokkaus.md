@@ -22,8 +22,8 @@ Muuttunut muisto ei muuta olennon käytöstä, etenkin jos se sotii olennon ylei
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Metsäharppaus](Metsäharppaus.md)
+Edellinen [Metsäharppaus](Metsäharppaus)
 
-Seuraava [Myrkkypilvi](Myrkkypilvi.md)
+Seuraava [Myrkkypilvi](Myrkkypilvi)

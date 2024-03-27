@@ -20,6 +20,6 @@ Jos keskittymisesi katkeaa, elementaali ei katoa, vaan menetät hallinnan siitä
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Seuraava [Esineen herättäminen](Esineen_herättäminen.md)
+Seuraava [Esineen herättäminen](Esineen_herättäminen)

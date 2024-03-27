@@ -14,9 +14,9 @@ Hohtava este heijastuu sinusta 4 metrin säteelle ja liikkuu mukanasi sulkien se
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Pyhittäminen](Pyhittäminen.md)
+Edellinen [Pyhittäminen](Pyhittäminen)
 
-Seuraava [Tahdon hallinta](Tahdon_hallinta.md)
+Seuraava [Tahdon hallinta](Tahdon_hallinta)
 

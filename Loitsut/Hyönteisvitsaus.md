@@ -18,8 +18,8 @@ Alueen ilmestyessä jokainen sen sisällä oleva olento joutuu heittämään sit
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Hyytävä purkaus](Hyytävä_purkaus.md)
+Edellinen [Hyytävä purkaus](Hyytävä_purkaus)
 
-Seuraava [Johdatus](Johdatus.md)
+Seuraava [Johdatus](Johdatus)

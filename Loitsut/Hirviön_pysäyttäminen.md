@@ -16,8 +16,8 @@ Valitse olento, jonka näet loitsun kantamalla. Kohteen tulee onnistua viisauspe
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Herättäminen](Herättäminen.md)
+Edellinen [Herättäminen](Herättäminen)
 
-Seuraava [Houkutuslintu](Houkutuslintu.md)
+Seuraava [Houkutuslintu](Houkutuslintu)

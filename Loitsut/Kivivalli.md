@@ -24,8 +24,8 @@ Jos keskityt koko loitsun keston ajan, loitsulla luodusta vallista tulee pysyvä
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Joukkoparannus](Joukkoparannus.md)
+Edellinen [Joukkoparannus](Joukkoparannus)
 
-Seuraava [Kuolleista nostaminen](Kuolleista_nostaminen.md)
+Seuraava [Kuolleista nostaminen](Kuolleista_nostaminen)

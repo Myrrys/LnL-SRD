@@ -18,9 +18,9 @@ Voit luoda pysyvän teleportaatiokehän loitsimalla tämän loitsun samaan paikk
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Telepaattinen side](Telepaattinen_side.md)
+Edellinen [Telepaattinen side](Telepaattinen_side)
 
-Seuraava [Univiesti](Univiesti.md)
+Seuraava [Univiesti](Univiesti)
 

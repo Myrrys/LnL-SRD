@@ -18,8 +18,8 @@ Sidotun olennon tulee noudattaa käskyjäsi parhaan kykynsä mukaan. Voit esimer
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Etäkatselu](Etäkatselu.md)
+Edellinen [Etäkatselu](Etäkatselu)
 
-Seuraava [Herättäminen](Herättäminen.md)
+Seuraava [Herättäminen](Herättäminen)

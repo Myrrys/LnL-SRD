@@ -16,6 +16,6 @@ Onnistuessasi pelastusheitossa saat yhteyden tietoisuuteen, ja sinulla on minuut
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Voimallinen palautus](Voimallinen_palautus.md)
+Edellinen [Voimallinen palautus](Voimallinen_palautus)

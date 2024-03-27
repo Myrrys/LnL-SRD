@@ -29,9 +29,9 @@ Jos käytät tällä loitsulla luotua esinettä toisen loitsun ainesosana, kysei
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Liekkipilari](Liekkipilari.md)
+Edellinen [Liekkipilari](Liekkipilari)
 
-Seuraava [Luontoyhteys](Luontoyhteys.md)
+Seuraava [Luontoyhteys](Luontoyhteys)
 

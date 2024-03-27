@@ -20,9 +20,9 @@ Sumu liikkuu maata pitkin 4 metriä kauemmaksi sinusta joka vuorosi alussa. Sumu
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Muistinmuokkaus](Muistinmuokkaus.md)
+Edellinen [Muistinmuokkaus](Muistinmuokkaus)
 
-Seuraava [Pyhittäminen](Pyhittäminen.md)
+Seuraava [Pyhittäminen](Pyhittäminen)
 

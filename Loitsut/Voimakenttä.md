@@ -14,9 +14,9 @@
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Valemuoto](Valemuoto.md)
+Edellinen [Valemuoto](Valemuoto)
 
-Seuraava [Voimallinen palautus](Voimallinen_palautus.md)
+Seuraava [Voimallinen palautus](Voimallinen_palautus)
 

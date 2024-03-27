@@ -28,9 +28,9 @@ Voit liikuttaa kättä korkeintaan 24 metriä ja tehdä yhden alla olevista toim
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Tahdon hallinta](Tahdon_hallinta.md)
+Edellinen [Tahdon hallinta](Tahdon_hallinta)
 
-Seuraava [Taikaovi](Taikaovi.md)
+Seuraava [Taikaovi](Taikaovi)
 

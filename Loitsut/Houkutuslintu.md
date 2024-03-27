@@ -18,8 +18,8 @@ Näet ja kuulet halutessasi illuusiokopion silmin ja korvin aivan kuin olisit it
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Hirviön pysäyttäminen](Hirviön_pysäyttäminen.md)
+Edellinen [Hirviön pysäyttäminen](Hirviön_pysäyttäminen)
 
-Seuraava [Hyvän ja pahan hajottaminen](Hyvän_ja_pahan_hajottaminen.md)
+Seuraava [Hyvän ja pahan hajottaminen](Hyvän_ja_pahan_hajottaminen)

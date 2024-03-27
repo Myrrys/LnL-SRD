@@ -16,9 +16,9 @@ Valemuoto ei kestä fyysistä tarkastelua. Esimerkiksi, jos olennolla on valemuo
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Uudelleensyntyminen](Uudelleensyntyminen.md)
+Edellinen [Uudelleensyntyminen](Uudelleensyntyminen)
 
-Seuraava [Voimakenttä](Voimakenttä.md)
+Seuraava [Voimakenttä](Voimakenttä)
 

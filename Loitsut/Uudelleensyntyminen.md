@@ -35,9 +35,9 @@ Uudelleensyntynyt olento muistaa edellisen elämänsä ja sen kokemukset. Hän s
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Univiesti](Univiesti.md)
+Edellinen [Univiesti](Univiesti)
 
-Seuraava [Valemuoto](Valemuoto.md)
+Seuraava [Valemuoto](Valemuoto)
 

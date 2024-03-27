@@ -16,9 +16,9 @@ Taikaoven vaikutuksen päättyessä sen sisällä olevat olennot ilmestyvät tur
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Taikakäsi](Taikakäsi.md)
+Edellinen [Taikakäsi](Taikakäsi)
 
-Seuraava [Tarttuva tauti](Tarttuva_tauti.md)
+Seuraava [Tarttuva tauti](Tarttuva_tauti)
 

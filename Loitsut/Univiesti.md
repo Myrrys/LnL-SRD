@@ -20,9 +20,9 @@ Voit myös lähettää viestinviejän hirvittävänä ja kohteelleen pelottavan 
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Teleportaatiokehä](Teleportaatiokehä.md)
+Edellinen [Teleportaatiokehä](Teleportaatiokehä)
 
-Seuraava [Uudelleensyntyminen](Uudelleensyntyminen.md)
+Seuraava [Uudelleensyntyminen](Uudelleensyntyminen)
 

@@ -16,9 +16,9 @@ Pystyt käyttämään metsäharppausta kerran kierroksessa sen keston ajan. Sinu
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Luontoyhteys](Luontoyhteys.md)
+Edellinen [Luontoyhteys](Luontoyhteys)
 
-Seuraava [Muistinmuokkaus](Muistinmuokkaus.md)
+Seuraava [Muistinmuokkaus](Muistinmuokkaus)
 

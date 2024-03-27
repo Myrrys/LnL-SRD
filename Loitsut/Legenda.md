@@ -16,8 +16,8 @@ Nimeät tai kuvailet henkilön, paikan tai esineen, ja loitsu tuo mieleesi lyhye
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Kuolleista nostaminen](Kuolleista_nostaminen.md)
+Edellinen [Kuolleista nostaminen](Kuolleista_nostaminen)
 
-Seuraava [Liekkipilari](Liekkipilari.md)
+Seuraava [Liekkipilari](Liekkipilari)

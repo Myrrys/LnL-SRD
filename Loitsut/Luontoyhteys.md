@@ -24,9 +24,9 @@ Voit esimerkiksi saada selville voimakkaiden epäkuolleiden olentojen sijainnin,
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Luominen](Luominen.md)
+Edellinen [Luominen](Luominen)
 
-Seuraava [Metsäharppaus](Metsäharppaus.md)
+Seuraava [Metsäharppaus](Metsäharppaus)
 

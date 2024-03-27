@@ -16,9 +16,9 @@ Asetat taikuudella käskyn olennolle, jonka voit nähdä loitsun kantamalla pako
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Tarttuva tauti](Tarttuva_tauti.md)
+Edellinen [Tarttuva tauti](Tarttuva_tauti)
 
-Seuraava [Telekinesia](Telekinesia.md)
+Seuraava [Telekinesia](Telekinesia)
 

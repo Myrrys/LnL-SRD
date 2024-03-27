@@ -33,9 +33,9 @@ Olennon sijaan voit kohdistaa loitsun paikkaan, jonka olet joskus nähnyt. Siin�
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Esineen herättäminen](Esineen_herättäminen.md)
+Edellinen [Esineen herättäminen](Esineen_herättäminen)
 
-Seuraava [Henkiherruus](Henkiherruus.md)
+Seuraava [Henkiherruus](Henkiherruus)
 

@@ -18,9 +18,9 @@ Jos loitsit johdatuksen toisen tai useamman kerran ennen pitkää lepoa, on joka
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Hyönteisvitsaus](Hyönteisvitsaus.md)
+Edellinen [Hyönteisvitsaus](Hyönteisvitsaus)
 
-Seuraava [Joukkoparannus](Joukkoparannus.md)
+Seuraava [Joukkoparannus](Joukkoparannus)
 

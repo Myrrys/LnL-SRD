@@ -18,9 +18,9 @@ Loitsu sulkee kaikki haavat, mutta se ei palauta puuttuvia raajoja. Jos olennolt
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Kivivalli](Kivivalli.md)
+Edellinen [Kivivalli](Kivivalli)
 
-Seuraava [Legenda](Legenda.md)
+Seuraava [Legenda](Legenda)
 

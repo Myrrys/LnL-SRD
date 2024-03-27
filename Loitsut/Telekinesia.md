@@ -24,9 +24,9 @@ Telekineettisellä otteella voi myös liikutella ja manipuloida esineitä hienov
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Tehtävä](Tehtävä.md)
+Edellinen [Tehtävä](Tehtävä)
 
-Seuraava [Telepaattinen side](Telepaattinen_side.md)
+Seuraava [Telepaattinen side](Telepaattinen_side)
 

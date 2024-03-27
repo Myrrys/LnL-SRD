@@ -22,9 +22,9 @@ Joka kerta kun olento kärsii vahinkoa, se saa heittää uuden viisauspelastushe
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Suojaus eläviltä](Suojaus_eläviltä.md)
+Edellinen [Suojaus eläviltä](Suojaus_eläviltä)
 
-Seuraava [Taikakäsi](Taikakäsi.md)
+Seuraava [Taikakäsi](Taikakäsi)
 

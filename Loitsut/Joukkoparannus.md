@@ -16,9 +16,9 @@ Parantavan voiman aalto lähtee liikkeelle valitsemastasi pisteestä loitsun kan
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Johdatus](Johdatus.md)
+Edellinen [Johdatus](Johdatus)
 
-Seuraava [Kivivalli](Kivivalli.md)
+Seuraava [Kivivalli](Kivivalli)
 

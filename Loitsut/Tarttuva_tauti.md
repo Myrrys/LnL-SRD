@@ -28,9 +28,9 @@ Kohteen täytyy heittää sitkeyspelastusheitto jokaisen vuoronsa lopussa. Epäo
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Taikaovi](Taikaovi.md)
+Edellinen [Taikaovi](Taikaovi)
 
-Seuraava [Tehtävä](Tehtävä.md)
+Seuraava [Tehtävä](Tehtävä)
 

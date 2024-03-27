@@ -16,9 +16,9 @@ Loitsun keston ajan loitsun kohteet voivat kommunikoida keskenään telepaattise
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Telekinesia](Telekinesia.md)
+Edellinen [Telekinesia](Telekinesia)
 
-Seuraava [Teleportaatiokehä](Teleportaatiokehä.md)
+Seuraava [Teleportaatiokehä](Teleportaatiokehä)
 

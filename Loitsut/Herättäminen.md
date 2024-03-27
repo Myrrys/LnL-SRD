@@ -16,9 +16,9 @@ Herätetty eläin tai kasvi on *lumottu* 30 päivän ajan tai kunnes sinä tai j
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Henkiherruus](Henkiherruus.md)
+Edellinen [Henkiherruus](Henkiherruus)
 
-Seuraava [Hirviön pysäyttäminen](Hirviön_pysäyttäminen.md)
+Seuraava [Hirviön pysäyttäminen](Hirviön_pysäyttäminen)
 

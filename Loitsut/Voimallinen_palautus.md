@@ -19,9 +19,9 @@ Kanavoit koskettamaasi olentoon positiivista energiaa kumoten jonkin hänessä o
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Voimakenttä](Voimakenttä.md)
+Edellinen [Voimakenttä](Voimakenttä)
 
-Seuraava [Ylimaallinen yhteys](Ylimaallinen_yhteys.md)
+Seuraava [Ylimaallinen yhteys](Ylimaallinen_yhteys)
 

@@ -33,9 +33,9 @@ Jos annat esineelle komennon hyökätä, se voi tehdä yhden lähitaisteluhyökk
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Elementaalin kutsuminen](Elementaalin_kutsuminen.md)
+Edellinen [Elementaalin kutsuminen](Elementaalin_kutsuminen)
 
-Seuraava [Etäkatselu](Etäkatselu.md)
+Seuraava [Etäkatselu](Etäkatselu)
 

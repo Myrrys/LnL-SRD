@@ -20,8 +20,8 @@ Voit koska tahansa päättää loitsun ennenaikaisesti seuraavilla erikoistoimin
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Houkutuslintu](Houkutuslintu.md)
+Edellinen [Houkutuslintu](Houkutuslintu)
 
-Seuraava [Hyytävä purkaus](Hyytävä_purkaus.md)
+Seuraava [Hyytävä purkaus](Hyytävä_purkaus)

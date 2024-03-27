@@ -16,9 +16,9 @@ Liekkipilari laskeutuu taivaasta valitsemaasi sijaintiin loitsun kantamalla. Jok
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Legenda](Legenda.md)
+Edellinen [Legenda](Legenda)
 
-Seuraava [Luominen](Luominen.md)
+Seuraava [Luominen](Luominen)
 

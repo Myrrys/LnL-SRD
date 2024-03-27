@@ -38,9 +38,9 @@ Voit sitoa lisävaikutuksen alueelle. Valitse vaikutus alla olevasta listasta ta
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Myrkkypilvi](Myrkkypilvi.md)
+Edellinen [Myrkkypilvi](Myrkkypilvi)
 
-Seuraava [Suojaus eläviltä](Suojaus_eläviltä.md)
+Seuraava [Suojaus eläviltä](Suojaus_eläviltä)
 

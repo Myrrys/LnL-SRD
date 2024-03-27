@@ -18,8 +18,8 @@ Tämän loitsun surmaamasta olennosta tulee jääpatsas, joka sulaa aikanaan.
 
 ---
 
-Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut.md)
+Ylätaso [Viidennen piirin loitsut](5_piirin_loitsut)
 
-Edellinen [Hyvän ja pahan hajottaminen](Hyvän_ja_pahan_hajottaminen.md)
+Edellinen [Hyvän ja pahan hajottaminen](Hyvän_ja_pahan_hajottaminen)
 
-Seuraava [Hyönteisvitsaus](Hyönteisvitsaus.md)
+Seuraava [Hyönteisvitsaus](Hyönteisvitsaus)
