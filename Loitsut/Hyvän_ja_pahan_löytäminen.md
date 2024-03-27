@@ -23,8 +23,8 @@ kerros lyijyä.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Hyppy](Hyppy.md)
+Edellinen [Hyppy](Hyppy)
 
-Seuraava [Hälytys](Hälytys.md)
+Seuraava [Hälytys](Hälytys)

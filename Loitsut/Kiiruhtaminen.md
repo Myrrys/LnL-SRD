@@ -14,8 +14,8 @@ Voit valita loitsun kohteeksi vapaaehtoisen olennon loitsun kantamalla, johon si
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Kielillä puhuminen](Kielillä_puhuminen.md)
+Edellinen [Kielillä puhuminen](Kielillä_puhuminen)
 
-Seuraava [Kirouksen kumoaminen](Kirouksen_kumoaminen.md)
+Seuraava [Kirouksen kumoaminen](Kirouksen_kumoaminen)

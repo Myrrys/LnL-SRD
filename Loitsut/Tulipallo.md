@@ -16,8 +16,8 @@ Kirkas valojuova suhahtaa sormella osoittamaasi pisteeseen loitsun kantamalla ja
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Torjuva merkki](Torjuva_merkki.md)
+Edellinen [Torjuva merkki](Torjuva_merkki)
 
-Seuraava [Ukkosen kutsuminen](Ukkosen_kutsuminen.md)
+Seuraava [Ukkosen kutsuminen](Ukkosen_kutsuminen)

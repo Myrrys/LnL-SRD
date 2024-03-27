@@ -27,8 +27,8 @@ lakkaa, kiekko katoaa ja kaikki sen päällä oleva putoaa.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Käsky](Käsky.md)
+Edellinen [Käsky](Käsky)
 
-Seuraava [Lounasmarja](Lounasmarja.md)
+Seuraava [Lounasmarja](Lounasmarja)

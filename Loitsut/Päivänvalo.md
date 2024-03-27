@@ -19,8 +19,8 @@ Jos tämän loitsun vaikutus osuu kolmannen tai matalamman piirin ***pimeys***-l
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Pelko](Pelko.md)
+Edellinen [Pelko](Pelko)
 
-Seuraava [Räntäsade](Räntäsade.md)
+Seuraava [Räntäsade](Räntäsade)

@@ -18,8 +18,8 @@ Saat loitsun kantamalla olevan olennon tai esineen suurenemaan tai kutistumaan l
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Suojaus myrkyltä](Suojaus_myrkyltä.md)
+Edellinen [Suojaus myrkyltä](Suojaus_myrkyltä)
 
-Seuraava [Taika-ase](Taika-ase.md)
+Seuraava [Taika-ase](Taika-ase)

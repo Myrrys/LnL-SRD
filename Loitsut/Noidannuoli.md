@@ -24,8 +24,8 @@ loitsuvaraus loisi 3 nuolta lisää, eli yhteensä 6 nuolta).
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Naurukohtaus](Naurukohtaus.md)
+Edellinen [Naurukohtaus](Naurukohtaus)
 
-Seuraava [Nopea pako](Nopea_pako.md)
+Seuraava [Nopea pako](Nopea_pako)

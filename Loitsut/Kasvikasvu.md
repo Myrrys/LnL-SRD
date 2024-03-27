@@ -18,8 +18,8 @@ Jos loitsit tämän loitsun 8 tunnin loitsimisajalla, teet alueesta hedelmällis
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Kasveille puhuminen](Kasveille_puhuminen.md)
+Edellinen [Kasveille puhuminen](Kasveille_puhuminen)
 
-Seuraava [Kielillä puhuminen](Kielillä_puhuminen.md)
+Seuraava [Kielillä puhuminen](Kielillä_puhuminen)

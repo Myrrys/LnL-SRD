@@ -20,8 +20,8 @@ sinulle jonkin pienen palveluksen.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Apulaishengen kutsuminen](Apulaishengen_kutsuminen.md)
+Edellinen [Apulaishengen kutsuminen](Apulaishengen_kutsuminen)
 
-Seuraava [Eläinystävä](Eläinystävä.md)
+Seuraava [Eläinystävä](Eläinystävä)

@@ -25,8 +25,8 @@ pelastusheiton VA:ta vastaan nähdäkseen sen läpi.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Metsästäjän merkki](Metsästäjän_merkki.md)
+Edellinen [Metsästäjän merkki](Metsästäjän_merkki)
 
-Seuraava [Myrkyn ja taudin löytäminen](Myrkyn_ja_taudin_löytäminen.md)
+Seuraava [Myrkyn ja taudin löytäminen](Myrkyn_ja_taudin_löytäminen)

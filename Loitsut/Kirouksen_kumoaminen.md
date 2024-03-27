@@ -14,8 +14,8 @@ Kosketuksellasi voit kumota kaikki kohteeseen vaikuttavat kiroukset. Tämä loit
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Kiiruhtaminen](Kiiruhtaminen.md)
+Edellinen [Kiiruhtaminen](Kiiruhtaminen)
 
-Seuraava [Kirous](Kirous.md)
+Seuraava [Kirous](Kirous)

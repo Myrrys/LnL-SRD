@@ -23,8 +23,8 @@ korkeammalla.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Sallimus](Sallimus.md)
+Edellinen [Sallimus](Sallimus)
 
-Seuraava [Siunaus](Siunaus.md)
+Seuraava [Siunaus](Siunaus)

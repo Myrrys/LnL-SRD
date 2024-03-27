@@ -30,6 +30,6 @@ elintasokuluissasi.
 
 ----
 
-Edellinen [Kulut](Kulut.md)
+Edellinen [Kulut](Kulut)
 
-Seuraava [Palvelut](Palvelut.md)
+Seuraava [Palvelut](Palvelut)

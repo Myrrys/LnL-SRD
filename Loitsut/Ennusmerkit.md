@@ -20,8 +20,8 @@ Loitsu ei ota huomioon tilanteita jotka voivat muuttaa tuloksia, kuten useamman 
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Eläinten tai kasvien löytäminen](Eläinten_tai_kasvien_löytäminen.md)
+Edellinen [Eläinten tai kasvien löytäminen](Eläinten_tai_kasvien_löytäminen)
 
-Seuraava [Esineen löytäminen](Esineen_löytäminen.md)
+Seuraava [Esineen löytäminen](Esineen_löytäminen)

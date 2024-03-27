@@ -18,7 +18,7 @@ Kun olet eetterissä, näet ja kuulet maailmatasolle, josta sinne siirryit. Kaik
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Vetten päällä kävely](Vetten_päällä_kävely.md)
+Edellinen [Vetten päällä kävely](Vetten_päällä_kävely)
 

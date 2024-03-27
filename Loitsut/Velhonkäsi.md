@@ -16,8 +16,8 @@ Voit käyttää toiminnon käden ohjailuun. Se voi käyttää esineitä, avata l
 
 ----
 
-Ylätaso [Taikakonstit](0_piirin_taikakonstit.md)
+Ylätaso [Taikakonstit](0_piirin_taikakonstit)
 
-Edellinen [Vastustus](Vastustus.md)
+Edellinen [Vastustus](Vastustus)
 
-Seuraava [Velhonlieska](Velhonlieska.md)
+Seuraava [Velhonlieska](Velhonlieska)

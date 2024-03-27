@@ -23,8 +23,8 @@ Loitsiessasi velhonnäytöksen useita kertoja sinulla voi olla useampia sen kork
 
 ----
 
-Ylätaso [Taikakonstit](0_piirin_taikakonstit.md)
+Ylätaso [Taikakonstit](0_piirin_taikakonstit)
 
-Edellinen [Velhonlieska](Velhonlieska.md)
+Edellinen [Velhonlieska](Velhonlieska)
 
-Seuraava [Viesti](Viesti.md)
+Seuraava [Viesti](Viesti)

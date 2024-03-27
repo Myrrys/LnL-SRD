@@ -26,8 +26,8 @@ läpi, jolloin sen avulla voi lukea salatun tekstin.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Ruoan ja juoman puhdistus](Ruoan_ja_juoman_puhdistus.md)
+Edellinen [Ruoan ja juoman puhdistus](Ruoan_ja_juoman_puhdistus)
 
-Seuraava [Sallimus](Sallimus.md)
+Seuraava [Sallimus](Sallimus)

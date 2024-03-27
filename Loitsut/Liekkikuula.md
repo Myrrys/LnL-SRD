@@ -20,8 +20,8 @@ Voit ylittää kuulalla alle 2 metriä korkeat esteet ja lennättää sen alle 4
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Levitaatio](Levitaatio.md)
+Edellinen [Levitaatio](Levitaatio)
 
-Seuraava [Liekkiterä](Liekkiterä.md)
+Seuraava [Liekkiterä](Liekkiterä)

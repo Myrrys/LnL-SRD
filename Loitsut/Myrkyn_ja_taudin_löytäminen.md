@@ -22,8 +22,8 @@ tahansa metallia tai paperin paksuinen kerros lyijyä.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Mykkä kuvajainen](Mykkä_kuvajainen.md)
+Edellinen [Mykkä kuvajainen](Mykkä_kuvajainen)
 
-Seuraava [Naurukohtaus](Naurukohtaus.md)
+Seuraava [Naurukohtaus](Naurukohtaus)

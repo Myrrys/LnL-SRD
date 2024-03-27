@@ -14,8 +14,8 @@ Luot aavemaisen kuvan olennon pahimmasta pelosta. Jokaisen olennon, joka on sinu
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Parannuksen mahtisana](Parannuksen_mahtisana.md)
+Edellinen [Parannuksen mahtisana](Parannuksen_mahtisana)
 
-Seuraava [Päivänvalo](Päivänvalo.md)
+Seuraava [Päivänvalo](Päivänvalo)

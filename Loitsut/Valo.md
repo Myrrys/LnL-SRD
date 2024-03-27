@@ -14,8 +14,8 @@ Koskettamasi esine alkaa loistaa kirkasta valoa. 8 metrin etäisyydelle valaistu
 
 ----
 
-Ylätaso [Taikakonstit](0_piirin_taikakonstit.md)
+Ylätaso [Taikakonstit](0_piirin_taikakonstit)
 
-Edellinen [Vakauttaminen](Vakauttaminen.md)
+Edellinen [Vakauttaminen](Vakauttaminen)
 
-Seuraava [Vastustus](Vastustus.md)
+Seuraava [Vastustus](Vastustus)

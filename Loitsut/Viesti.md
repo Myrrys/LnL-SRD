@@ -14,8 +14,8 @@ Osoitat sormella olentoa kantaman sisällä ja kuiskaat viestisi. Kohde (ja aino
 
 ----
 
-Ylätaso [Taikakonstit](0_piirin_taikakonstit.md)
+Ylätaso [Taikakonstit](0_piirin_taikakonstit)
 
-Edellinen [Velhonnäytös](Velhonnäytös.md)
+Edellinen [Velhonnäytös](Velhonnäytös)
 
-Seuraava [Vähäinen illuusio](Vähäinen_illuusio.md)
+Seuraava [Vähäinen illuusio](Vähäinen_illuusio)

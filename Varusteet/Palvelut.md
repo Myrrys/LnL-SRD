@@ -72,6 +72,6 @@ toiselle puolelle.
 
 ----
 
-Edellinen [Ruoka, Juoma ja Majoitus](Ruoka_ja_juoma.md)
+Edellinen [Ruoka, Juoma ja Majoitus](Ruoka_ja_juoma)
 
-Seuraava [Pikkutavataa](Pikkutavara.md)
+Seuraava [Pikkutavataa](Pikkutavara)

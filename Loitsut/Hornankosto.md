@@ -24,8 +24,8 @@ ensimmäistä piiriä korkeammalla.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Haavojen parannus](Haavojen_parannus.md)
+Edellinen [Haavojen parannus](Haavojen_parannus)
 
-Seuraava [Hyppy](Hyppy.md)
+Seuraava [Hyppy](Hyppy)

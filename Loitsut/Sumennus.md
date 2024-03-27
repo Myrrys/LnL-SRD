@@ -14,8 +14,8 @@ Kehosi ääriviivat ja hahmosi sumentuvat, siirtyvät ja aaltoilevat kaikkien ni
 
 ----
 
-Ylätaso [Toisen piirin loitsut](2_piirin_loitsut.md)
+Ylätaso [Toisen piirin loitsut](2_piirin_loitsut)
 
-Edellinen [Sokeus/kuurous](Sokeus_kuurous.md)
+Edellinen [Sokeus/kuurous](Sokeus_kuurous)
 
-Seuraava [Suojaus myrkyltä](Suojaus_myrkyltä.md)
+Seuraava [Suojaus myrkyltä](Suojaus_myrkyltä)

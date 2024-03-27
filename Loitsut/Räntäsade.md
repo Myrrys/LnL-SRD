@@ -18,8 +18,8 @@ Jos olento yrittää keskittyä loitsun vaikutusalueella, sen tulee heittää si
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Päivänvalo](Päivänvalo.md)
+Edellinen [Päivänvalo](Päivänvalo)
 
-Seuraava [Salama](Salama.md)
+Seuraava [Salama](Salama)

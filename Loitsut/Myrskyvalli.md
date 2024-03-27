@@ -18,8 +18,8 @@ Voimakas tuuli pitää kaikki kaasut, savun ja sumun loitolla. Kevyet irtonaiset
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Maja](Maja.md)
+Edellinen [Maja](Maja)
 
-Seuraava [Parannuksen mahtisana](Parannuksen_mahtisana.md)
+Seuraava [Parannuksen mahtisana](Parannuksen_mahtisana)

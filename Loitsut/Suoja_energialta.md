@@ -14,8 +14,8 @@ Loitsun keston ajan vapaaehtoisella olennolla on sietokyky valitsemaasi vahinkot
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Selvännäkeminen](Selvännäkeminen.md)
+Edellinen [Selvännäkeminen](Selvännäkeminen)
 
-Seuraava [Suojelushenget](Suojelushenget.md)
+Seuraava [Suojelushenget](Suojelushenget)

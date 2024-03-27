@@ -125,4 +125,4 @@ niitä voidaan käyttää rahan asemasta.
 
 ----
 
-Seuraava [Haarniskat ja kilvet](Haarniskat_ja_kilvet.md)
+Seuraava [Haarniskat ja kilvet](Haarniskat_ja_kilvet)

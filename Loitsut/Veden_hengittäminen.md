@@ -14,8 +14,8 @@ Tämä loitsu antaa kyvyn hengittää veden alla. Korkeintaan kymmenen vapaaehto
 
 ----
 
-Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut.md)
+Ylätaso [Kolmannen piirin loitsut](3_piirin_loitsut)
 
-Edellinen [Vastaloitsu](Vastaloitsu.md)
+Edellinen [Vastaloitsu](Vastaloitsu)
 
-Seuraava [Veden ja ruoan luominen](Veden_ja_ruoan_luominen.md)
+Seuraava [Veden ja ruoan luominen](Veden_ja_ruoan_luominen)

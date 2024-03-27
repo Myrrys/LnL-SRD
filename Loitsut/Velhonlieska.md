@@ -15,8 +15,8 @@ Rätisevä energiasäde singahtaa ilmojen halki valitsemaasi olentoon loitsun ka
 
 ----
 
-Ylätaso [Taikakonstit](0_piirin_taikakonstit.md)
+Ylätaso [Taikakonstit](0_piirin_taikakonstit)
 
-Edellinen [Velhonkäsi](Velhonkäsi.md)
+Edellinen [Velhonkäsi](Velhonkäsi)
 
-Seuraava[Velhonnäytös](Velhonnäytös.md)
+Seuraava[Velhonnäytös](Velhonnäytös)

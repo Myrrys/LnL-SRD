@@ -171,6 +171,6 @@ reaktiona, vaikka voisitkin muuten hyökätä useammin saman toiminnon aikana.
 
 ----
 
-Edellinen [Haarniskat ja kilvet](Haarniskat_ja_kilvet.md)
+Edellinen [Haarniskat ja kilvet](Haarniskat_ja_kilvet)
 
-Seuraava [Seikkailuvarusteet](Seikkailuvarusteet.md)
+Seuraava [Seikkailuvarusteet](Seikkailuvarusteet)

@@ -23,8 +23,8 @@ korkeammalla.
 
 ----
 
-Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut.md)
+Ylätaso [Ensimmäisen piirin loitsut](1_piirin_loitsut)
 
-Edellinen [Sankaruus](Sankaruus.md)
+Edellinen [Sankaruus](Sankaruus)
 
-Seuraava [Sumupilvi](Sumupilvi.md)
+Seuraava [Sumupilvi](Sumupilvi)

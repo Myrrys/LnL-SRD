@@ -29,6 +29,6 @@ arvon.
 
 ----
 
-Edellinen [Ratsut ja kulkuneuvot](Ratsut_ja_kulkuneuvot.md)
+Edellinen [Ratsut ja kulkuneuvot](Ratsut_ja_kulkuneuvot)
 
-Seuraava [Kulut](Kulut.md)
+Seuraava [Kulut](Kulut)
