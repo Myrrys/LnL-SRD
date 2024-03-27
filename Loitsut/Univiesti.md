@@ -16,7 +16,7 @@ Kun loitsun varsinainen kohde on unessa, ilmestyy viestinviejä tämän uneen vo
 
 Kohde muistaa unen täydellisesti herättyään. Kohteen ollessa hereillä ***univiestiä*** loitsittaessa voi viestinviejä päättää transsin ja loitsun tai odottaa, että kohde nukahtaa, jolloin viestinviejä ilmestyy hänen uneensa.
 
-Voit myös lähettää viestinviejän hirvittävänä ja kohteelleen pelottavan olennon näköisenä. Tällöin viestinviejä ei voi toimittaa kymmentä sanaa pidempää viestiä. Kohteen täytyy myös heittää viisaus-pelastusheitto saadessaan uneensa painajaismaisen vierailijan. Epäonnistuminen tarkoittaa, että painajaismainen vierailu vaivaa häntä koko loppu-unen ajan, ja hän ei saa levosta mitään hyötyä. Lisäksi, kun pelastusheitossaan epäonnistunut kohde herää, hän kärsii 3n6 pistettä hengenvahinkoa. Jos sinulla on kohteen ruumiinosa, hiuskiehkura, kynnen palanen tai mikä tahansa hänen kehonsa pala, saa kohde haitan pelastusheittoonsa. 
+Voit myös lähettää viestinviejän hirvittävänä ja kohteelleen pelottavan olennon näköisenä. Tällöin viestinviejä ei voi toimittaa kymmentä sanaa pidempää viestiä. Kohteen täytyy myös heittää viisauspelastusheitto saadessaan uneensa painajaismaisen vierailijan. Epäonnistuminen tarkoittaa, että painajaismainen vierailu vaivaa häntä koko loppu-unen ajan, ja hän ei saa levosta mitään hyötyä. Lisäksi, kun pelastusheitossaan epäonnistunut kohde herää, hän kärsii 3n6 pistettä hengenvahinkoa. Jos sinulla on kohteen ruumiinosa, hiuskiehkura, kynnen palanen tai mikä tahansa hänen kehonsa pala, saa kohde haitan pelastusheittoonsa. 
 
 ---
 

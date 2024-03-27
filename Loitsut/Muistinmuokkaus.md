@@ -10,7 +10,7 @@
 
 **Kesto:** keskittyminen, korkeintaan 1 minuutin
 
-Yrität muokata jonkun toisen olennon muistia. Voit kohdistaa loitsun yhteen olentoon, jonka näet loitsun kantamalla. Tuon olennon täytyy heittää viisaus-pelastusheitto. Jos taistelet sitä vastaan, saa kohde *edun* pelastusheittoon. Epäonnistuessaan saat kohteen *lumottua* loitsun keston ajaksi. *Lumottu* olento on *toimintakyvytön*, ja se ei ole myöskään tietoinen ympäristönsä tapahtumista, mutta se voi kuulla sinut. Jos olento kärsii vahinkoa tai siihen kohdistuu joku toinen loitsu, tämän loitsun vaikutus lakkaa eikä muistia saa muokattua.
+Yrität muokata jonkun toisen olennon muistia. Voit kohdistaa loitsun yhteen olentoon, jonka näet loitsun kantamalla. Tuon olennon täytyy heittää viisauspelastusheitto. Jos taistelet sitä vastaan, saa kohde *edun* pelastusheittoon. Epäonnistuessaan saat kohteen *lumottua* loitsun keston ajaksi. *Lumottu* olento on *toimintakyvytön*, ja se ei ole myöskään tietoinen ympäristönsä tapahtumista, mutta se voi kuulla sinut. Jos olento kärsii vahinkoa tai siihen kohdistuu joku toinen loitsu, tämän loitsun vaikutus lakkaa eikä muistia saa muokattua.
 
 Lumouksen aikana voit muuttaa jotain kohteen muistoa tapahtumasta, joka tapahtui viimeisen 24 tunnin aikana ja joka kesti alle 10 minuuttia. Voit poistaa kokonaan muiston tuosta tapahtumasta, sallia kohteen muistaa tapahtuma kirkkaasti kaikki yksityiskohdat huomioon ottaen, muuttaa muiston yksityiskohtia tai luoda muiston jostain toisesta tapahtumasta.
 

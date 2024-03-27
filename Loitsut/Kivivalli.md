@@ -12,7 +12,7 @@
 
 Luot loitsulla kivisen vallin, joka nousee maasta halutussa kohdassa kantamalla. Valli on 20 senttiä paksu, neljä metriä korkea ja koostuu kymmenestä neljä metriä leveästä laatasta. Jokaisen laatan täytyy liittyä johonkin toiseen laattaan. Voit vaihtoehtoisesti luoda vallin, jonka laatat ovat kooltaan kahdeksan metriä leveitä ja 10 senttiä paksuja. Loitsulla luotu valli ei ole maaginen. 
 
-Jos valli nousee kohtaan, jossa oli joku olento, työntää se noustessaan olennon jommalle kummalle puolelle vallia (sinä saat valita). Jos valli ympäröisi olennon joka puolelta, olento voi heittää ketteryys-pelastusheiton ja onnistuessaan rynnätä nopeutensa verran reaktiona johonkin suuntaan, jossa se ei ole vallin ympäröimä.
+Jos valli nousee kohtaan, jossa oli joku olento, työntää se noustessaan olennon jommalle kummalle puolelle vallia (sinä saat valita). Jos valli ympäröisi olennon joka puolelta, olento voi heittää ketteryyspelastusheiton ja onnistuessaan rynnätä nopeutensa verran reaktiona johonkin suuntaan, jossa se ei ole vallin ympäröimä.
 
 Valli voi olla haluamasi muotoinen. Sen ei tarvitse seistä pystyssä eikä sen tarvitse maata kokonaan maan päällä. Sen tulee kuitenkin nousta esiin kivisestä maasta ja maan täytyy tukea sitä. Voit siis luoda loitsun avulla sillan rotkon yli tai rampin muurin harjalle.
 

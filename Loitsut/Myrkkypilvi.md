@@ -12,7 +12,7 @@
 
 Luot 8 metriä säteeltään olevan pallon myrkyllistä keltavihreää sumua, jonka keskipiste on haluamassasi kohdassa loitsun kantamalla. Sumu ulottuu kulmien ympäri. Se kestää loitsun keston ajan tai kunnes voimakas tuuli hajottaa sumun samalla keskeyttäen loitsun. Sumun alueella on peittynyt näkyvyys.
 
-Olennon tulee heittää sitkeys-pelastusheitto mennessään loitsun vaikutusalueelle ensimmäistä kertaa vuorollaan tai aloittaessaan vuoronsa siinä. Epäonnistuessaan olento kärsii 5n8 pistettä myrkkyvahinkoa, ja onnistuminen puolittaa vahingon. Loitsu vaikuttaa olentoihin, vaikka ne pidättäisivät hengitystä tai niiden ei tarvitsisi hengittää.
+Olennon tulee heittää sitkeyspelastusheitto mennessään loitsun vaikutusalueelle ensimmäistä kertaa vuorollaan tai aloittaessaan vuoronsa siinä. Epäonnistuessaan olento kärsii 5n8 pistettä myrkkyvahinkoa, ja onnistuminen puolittaa vahingon. Loitsu vaikuttaa olentoihin, vaikka ne pidättäisivät hengitystä tai niiden ei tarvitsisi hengittää.
 
 Sumu liikkuu maata pitkin 4 metriä kauemmaksi sinusta joka vuorosi alussa. Sumu on ilmaa raskaampaa, joten se putoaa matalimpiinkin koloihin ja täyttää kaikki kuopat.
 

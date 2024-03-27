@@ -10,7 +10,7 @@
 
 **Kesto:** välitön
 
-Puuska kylmää ilmaa purkautuu käsistäsi 24 metrin päähän ulottuvana kartiona. Kaikki vaikutusalueella olevat olennot joutuvat heittämään sitkeys-pelastusheiton. Pelastusheitossa epäonnistuneet kärsivät 8n8 kylmävahinkoa, ja onnistuminen puolittaa vahingon.
+Puuska kylmää ilmaa purkautuu käsistäsi 24 metrin päähän ulottuvana kartiona. Kaikki vaikutusalueella olevat olennot joutuvat heittämään sitkeyspelastusheiton. Pelastusheitossa epäonnistuneet kärsivät 8n8 kylmävahinkoa, ja onnistuminen puolittaa vahingon.
 
 Tämän loitsun surmaamasta olennosta tulee jääpatsas, joka sulaa aikanaan.
 

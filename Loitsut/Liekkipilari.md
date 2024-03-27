@@ -10,7 +10,7 @@
 
 **Kesto:** välitön
 
-Liekkipilari laskeutuu taivaasta valitsemaasi sijaintiin loitsun kantamalla. Jokainen olento, joka jää sylinterinmuotoisen neljän metrin säteellä ja 16 metrin korkeudelle ulottuvan liekkipilarin alueelle, joutuu heittämään ketteryys-pelastusheiton. Epäonnistuneet kärsivät 4n6 tulivahinkoa ja 4n6 hohkavahinkoa. Onnistuminen puolittaa vahingon.
+Liekkipilari laskeutuu taivaasta valitsemaasi sijaintiin loitsun kantamalla. Jokainen olento, joka jää sylinterinmuotoisen neljän metrin säteellä ja 16 metrin korkeudelle ulottuvan liekkipilarin alueelle, joutuu heittämään ketteryyspelastusheiton. Epäonnistuneet kärsivät 4n6 tulivahinkoa ja 4n6 hohkavahinkoa. Onnistuminen puolittaa vahingon.
 
 **Korkeammilla loitsuvarauksilla.** Kun loitsit liekkipilarin käyttäen kuudennen tai korkeamman piirin loitsuvarausta, nousee valintasi mukaan joko tuli- tai hohkavahinko 1n6 jokaista loitsuvarauksen piiriä kohden, joka on viidettä piiriä korkeammalla.
 

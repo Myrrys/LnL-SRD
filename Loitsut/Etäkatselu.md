@@ -10,7 +10,7 @@
 
 **Kesto:** keskittyminen, korkeintaan 10 minuuttia
 
-Näet ja kuulet tietyn kohteen, joka on samalla maailmatasolla kuin sinä. Kohteen tulee heittää viisaus-pelastusheitto, johon tulee muuttujia siitä kuinka hyvin tunnet kohteen ja minkälainen yhteys sinulla on kohteeseen. Jos kohde tietää, että aiot loitsia tämän loitsun, se voi vapaaehtoisesti epäonnistua pelastusheitossa, jos se haluaa sinun näkevän itsensä. 
+Näet ja kuulet tietyn kohteen, joka on samalla maailmatasolla kuin sinä. Kohteen tulee heittää viisauspelastusheitto, johon tulee muuttujia siitä kuinka hyvin tunnet kohteen ja minkälainen yhteys sinulla on kohteeseen. Jos kohde tietää, että aiot loitsia tämän loitsun, se voi vapaaehtoisesti epäonnistua pelastusheitossa, jos se haluaa sinun näkevän itsensä. 
 
 | Tiedot kohteesta                               | Pelastusheiton muuttuja |
 |------------------------------------------------|-------------------------|

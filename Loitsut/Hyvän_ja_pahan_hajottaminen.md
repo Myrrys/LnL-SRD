@@ -16,7 +16,7 @@ Voit koska tahansa päättää loitsun ennenaikaisesti seuraavilla erikoistoimin
 
 **Riko lumous.** Voit toimintona koskea ulottuvillasi olevaa olentoa, joka on *lumottu*, *kauhistunut* tai *riivattu* taivaallisen olennon, elementaalin, keijun tai epäkuolleen toimesta. Kyseinen olotila lakkaa kohteen osalta välittömästi.
 
-**Karkotus.** Voit toimintona tehdä lähitaisteluhyökkäyksen ulottuvillasi olevaa taivaallista olentoa, elementaalia, keijua, pirua tai epäkuollutta vastaan. Osuessasi yrität samalla ajaa kyseisen olennon takaisin sen omalle maailmatasolle. Olennon tulee onnistua karisma-pelastusheitossa tai se sinkoutuu takaisin omalle maailmatasolleen (ellei jo ole siellä). Epäkuolleet loitsu lähettää Pimentolaan ja keijut Keijusalolle.
+**Karkotus.** Voit toimintona tehdä lähitaisteluhyökkäyksen ulottuvillasi olevaa taivaallista olentoa, elementaalia, keijua, pirua tai epäkuollutta vastaan. Osuessasi yrität samalla ajaa kyseisen olennon takaisin sen omalle maailmatasolle. Olennon tulee onnistua karismapelastusheitossa tai se sinkoutuu takaisin omalle maailmatasolleen (ellei jo ole siellä). Epäkuolleet loitsu lähettää Pimentolaan ja keijut Keijusalolle.
 
 ---
 

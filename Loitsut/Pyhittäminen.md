@@ -14,7 +14,7 @@ Kosketat pistettä ja täytät sen ympärillä olevan alueen pyhällä tai epäp
 
 Taivaalliset olennot, keijut, pirut ja epäkuolleet eivät voi astua alueelle eivätkä ne voi myöskään lumota, pelottaa tai ottaa valtaansa muita olentoja alueella. Jos joku olento oli *lumottu*, *kauhistunut* tai edellä mainittujen olentojen vallassa, vaikutus lakkaa, kun olento astuu tämän loitsun vaikutusalueelle. Voit myös päättää, että loitsun vaikutus ei koske yhtä tai useampaa yllä listatuista olennoista.
 
-Voit sitoa lisävaikutuksen alueelle. Valitse vaikutus alla olevasta listasta tai pelinjohtaja voi myös ehdottaa sopivaa vaikutusta. Jotkut näistä vaikutuksista ulottuvat alueella oleviin olentoihin. Voit määritellä vaikuttaako tietty vaikutus kaikkiin alueella oleviin olentoihin, vain tietyn uskonnon edustajiin tai tietynlajisiin olentoihin (esimerkiksi örkkeihin). Kun olento, johon vaikutuksen on määritelty vaikuttavan astuu ensi kertaa alueelle, se voi heittää karisma-pelastusheiton. Onnistuessaan lisävaikutus ei vaikuta siihen.
+Voit sitoa lisävaikutuksen alueelle. Valitse vaikutus alla olevasta listasta tai pelinjohtaja voi myös ehdottaa sopivaa vaikutusta. Jotkut näistä vaikutuksista ulottuvat alueella oleviin olentoihin. Voit määritellä vaikuttaako tietty vaikutus kaikkiin alueella oleviin olentoihin, vain tietyn uskonnon edustajiin tai tietynlajisiin olentoihin (esimerkiksi örkkeihin). Kun olento, johon vaikutuksen on määritelty vaikuttavan astuu ensi kertaa alueelle, se voi heittää karismapelastusheiton. Onnistuessaan lisävaikutus ei vaikuta siihen.
 
 **Rohkeus.** Vaikutuksen alaiset olennot eivät voi olla *kauhistuneita* alueella.
 
