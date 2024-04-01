@@ -10,7 +10,7 @@
 
 **Kesto:** keskittyminen, korkeintaan 1 tunnin
 
-Kutsut itsellesi elementaalipalvelijan. Valitse jokin alue ilmaa, maata, tulta tai vettä, joka täyttää 4x4x4 metrin kuution loitsun kantamalla. Haastearvon 5 tai matalampi kyseistä elementtiä vastaava elementaali ilmestyy vapaaseen pisteeseen neljän metrin säteelle kyseisestä alueesta. Esimerkiksi tulielementaali ilmestyy palavasta kokosta ja maaelementaali nousee maan sisästä. Elementaali katoaa, jos sen osumapisteet laskevat nollaan tai kun loitsun kesto päättyy.
+Kutsut itsellesi elementaalipalvelijan. Valitse jokin alue ilmaa, maata, tulta tai vettä, joka täyttää 4 x 4 x 4 metrin kuution loitsun kantamalla. Haastearvon 5 tai matalampi kyseistä elementtiä vastaava elementaali ilmestyy vapaaseen pisteeseen neljän metrin säteelle kyseisestä alueesta. Esimerkiksi tulielementaali ilmestyy palavasta kokosta ja maaelementaali nousee maan sisästä. Elementaali katoaa, jos sen osumapisteet laskevat nollaan tai kun loitsun kesto päättyy.
 
 Elementaali on ystävällinen sinulle ja tovereillesi loitsun keston ajan. Sinä saat heittää aloiteheitot elementaalille, joka toimii omalla vuorollaan. Se tottelee kaikkia sanallisia käskyjäsi (käskyt eivät vaadi toimintoa). Jos et anna sille käskyjä, se ainoastaan puolustaa itseään, mutta ei tee muita toimintoja.
 
