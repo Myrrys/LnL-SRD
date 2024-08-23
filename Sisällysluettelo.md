@@ -18,7 +18,7 @@ Varusteet
 * [Kulut](Varusteet/Kulut)
 * [Ruoat, juoma ja majoitus](Varusteet/Ruoka_ja_juoma)
 * [Palvelut](Varusteet/Palvelut)
-* [Pikkutavarat](Varusteet/Pikkutavarat)
+* [Pikkutavara](Varusteet/Pikkutavara)
 
 Loitsut
 * [0. piirin taikakonstit](Loitsut/0_piirin_taikakonstit) 
