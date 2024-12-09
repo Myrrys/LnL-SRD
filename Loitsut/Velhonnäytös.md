@@ -1,11 +1,16 @@
 ### Velhonnäytös
+
 *Taikakonsti, muovaaminen*
+
 **Loitsimisviive:** 1 toiminto
+
 **Kantama:** 12 metriä
+
 **Komponentit:** taikasana
+
 **Kesto:** korkeintaan minuutti
-Luot pienen ihmetyksen aiheen, joka on yliluonnollinen voima
-loitsun kantaman sisällä. Voit luoda jonkin seuraavista:
+
+Luot pienen ihmetyksen aiheen, joka on yliluonnollinen voima loitsun kantaman sisällä. Voit luoda jonkin seuraavista:
 
  - Äänesi jyrisee kolme kertaa voimakkaampana minuutin ajan.
 
