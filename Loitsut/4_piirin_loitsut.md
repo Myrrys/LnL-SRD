@@ -34,8 +34,10 @@ A-V Aavetappajasta villipetojen hallintaan.
 - [Velhonsilmä](Velhonsilmä)
 - [Villipetojen hallinta](Villipetojen_hallinta)
 
-----
+---
 
 Ylätaso [Loitsut](Loitsut)
 
 Edellinen [Kolmannen piirin loitsut](3_piirin_loitsut)
+
+Seuraava [Viidennen piirin loitsut](5_piirin_loitsut)
