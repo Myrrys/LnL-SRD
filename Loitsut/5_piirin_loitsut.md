@@ -45,3 +45,5 @@ E-Y elementaalin kutsumisesta ylimaalliseen yhteyteen.
 Ylätaso [Loitsut](Loitsut)
 
 Edellinen [Neljännen piirin loitsut](4_piirin_loitsut)
+
+Seuraava [Kuudennen piirin loitsut](6_piirin_loitsut)
