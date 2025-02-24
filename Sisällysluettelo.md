@@ -25,6 +25,12 @@ Loitsut
 * [1. piirin loitsut](Loitsut/1_piirin_loitsut)
 * [2. piirin loitsut](Loitsut/2_piirin_loitsut)
 * [3. piirin loitsut](Loitsut/3_piirin_loitsut)
+* [4. piirin loitsut](Loitsut/4_piirin_loitsut)
+* [5. piirin loitsut](Loitsut/5_piirin_loitsut) 
+* [6. piirin loitsut](Loitsut/6_piirin_loitsut)
+* [7. piirin loitsut](Loitsut/7_piirin_loitsut)
+* [8. piirin loitsut](Loitsut/8_piirin_loitsut)
+* [9. piirin loitsut](Loitsut/9_piirin_loitsut)
 
 Muut
 * [Sanasto (MarkDown)](Sanasto)
