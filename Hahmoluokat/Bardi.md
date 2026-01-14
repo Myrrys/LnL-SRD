@@ -77,7 +77,7 @@ Voit loitsia minkä tahansa bardin loitsun rituaalina, jos sillä on rituaaliluo
 Voit käyttää soitinta bardin loitsujen loitsufokuksena.
 
 ### Innostavat sanat
-Voit innostaa toisia puheella tai musiikilla. Käytä lisätoiminto ja valitse olento, joka on enintään 24 metrin etäisyydellä itsestäsi. Kohde saa käyttöönsä innostusnopan, joka on 1n6.
+Voit innostaa toisia puheella tai musiikilla. Käytä bonustoiminto ja valitse olento, joka on enintään 24 metrin etäisyydellä itsestäsi. Kohde saa käyttöönsä innostusnopan, joka on 1n6.
 
 Kohde voi kerran seuraavan kymmenen minuutin aikana lisätä innostusnopan ominaisuusheittoon, hyökkäysheittoon tai pelastusheittoon. Innostusnopan voi lisätä heittoon n20-heiton jälkeen, mutta kuitenkin ennen kuin pelinjohtaja ilmoittaa, onnistuiko heitto vai ei. Innostusnopan menettää heiton jälkeen. Kohteella voi olla käytössään vain yksi innostusnoppa kerrallaan.
 
@@ -103,7 +103,7 @@ Kolmannella tasolla voit valita kaksi taitoa, joiden pätevyysbonus tuplataan om
 Neljännellä, kahdeksannella, kahdennellatoista, kuudennellatoista ja yhdeksännellätoista tasolla voit nostaa yhden ominaisuuden arvoa kahdella pisteellä tai kahden ominaisuuden arvoa yhdellä pisteellä. Et voi nostaa ominaisuusarvoa yli kahdenkymmenen.
 
 ### Inspiraation lähde
-Viidenneltä tasolta lähtien saat takaisin käyttämäsi innostavat sanat levättyäsi lyhyen tai pitkän levon.
+Viidenneltä tasolta lähtien saat takaisin käyttämäsi *innostavat sanat* levättyäsi lyhyen tai pitkän levon.
 
 ### Lumouksen vastustus
 Saat kuudennella tason kyvyn vastustaa mieltä hallitsevia loitsuja ja vaikutuksia laulun tai sanojen avulla. Voit aloittaa toimintona näytöksen, joka kestää seuraavan vuorosi loppuun. Tuona aikana sinä ja kaikki toverisi 12 metrin säteellä saatte *edun* pelastusheittoihin *lumotuksi* tulemista tai *kauhistumista* vastaan. Tämän *edun* saadakseen kohteen täytyy kuulla sinut.
@@ -116,7 +116,7 @@ Kymmenennellä tasolla olet selvillä magian salaisuuksista. Voit valita kaksi l
 Valitut loitsut lasketaan tästä eteenpäin bardin loitsuiksi, ja ne lasketaan mukaan osaamiesi loitsujen kokonaismäärään. Opit kaksi loitsua lisää samalla tavalla neljännellätoista tasolla ja kaksi loitsua kahdeksannellatoista tasolla.
 
 ### Todellinen inspiraatio
-Kahdennellakymmenennellä tasolla saat yhden innostavat sanat -toiminnon jokaisen aloiteheiton yhteydessä, jos sinulla ei ollut niitä yhtään jäljellä.
+Kahdennellakymmenennellä tasolla saat yhden *innostavat sanat* -toiminnon jokaisen aloiteheiton yhteydessä, jos sinulla ei ollut niitä yhtään jäljellä.
 
 ## Bardin perinteet
 Kolmannella tasolla päätät mitä perinnettä lähdet seuraamaan. Valitsemasi perinne kertoo, mikä innoittaa ja inspiroi sinua bardina.
