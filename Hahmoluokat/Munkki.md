@@ -81,7 +81,7 @@ Voit käyttää yhden ki-pisteen tehdäksesi *irtaudu*- tai *ryntäys*toiminnon 
 Toiselta tasolta lähtien nopeutesi nousee neljällä metrillä, kun et käytä haarniskaa tai kilpeä. Tämä bonus kasvaa korkeammilla munkkitasoilla (ks. taulukko). Yhdeksännellä tasolla saat kyvyn liikkua pystysuorilla tasoilla ja nesteiden päällä.
 
 ### Munkin koulukunta
-Kolmannella tasolla pyhität elämäsi jonkun munkin koulukunnan seuraamiseen. Koulukuntia ovat avoimen käden ja raudan koulukunnat. Saat koulukuntiin liittyviä piirteitä kolmannella, kuudennella, yhdennellätoista ja seitsemännellätoista tasolla (kts. alempana).
+Kolmannella tasolla pyhität elämäsi jonkun munkin koulukunnan seuraamiseen. Hahmoluokan lopusta löytyy esimerkkinä avoimen käden koulukunta. Saat koulukuntiin liittyviä piirteitä kolmannella, kuudennella, yhdennellätoista ja seitsemännellätoista tasolla (kts. alempana).
 
 ### Ammusten torjuminen
 Kolmannella tasolla voit käyttää reaktiotoimintoasi ammusten torjumiseen tai kiinniottamiseen, kun sinuun kohdistuu kantamahyökkäys. Vahingosta vähennetään 1n10 + ketteryysmuuttujasi + munkin tasosi. Jos vahinko nollaantuu, voit ottaa ammuksen kiinni, jos se on tarpeeksi pieni ja sinulla on vapaa käsi.
