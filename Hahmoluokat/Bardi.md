@@ -43,10 +43,10 @@ Bardilla on seuraavat hahmoluokkaan liittyvät piirteet:
 
 ### Varusteet
 Taustaan liittyvien varusteiden lisäksi saat aluksi:
-- Pistomiekan, miekan tai minkä tahansa yksinkertaisen aseen
-- Diplomaatin tai viihdyttäjän varusteet
-- Luutun tai minkä tahansa muun soittimen
-- Nahkapanssarin ja tikarin
+- Pistomiekan, miekan **tai** minkä tahansa yksinkertaisen aseen
+- Diplomaatin **tai** viihdyttäjän varusteet
+- Luutun **tai** minkä tahansa muun soittimen
+- Nahkapanssarin **ja** tikarin
 
 ### Loitsiminen
 Olet oppinut muokkaamaan todellisuuden kudelmaa musiikkisi ja toiveidesi mukaan. Loitsulaulut ovat osa ohjelmistoasi, josta löytyy eri tilanteisiin sopivia kappaleita.

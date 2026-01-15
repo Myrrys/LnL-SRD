@@ -42,9 +42,9 @@ Barbaarilla on seuraavat hahmoluokkaan liittyvät piirteet:
 
 ### Varusteet
 Taustaan liittyvien varusteiden lisäksi saat aluksi:
-- Suurkirveen tai minkä tahansa sota-aseen
-- Kaksi kirvestä tai minkä tahansa yksinkertaisen aseen
-- Retkeilijän varusteet ja neljä heittokeihästä
+- Suurkirveen **tai** minkä tahansa sota-aseen
+- Kaksi kirvestä **tai** minkä tahansa yksinkertaisen aseen
+- Retkeilijän varusteet **ja** neljä heittokeihästä
 
 ### Hurma
 Taistelet väkevällä raivolla. Vuorollasi voit saada itsesi taisteluhurmaan.
@@ -52,7 +52,7 @@ Taistelet väkevällä raivolla. Vuorollasi voit saada itsesi taisteluhurmaan.
 Jos päälläsi ei ole raskasta panssaria, saat seuraavat edut hurmasta:
 - Saat *edun* voimakkuuteen liittyviin ominaisuusheittoihin ja voimakkuuspelastusheittoihin.
 - Saat barbaarin tasoihin liittyvän hurman vahinkobonuksen hyökätessäsi voimakkuutta hyödyntävillä aseilla.
-- Sinulla on sietokyky ruhjovaa, lävistävää ja viiltävää vahinkoa vastaan.
+- Sinulla on sietokyky murskaavaa, lävistävää ja viiltävää vahinkoa vastaan.
 - Et voi loitsia taisteluhurman aikana.
 
 Hurma kestää yhden minuutin, mutta se loppuu, jos sinut lyödään tajuttomaksi tai jos et ole hyökännyt kenenkään kimppuun tai saanut vahinkoa kierroksen aikana. Voit myös itse keskeyttää hurman vuorollasi bonustoimintona.
