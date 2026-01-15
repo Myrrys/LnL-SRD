@@ -74,7 +74,7 @@ Käytät karisma-ominaisuutta loihtijan loitsujen loitsimiseen. Kun loitsun yhte
 Voit käyttää maaginfokusta loihtijan loitsujen loitsufokuksena.
 
 ### Loihtijan alkuperä
-Ensimmäisellä tasolla valitset loihtijan alkuperän, joka kertoo mistä voimasi tulevat: joko lohikäärmeverestä tai jumalallisesta siunauksesta, joista löytyy tiedot tämän hahmoluokan lopusta. Polkusi antaa sinulle erikoispiirteitä ensimmäisellä, kuudennella, neljännellätoista ja kahdeksannellatoista tasolla.
+Ensimmäisellä tasolla valitset loihtijan alkuperän, joka kertoo mistä voimasi tulevat. Lohikäärmeverisestä loihtijasta löytyy tiedot tämän hahmoluokan lopusta. Polkusi antaa sinulle erikoispiirteitä ensimmäisellä, kuudennella, neljännellätoista ja kahdeksannellatoista tasolla.
 
 ### Loitsujen lähde
 Toiselta tasolta lähtien pystyt ammentamaan voimakkaammin perimäsi antamaa maagista voimaa. Tätä voimaa kuvataan loitsupisteillä, joilla pystyt luomaan maagisia vaikutuksia.
