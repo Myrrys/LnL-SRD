@@ -194,53 +194,44 @@ alueella oleva olento saa 5 pistettä vahinkoa liikkuessaan palavalle alueelle t
 ## Varusteet
 | Esine | Hinta | Paino |
 |:--- |:--- |:--- |
-| 3 metrin seiväs | 5 kup | 3 kg |
-| 3 metrin tikkaat | 1 hr | 10 kg |
 | Ainespussi | 25 kr | 1 kg |
 | Alkemistin tuli (pullo) | 50 kr | 0,5 kg |
-| Arkku | 5 kr | 10 kg |
 | Ämpäri | 5 kup | 1 kg |
+| Arkku | 5 kr | 10 kg |
 | Hakku | 2 kr | 5 kg |
 | Happopullo | 25 kr | 0,5 kg |
 | Helmitaulu | 2 kr | 0,5 kg |
+| Hienot vaatteet | 15 kr | 2.5 kg |
 | Hiomakivi | 1 kup | 0,5 kg |
-| Hienot vaatteet | 15 kr | 6 lb. |
 | Huputettu lyhty | 5 kr | 1 kg |
-| Jalkapiikki (20 säkissä) | 1 kr | 1 kg |
+| Jalkapiikki (20 säkissä) | 1 kr | 1 kg
 | Kaapu | 1 kr | 2 kg |
-| Kauppiaan vaaka | 5 kr | 1 kg |
-| Kahleet | 2 kr | 3 kg |
 | Kahden hengen teltta | 2 kr | 10 kg |
-| Kalliopora | 10 kr | 5 kg |
+| Kahleet | 2 kr | 3 kg |
 | Kalastusvälineet | 1 kr | 2 kg |
 | Kannu | 2 kup | 2 kg |
 | Kartan suojaputki | 1 kr | 0,5 kg |
-| Kaukoputki | 1,000 kr | 0,5 kg |
 | Käsipeili | 5 kr | 0,5 kg |
-| Kauha | 2 kr | 1 kg |
-| Kengänpohjat (pari) | 1 kr | - |
-| Keppi tai piiskanvarsi | 1 kr | 0,5 kg |
+| Kaukoputki | 1,000 kr | 0,5 kg |
+| Kauppiaan vaaka | 5 kr | 1 kg |
 | Ketju (3 metriä) | 5 kr | 5 kg |
 | Kiila | 5 kup | 0,5 kg |
 | Kiipeilyvälineet | 25 kr | 5 kg |
 | Kirja | 25 kr | 2 kg |
-| Kirjoitussetti | 5 kr | 1 kg |
-| Kirves | 1 kr | 2 kg |
-| Kiviä (20 kpl säkissä) | 1 kr | 5 kg |
-| Kokkiapulainen | 2 kr | 2 kg |
 | Kori | 4 hr | 1 kg |
+| Köysi, hamppua (15 m) | 1 kr | 5 kg
+| Köysi, silkkiä (15 m) | 10 kr | 2 kg |
 | Kuivamuona (1 päiväksi) | 5 hr | 1 kg |
-| Kuulia (1,000 kpl säkissä) | 1 kr | 1 kg |
 | Kulkunen | 1 kr | - |
+| Kuulia (1,000 kpl säkissä) | 1 kr | 1 kg |
 | Kynttilä | 1 kup | - |
-| Läjä vaatteita (10 vaatekappaletta) | 2 kr | 1 kg |
+| Lamppu | 5 hr | 0,5 kg |
 | Lapio | 2 kr | 2 kg |
 | Lasipullo | 2 kr | 1 kg |
-| Lekakirves | 5 kr | 7 kg |
+| Leka | 2 kr | 5 kg |
 | Liitu | 1 kup | - |
 | Loitsukirja | 50 kr | 1 kg |
 | Lukko | 10 kr | 0,5 kg |
-| Lusikka | 1 kr | 0,5 kg |
 | Lyhty | 10 kr | 1 kg |
 | Makuupussi | 1 kr | 3 kg |
 | Matkavaatteet | 2 kr | 2 kg |
@@ -249,47 +240,48 @@ alueella oleva olento saa 5 pistettä vahinkoa liikkuessaan palavalle alueelle t
 | Myrkkypullo | 100 kr | - |
 | Naamiaisasu | 5 kr | 2 kg |
 | Näytepullo | 1 kr | - |
+| Nuoliviini | 1 kr | 0,5 kg |
 | Öljypullo | 1 hr | 0,5 kg |
-| Pada | 2 kr | 5 kg |
-| Pari sukkia | 1 kr | - |
+| Paperi (yksi liuska) | 2 hr | - |
 | Parannusjuoma | 50 kr | 0,5 kg |
-| Parfyymi (pullo) | 5 kr | - |
 | Parantajan välineet | 5 kr | 1 kg |
+| Parfyymi (pullo) | 5 kr | - |
+| Pata | 2 kr | 5 kg |
 | Pergamentti (yksi liuska) | 1 hr | - |
-| Pihdit | 1 kr | 1 kg |
 | Pilli | 5 kup | - |
-| Pora | 10 kr | 5 kg |
 | Pullo pyhää vettä | 25 kr | 0,5 kg |
 | Pussi | 5 hr | 0,5 kg |
-| Pyyhe | 1 kr | 0,5 kg |
 | Rautapiikki (10) | 1 kr | 2 kg |
 | Reppu | 2 kr | 2 kg |
 | Ruokailuvälineet | 2 hr | 0,5 kg |
 | Saippua | 2 kup | - |
-| Salamanvaraspuvut | 5 kr | 1 kg |
-| Sankariuskomus | 5 kr | 0,5 kg |
-| Säkki | 1 kup | 0,5 kg |
+| Seiväs (3 metriä) | 5 kup | 3 kg |
 | Sinettisormus | 5 kr | - |
 | Sinettivaha | 5 hr | - |
 | Soihtu | 1 kup | 0,5 kg |
-| Sudenraudat | 5 kr | 10 kg |
 | Sorkkarauta | 2 kr | 2 kg |
+| Sudenraudat | 5 kr | 10 kg |
+| Sulkakynä | 2 kup | - |
 | Suurennuslasi | 100 kr | - |
-| Suutin | 1 kup | - |
+| Säkki | 1 kup | 0,5 kg |
 | Tarttumiskoukku | 2 kr | 2 kg |
+| Taskumatti tai kolpakko | 2 kup | 0,5 kg |
+| Tavalliset vaatteet | 5 hr | 1 kg |
 | Tiimalasi | 25 kr | 0,5 kg |
+| Tikkaat (3 metriä) | 1 hr | 10 kg |
 | Tulusrasia | 5 hr | 0,5 kg |
 | Tynnyri | 2 kr | 30 kg |
-| Vasama | 1 kr | 1 kg |
 | Vasamakotelo | 1 kr | 0,5 kg |
 | Vasara | 1 kr | 1 kg |
 | Vastamyrkkypullo | 50 kr | - |
-| Vesileili (täytenä) | 2 hr | 2 kg |
-| Vinssi | 1 kr | 2 kg |
+| Vesileili | 2 hr | 2 kg (täytenä)|
 | Viltti | 5 hr | 1 kg |
-| Viuhka | 1 kr | 0,5 kg |
-| Yksi nuoli | 1 kr | - |
-| Öljylamppu | 5 hr | 1 kg |
+| Vinssi | 1 kr | 2 kg |
+
+
+-
+
+Varusteet
 
 ### Kantovälineiden kapasiteetti
 | Kantoväline | Kapasiteetti |
