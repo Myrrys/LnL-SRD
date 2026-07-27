@@ -1,3 +1,8 @@
+---
+title: "Varusteet"
+description: "Varusteet-sivu esittelee fantasiamaailman kauppatorien tarjonnan kääpiöiden miekoista haltioiden jousiin ja maahisten jalokiviin."
+---
+
 # Varusteet
 Suurkaupunkien kauppakortteleissa kaukaisten maiden
 karavaanien ja kauppalaivojen sisältö kohtaavat. Niissä on

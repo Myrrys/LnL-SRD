@@ -1,3 +1,8 @@
+---
+title: "Jäämyrsky"
+description: "Jäämyrsky on 4-piirin luomisloitsu, joka saa aikaan raesateen ja aiheuttaa 2n8 murskaus- ja 4n6 kylmävahinkoa ketteryysheitolla puolitettuna."
+---
+
 ### Jäämyrsky
 
 *4-piirin luominen*

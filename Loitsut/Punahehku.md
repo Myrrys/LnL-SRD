@@ -1,3 +1,8 @@
+---
+title: "Punahehku"
+description: "Punahehku on 2-piirin muovaamisloitsu, joka kuumentaa metalliesineen punahehkuiseksi aiheuttaen kantajalleen 2n8 tulivahinkoa toistuvasti."
+---
+
 ### Punahehku
 
 *2-piirin muovaaminen*

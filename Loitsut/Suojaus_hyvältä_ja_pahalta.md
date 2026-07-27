@@ -1,3 +1,8 @@
+---
+title: "Suojaus hyvältä ja pahalta"
+description: "Suojaus hyvältä ja pahalta on 1-piirin suojelusloitsu, joka suojaa kosketettua olentoa elementaaleilta, epäkuolleilta, keijuilta ja piruilta."
+---
+
 ### Suojaus hyvältä ja pahalta
 
 *1-piirin suojelus*

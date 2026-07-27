@@ -1,10 +1,15 @@
+---
+title: "Legendoja & Lohikäärmeitä SRD"
+description: "README kertoo Legendoja & Lohikäärmeitä SRD:n taustasta, Creative Commons -lisenssistä ja siitä, miten materiaali pohjautuu 5. laitoksen SRD 5.1:een."
+---
+
 # Legendoja & Lohikäärmeitä SRD
 
 ## Tietoa
 
 |               |              |
 | ------------- | ------------ |
-| **Julkaisu**  | 0.0.1-beta11 |
+| **Julkaisu**  | 1.0.0-rc.1 |
 
 Tämä on Legendoja & Lohikäärmeitä (L&L) SRD (Systems Reference Document) -materiaali, joka on muotoiltu Markdown-muotoon. Muotoilu mahdollistaa materiaalin helpomman siirtämisen eri julkaisualustoille.
 

@@ -1,3 +1,8 @@
+---
+title: "Viidennen piirin loitsut"
+description: "Viidennen piirin loitsut listaa tason viisi loitsuvalikoiman elementaalin kutsumisesta ylimaalliseen yhteyteen aakkosjärjestyksessä."
+---
+
 ## Viidennen piirin loitsut
 
 E-Y elementaalin kutsumisesta ylimaalliseen yhteyteen.

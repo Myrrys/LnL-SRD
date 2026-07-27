@@ -1,3 +1,8 @@
+---
+title: "Keijun kutsuminen"
+description: "Keijun kutsuminen on 6-piirin kutsumisloitsu, joka manaa esiin ystävällisen keijuolennon tai keijuhengen taistelemaan loitsijan rinnalla."
+---
+
 ### Keijun kutsuminen
 
 *6-piirin kutsuminen*

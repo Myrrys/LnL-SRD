@@ -1,3 +1,8 @@
+---
+title: "Parannuksen mahtisana"
+description: "Parannuksen mahtisana on 3-piirin luomisloitsu, joka parantaa enintään kuusi kohdetta 1n4 plus loitsimisominaisuuden verran osumapisteitä."
+---
+
 ### Parannuksen mahtisana
 
 *3-piirin luominen* 

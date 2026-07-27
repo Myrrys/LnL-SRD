@@ -1,3 +1,8 @@
+---
+title: "Liikkuva omakuva"
+description: "Liikkuva omakuva on 7-piirin illuusioloitsu, joka luo aineettoman kaksoisolennon loitsijasta jopa 800 kilometrin päähän ohjattavaksi."
+---
+
 ### Liikkuva omakuva
 
 *7-piirin illuusio*

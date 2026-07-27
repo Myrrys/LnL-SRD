@@ -1,3 +1,8 @@
+---
+title: "Vähäisempi henkiinherätys"
+description: "Vähäisempi henkiinherätys on 7-piirin kuolontaikuusloitsu, joka palauttaa henkiin enintään 100 vuotta kuolleena olleen olennon ja parantaa sairaudet."
+---
+
 ### Vähäisempi henkiinherätys
 
 *7-piirin kuolontaikuus*

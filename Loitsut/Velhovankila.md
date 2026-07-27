@@ -1,3 +1,8 @@
+---
+title: "Velhovankila"
+description: "Velhovankila on 9-piirin suojelusloitsu, joka vangitsee olennon pysyvästi viisauspelastusheiton epäonnistuessa, kunnes loitsu purkautuu."
+---
+
 ### Velhovankila
 
 *9-piirin suojelus*

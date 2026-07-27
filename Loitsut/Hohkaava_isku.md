@@ -1,3 +1,8 @@
+---
+title: "Hohkaava isku"
+description: "Hohkaava isku on 2-piirin luomisloitsu, joka lisää seuraavaan osumaan 2n6 hohkavahinkoa ja paljastaa mahdollisen näkymättömän kohteen."
+---
+
 ### Hohkaava isku
 
 *2-piirin luominen*

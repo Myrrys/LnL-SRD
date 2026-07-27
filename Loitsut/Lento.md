@@ -1,3 +1,8 @@
+---
+title: "Lento"
+description: "Lento on 3-piirin muovaamisloitsu, joka antaa kosketetulle olennolle 24 metrin lentonopeuden loitsun keston ajaksi."
+---
+
 ### Lento
 
 *3-piirin muovaaminen* 

@@ -1,3 +1,8 @@
+---
+title: "Tehtävä"
+description: "Tehtävä on 5-piirin lumoamisloitsu, joka pakottaa olennon noudattamaan antamaasi käskyä 30 päivän ajan uhalla kärsiä hengenvahinkoa."
+---
+
 ### Tehtävä
 
 *5-piirin lumoaminen*

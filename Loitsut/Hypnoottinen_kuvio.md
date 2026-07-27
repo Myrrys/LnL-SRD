@@ -1,3 +1,8 @@
+---
+title: "Hypnoottinen kuvio"
+description: "Hypnoottinen kuvio on 3-piirin illuusioloitsu, joka lumoaa ja tekee toimintakyvyttömäksi kaikki kuvion näkevät olennot minuutin ajaksi."
+---
+
 ### Hypnoottinen kuvio
 
 *3-piirin illuusio* 

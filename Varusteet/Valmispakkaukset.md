@@ -1,3 +1,8 @@
+---
+title: "Valmispakkaukset"
+description: "Valmispakkaukset-sivu listaa valmiit aloitusvarustepaketit, kuten diplomaatin ja luolantutkijan varusteet, edullisempaan pakettihintaan."
+---
+
 # Valmispakkaukset
 Valmispakkaukset ovat valmiita kokoelmia seikkailijan aloitusvarusteita. 
 Näiden valmiiden kokonaisuuksien sisältö on

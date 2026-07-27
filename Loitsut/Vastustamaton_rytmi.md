@@ -1,3 +1,8 @@
+---
+title: "Vastustamaton rytmi"
+description: "Vastustamaton rytmi on 6-piirin lumoamisloitsu, joka pakottaa kohteen tanssimaan koomisesti ja antaa haitan sen ketteryyspelastusheittoihin."
+---
+
 ### Vastustamaton rytmi
 
 *6-piirin lumoaminen*

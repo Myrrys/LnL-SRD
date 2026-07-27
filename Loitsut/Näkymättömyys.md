@@ -1,3 +1,8 @@
+---
+title: "Näkymättömyys"
+description: "Näkymättömyys on 2-piirin illuusioloitsu, joka tekee kosketetusta olennosta ja sen varusteista näkymättömän tunnin ajaksi."
+---
+
 ### Näkymättömyys
 
 *2-piirin illuusio*

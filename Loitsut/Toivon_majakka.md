@@ -1,3 +1,8 @@
+---
+title: "Toivon majakka"
+description: "Toivon majakka on 3-piirin suojelusloitsu, joka antaa valitsemillesi olennoille edun viisaus- ja kuolemanpelastusheittoihin sekä täyden parannuksen."
+---
+
 ### Toivon majakka
 
 *3-piirin suojelus* 

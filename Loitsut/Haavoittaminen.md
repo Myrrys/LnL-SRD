@@ -1,3 +1,8 @@
+---
+title: "Haavoittaminen"
+description: "Haavoittaminen on 1-piirin kuolontaikuusloitsu, joka tekee lähitaisteluhyökkäyksen ja aiheuttaa osuessaan 3n10 kuolonvahinkoa kohteeseen."
+---
+
 ### Haavoittaminen
 
 *1-piirin kuolontaikuus*

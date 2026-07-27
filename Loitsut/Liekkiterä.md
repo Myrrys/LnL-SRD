@@ -1,3 +1,8 @@
+---
+title: "Liekkiterä"
+description: "Liekkiterä on 2-piirin luomisloitsu, joka synnyttää liekehtivän miekan käteen ja tekee 3n6 tulivahinkoa lähitaisteluosumalla."
+---
+
 ### Liekkiterä
 
 *2-piirin luominen*

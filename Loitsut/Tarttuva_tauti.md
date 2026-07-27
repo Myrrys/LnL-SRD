@@ -1,3 +1,8 @@
+---
+title: "Tarttuva tauti"
+description: "Tarttuva tauti on 5-piirin kuolontaikuusloitsu, joka lähitaisteluhyökkäyksellä tartuttaa kohteeseen valitsemasi vakavan taudin."
+---
+
 ### Tarttuva tauti
 
 *5-piirin kuolontaikuus*

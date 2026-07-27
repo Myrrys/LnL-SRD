@@ -1,3 +1,8 @@
+---
+title: "Mustat lonkerot"
+description: "Mustat lonkerot on 4-piirin kutsumisloitsu, joka täyttää 8x8 metrin alueen sitovilla lonkeroilla, jotka aiheuttavat 3n6 murskausvahinkoa."
+---
+
 ### Mustat lonkerot
 
 *4-piirin kutsuminen*

@@ -1,3 +1,8 @@
+---
+title: "Maaginen piilo"
+description: "Maaginen piilo on 7-piirin muovaamisloitsu, joka tekee vapaaehtoisesta olennosta tai esineestä näkymättömän ja pysäyttää sen ajan kulun."
+---
+
 ### Maaginen piilo
 
 *7-piirin muovaaminen*

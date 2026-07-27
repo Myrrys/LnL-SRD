@@ -1,3 +1,8 @@
+---
+title: "Okavalli"
+description: "Okavalli on 6-piirin kutsumisloitsu, joka luo terävän pensasmuurin ja aiheuttaa 7n8 pistovahinkoa ilmestyessään sen alueelle jääville."
+---
+
 ### Okavalli
 
 *6-piirin kutsuminen*

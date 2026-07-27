@@ -1,3 +1,8 @@
+---
+title: "Suoja energialta"
+description: "Suoja energialta on 3-piirin suojelusloitsu, joka antaa vapaaehtoiselle olennolle sietokyvyn valittua vahinkotyyppiä, kuten tulta, vastaan tunniksi."
+---
+
 ### Suoja energialta
 
 *3-piirin suojelus* 

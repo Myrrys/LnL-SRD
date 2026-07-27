@@ -1,3 +1,8 @@
+---
+title: "Haavojen parannus"
+description: "Haavojen parannus on 1-piirin luomisloitsu, joka palauttaa kosketuksella 1n8 plus loitsimisominaisuuden verran osumapisteitä kohteelle."
+---
+
 ### Haavojen parannus
 
 *1-piirin luominen*

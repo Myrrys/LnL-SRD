@@ -1,3 +1,8 @@
+---
+title: "Kuunsäde"
+description: "Kuunsäde on 2-piirin luomisloitsu, joka luo hopeisen valopatsaan ja aiheuttaa 2n10 hohkavahinkoa sitkeyspelastusheitolla puolitettuna."
+---
+
 ### Kuunsäde
 
 *2-piirin luominen*

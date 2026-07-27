@@ -1,3 +1,8 @@
+---
+title: "Jäljittä kulkeminen"
+description: "Jäljittä kulkeminen on 2-piirin suojelusloitsu, joka antaa lähialueen olennoille edun hiipimisessä ja estää jälkien jättämisen tunnin ajan."
+---
+
 ### Jäljittä kulkeminen
 
 *2-piirin suojelus*

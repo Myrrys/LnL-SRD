@@ -1,3 +1,8 @@
+---
+title: "Hyvän tai pahan löytäminen"
+description: "Hyvän tai pahan löytäminen on 1-piirin ennustamisloitsu, jolla aistitaan epäkuolleiden, keijujen, pirujen ja taivaallisten sijainti läheltä."
+---
+
 ### Hyvän tai pahan löytäminen
 
 *1-piirin ennustaminen*

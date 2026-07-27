@@ -1,3 +1,8 @@
+---
+title: "Sallimus"
+description: "Sallimus on 1-piirin luomisloitsu, joka lisää loitsijan aseellisiin hyökkäyksiin 1n4 ylimääräistä hohkavahinkoa loitsun keston ajan."
+---
+
 ### Sallimus
 
 *1-piirin luominen*

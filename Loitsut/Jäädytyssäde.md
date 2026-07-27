@@ -1,3 +1,8 @@
+---
+title: "Jäädytyssäde"
+description: "Jäädytyssäde on luomiseen kuuluva taikakonsti, joka kohdistaa kylmän valon kohteeseen ja aiheuttaa 1n8 kylmävahinkoa sekä hidastaa nopeutta."
+---
+
 ### Jäädytyssäde
 
 *Taikakonsti, luominen*

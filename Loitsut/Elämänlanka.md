@@ -1,3 +1,8 @@
+---
+title: "Elämänlanka"
+description: "Elämänlanka on 4-piirin suojelusloitsu, joka estää kohteen kuoleman ensimmäisellä nollaan laskevalla osumapistevahingolla kahdeksan tunnin ajan."
+---
+
 ### Elämänlanka
 
 *4-piirin suojelus*

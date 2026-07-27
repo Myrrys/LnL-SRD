@@ -1,3 +1,8 @@
+---
+title: "Velhonnäytös"
+description: "Velhonnäytös on muovaamisen taikakonsti, joka luo pieniä yliluonnollisia ihmeitä kuten jyrisevän äänen, väräjäviä liekkejä tai paukahtelevia ovia."
+---
+
 ### Velhonnäytös
 *Taikakonsti, muovaaminen*
 **Loitsimisviive:** 1 toiminto

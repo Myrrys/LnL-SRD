@@ -1,3 +1,8 @@
+---
+title: "Tyhjämieli"
+description: "Tyhjämieli on 8-piirin suojelusloitsu, joka tekee kosketetusta olennosta immuunin hengenvahingolle, lumoukselle ja mielenluvulle vuorokauden ajan."
+---
+
 ### Tyhjämieli
 
 *8-piirin suojelus*

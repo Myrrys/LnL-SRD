@@ -1,3 +1,8 @@
+---
+title: "Valheeton alue"
+description: "Valheeton alue on 2-piirin lumoamisloitsu, joka luo alueen, jossa olennot eivät voi tarkoituksella valehdella kymmenen minuutin ajan."
+---
+
 ### Valheeton alue
 
 *2-piirin lumoaminen*

@@ -1,3 +1,8 @@
+---
+title: "Aaveratsu"
+description: "Aaveratsu on 2-piirin kutsumisloitsu, jolla loihditaan pitkäaikainen keiju-, piru- tai taivaallinen ratsu palvelemaan loitsijaa."
+---
+
 ### Aaveratsu
 
 *2-piirin kutsuminen*

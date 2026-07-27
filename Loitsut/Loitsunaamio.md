@@ -1,3 +1,8 @@
+---
+title: "Loitsunaamio"
+description: "Loitsunaamio on 2-piirin illuusioloitsu, joka antaa kosketetulle esineelle tai olennolle väärän auran tai naamion ennustusloitsuja vastaan."
+---
+
 ### Loitsunaamio
 
 *2-piirin illuusio*

@@ -1,3 +1,8 @@
+---
+title: "Näkymättömän näkeminen"
+description: "Näkymättömän näkeminen on 2-piirin ennustamisloitsu, joka antaa kyvyn nähdä näkymättömät olennot ja eetteritason tunnin ajan."
+---
+
 ### Näkymättömän näkeminen
 
 *2-piirin ennustaminen*

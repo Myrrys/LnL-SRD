@@ -1,3 +1,8 @@
+---
+title: "Huomaamattomuus"
+description: "Huomaamattomuus on 3-piirin suojelusloitsu, joka kätkee kohteen kahdeksaksi tunniksi kaikelta ennustamisen koulukunnan taikuudelta ja etäkatselulta."
+---
+
 ### Huomaamattomuus
 
 *3-piirin suojelus* 

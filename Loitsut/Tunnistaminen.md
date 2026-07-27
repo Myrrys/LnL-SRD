@@ -1,3 +1,8 @@
+---
+title: "Tunnistaminen"
+description: "Tunnistaminen on 1-piirin ennustamisen rituaaliloitsu, joka selvittää taikaesineen ominaisuudet ja käytön koskettamalla sitä."
+---
+
 ### Tunnistaminen
 
 *1-piirin ennustaminen (rituaali)*

@@ -1,3 +1,8 @@
+---
+title: "Oudotus"
+description: "Oudotus on 9-piirin illuusioloitsu, joka kutsuu esiin kohteiden pahimpiin painajaisiin perustuvia harhakuvia ja tekee heidät kauhistuneiksi."
+---
+
 ### Oudotus
 
 *9-piirin illuusio*

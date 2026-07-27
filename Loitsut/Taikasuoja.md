@@ -1,3 +1,8 @@
+---
+title: "Taikasuoja"
+description: "Taikasuoja on 6-piirin suojelusloitsu, joka luo esteen torjumaan viidennen tai matalamman piirin loitsujen vaikutukset ympäriltäsi."
+---
+
 ### Taikasuoja
 
 *6-piirin suojelus*

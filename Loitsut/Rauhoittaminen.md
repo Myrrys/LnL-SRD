@@ -1,3 +1,8 @@
+---
+title: "Rauhoittaminen"
+description: "Rauhoittaminen on 2-piirin lumoamisloitsu, joka viilentää väkijoukon tunteita ja voi vaimentaa lumouksen tai kauhistumisen 8 metrin säteellä."
+---
+
 ### Rauhoittaminen
 
 *2-piirin lumoaminen*

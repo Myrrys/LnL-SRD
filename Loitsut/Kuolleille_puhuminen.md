@@ -1,3 +1,8 @@
+---
+title: "Kuolleille puhuminen"
+description: "Kuolleille puhuminen on 3-piirin kuolontaikuusloitsu, joka herättää ruumiin väliaikaisesti vastaamaan enintään viiteen loitsijan kysymykseen."
+---
+
 ### Kuolleille puhuminen
 
 *3-piirin kuolontaikuus* 

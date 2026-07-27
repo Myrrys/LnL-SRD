@@ -1,3 +1,8 @@
+---
+title: "Ratsut ja kulkuvälineet"
+description: "Ratsut ja kulkuvälineet -sivu listaa eläinten ja ajoneuvojen nopeudet ja kantokyvyt matkustamiseen sivistyksen ulkopuolella."
+---
+
 # Ratsut ja kulkuvälineet
 
 Hyvän ratsun avulla liikut nopeasti paikasta toiseen kaupunkien ja sivistyksen ulkopuolella. Ratsu pystyy kantamaan puolestasi huomattavan määrän varusteita, jotka muuten hidastaisivat tai tekisivät matkanteon jalan jopa mahdottomaksi. Ratsut ja muut eläimet -taulukossa on listattu näiden eläinten nopeus ja kantokyky.

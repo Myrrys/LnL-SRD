@@ -1,3 +1,8 @@
+---
+title: "Lounasmarja"
+description: "Lounasmarja on 1-piirin muovaamisloitsu, joka luo enintään kymmenen marjaa, joista jokainen palauttaa syöjälleen osumapisteen ja päivän ravinnon."
+---
+
 ### Lounasmarja
 
 *1-piirin muovaaminen*

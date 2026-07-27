@@ -1,3 +1,8 @@
+---
+title: "Pikamarssi"
+description: "Pikamarssi on 1-piirin muovaamisloitsu, joka kasvattaa kosketetun olennon liikkumisnopeutta neljällä metrillä tunnin ajaksi."
+---
+
 ### Pikamarssi
 
 *1-piirin muovaaminen*

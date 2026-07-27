@@ -1,3 +1,8 @@
+---
+title: "Taivaallisen olennon kutsuminen"
+description: "Taivaallisen olennon kutsuminen on 7-piirin kutsumisloitsu, joka tuo avuksesi ystävällisen taivaallisen olennon haastearvoon 4 asti."
+---
+
 ### Taivaallisen olennon kutsuminen
 
 *7-piirin kutsuminen*

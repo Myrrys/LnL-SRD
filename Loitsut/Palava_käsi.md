@@ -1,3 +1,8 @@
+---
+title: "Palava käsi"
+description: "Palava käsi on 1-piirin luomisloitsu, joka syöksee liekkejä kuusimetrisenä kartiona aiheuttaen 3n6 tulivahinkoa ketteryys-pelastusheitolla puolitettuna."
+---
+
 ### Palava käsi
 
 *1-piirin luominen*

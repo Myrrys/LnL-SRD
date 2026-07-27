@@ -1,3 +1,8 @@
+---
+title: "Eläinlähetti"
+description: "Eläinlähetti on 2-piirin lumoamisrituaali, jolla pieni eläin lähetetään kuljettamaan alle 25 sanan viesti tunnistetulle vastaanottajalle."
+---
+
 ### Eläinlähetti
 
 *2-piirin lumoaminen (rituaali)*

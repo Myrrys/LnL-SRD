@@ -1,3 +1,8 @@
+---
+title: "Metsästäjän merkki"
+description: "Metsästäjän merkki on 1-piirin ennustamisloitsu, joka tuottaa 1n6 lisävahinkoa valittuun saaliiseen ja antaa edun sen jäljittämiseen tunnin ajan."
+---
+
 ### Metsästäjän merkki
 
 *1-piirin ennustaminen*

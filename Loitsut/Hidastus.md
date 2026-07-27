@@ -1,3 +1,8 @@
+---
+title: "Hidastus"
+description: "Hidastus on 3-piirin muovaamisloitsu, joka puolittaa enintään kuuden kohteen kulkunopeuden ja antaa haitan puolustukseen ja pelastusheittoihin."
+---
+
 ### Hidastus
 
 *3-piirin muovaaminen* 

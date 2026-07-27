@@ -1,3 +1,8 @@
+---
+title: "Sumennus"
+description: "Sumennus on 2-piirin illuusioloitsu, joka sumentaa loitsijan ääriviivat niin, että kaikilla häneen kohdistuvilla hyökkäysheitoilla on haitta."
+---
+
 ### Sumennus
 
 *2-piirin illuusio*

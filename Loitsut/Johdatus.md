@@ -1,3 +1,8 @@
+---
+title: "Johdatus"
+description: "Johdatus on 5-piirin ennustamisrituaali, joka avaa yhteyden palvottuun jumaluuteen ja antaa vastauksen enintään kolmeen kyllä-ei-kysymykseen."
+---
+
 ### Johdatus
 
 *5-piirin ennustaminen (rituaali)*

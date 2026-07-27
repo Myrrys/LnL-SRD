@@ -1,3 +1,8 @@
+---
+title: "Muistinmuokkaus"
+description: "Muistinmuokkaus on 5-piirin lumoamisloitsu, joka lumoaa kohteen toimintakyvyttömäksi ja mahdollistaa muistojen muokkaamisen pelastusheiton epäonnistuessa."
+---
+
 ### Muistinmuokkaus
 
 *5-piirin lumoaminen*

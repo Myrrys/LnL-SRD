@@ -1,3 +1,8 @@
+---
+title: "Haarniskat ja kilvet"
+description: "Haarniskat ja kilvet -sivu listaa haarniskatyypit hintoineen ja puolustusarvoineen sekä selittää haarniskakoulutuksen puutteen haitat."
+---
+
 # Haarniskat ja kilvet
 
 Näet haarniskataulukosta yleisimmät fantasiamaailmoissa käytetyt haarniskat sekä niiden 

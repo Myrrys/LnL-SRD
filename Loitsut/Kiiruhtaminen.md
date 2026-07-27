@@ -1,3 +1,8 @@
+---
+title: "Kiiruhtaminen"
+description: "Kiiruhtaminen on 3-piirin muovaamisloitsu, joka antaa kohteelle puolustusbonuksen, edun ketteryysheittoihin ja ylimääräisen toiminnon vuorollaan."
+---
+
 ### Kiiruhtaminen
 
 *3-piirin muovaaminen* 

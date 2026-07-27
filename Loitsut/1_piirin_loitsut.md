@@ -1,3 +1,8 @@
+---
+title: "Ensimmäisen piirin loitsut"
+description: "Ensimmäisen piirin loitsut kokoaa yhteen kaikki tason yksi loitsut apulaishengen kutsumisesta väripurskeeseen aakkosjärjestyksessä."
+---
+
 ## Ensimmäisen piirin loitsut
 
 A-V apulaishengen kutsumisesta väripurskeeseen.
@@ -42,14 +47,14 @@ A-V apulaishengen kutsumisesta väripurskeeseen.
  - [Sankaruus](Sankaruus)
  - [Siunaus](Siunaus)
  - [Sumupilvi](Sumupilvi)
- - [Suojelus hyvältä ja pahalta](Suojelus_hyvältä_ja_pahalta)
+ - [Suojelus hyvältä ja pahalta](Suojaus_hyvältä_ja_pahalta)
  - [Tunnistaminen](Tunnistaminen)
  - [Uni](Uni)
  - [Uskon kilpi](Uskon_kilpi)
  - [Valeasu](Valeasu)
  - [Valojuova](Valojuova)
  - [Varjelus](Varjelus)
- - [Veden luominen ja tuhoaminen](Veden_luominen_ja_tuhoaminen)
+ - [Veden luominen ja tuhoaminen](Veden_luominen_tai_tuhoaminen)
  - [Väripurske](Väripurske)
  
 ----

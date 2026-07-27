@@ -1,3 +1,8 @@
+---
+title: "Pirstominen"
+description: "Pirstominen on 2-piirin luomisloitsu, joka luo vihlovan äänen ja tekee 3n8 ukkosvahinkoa neljän metrin säteellä sitkeys-pelastusheitolla puolitettuna."
+---
+
 ### Pirstominen
 
 *2-piirin luominen*

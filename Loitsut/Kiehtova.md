@@ -1,3 +1,8 @@
+---
+title: "Kiehtova"
+description: "Kiehtova on 2-piirin lumoamisloitsu, joka lumoaa kuulijat ja antaa heille haitan huomata muita kuin loitsijaa itseään minuutin ajaksi."
+---
+
 ### Kiehtova
 
 *2-piirin lumoaminen*

@@ -1,3 +1,8 @@
+---
+title: "Kunnostaminen"
+description: "Kunnostaminen on muovaamiseen kuuluva taikakonsti, joka paikkaa halkeaman tai repeämän kosketetussa esineessä, myös maagisessa rakennelmassa."
+---
+
 ### Kunnostaminen
 
 *Taikakonsti, muovaaminen*

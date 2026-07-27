@@ -1,3 +1,8 @@
+---
+title: "Kehonmuutos"
+description: "Kehonmuutos on 2-piirin muovaamisloitsu, joka antaa loitsijalle valittavia kehon muutoksia, kuten vedenalaisen sopeutumisen tai ulkonäön muokkauksen."
+---
+
 ### Kehonmuutos
 
 *2-piirin muovaaminen*

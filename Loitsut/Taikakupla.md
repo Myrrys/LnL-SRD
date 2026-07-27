@@ -1,3 +1,8 @@
+---
+title: "Taikakupla"
+description: "Taikakupla on 4-piirin luomisloitsu, joka sulkee olennon tai esineen läpäisemättömään, painottomaan kuplaan loitsun keston ajaksi."
+---
+
 ### Taikakupla
 
 *4-piirin luominen*

@@ -1,3 +1,8 @@
+---
+title: "Hiljaisuus"
+description: "Hiljaisuus on 2-piirin illuusiorituaali, joka luo 8 metrin säteisen alueen, jossa ei synny ääniä ja taikasanoja vaativat loitsut estyvät."
+---
+
 ### Hiljaisuus
 
 *2-piirin illuusio (rituaali)*

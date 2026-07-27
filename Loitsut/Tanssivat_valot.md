@@ -1,3 +1,8 @@
+---
+title: "Tanssivat valot"
+description: "Tanssivat valot on luomisen taikakonsti, joka luo neljä liikuteltavaa valopalloa, jotka voi yhdistää myös humanoidin muotoiseksi hahmoksi."
+---
+
 ### Tanssivat valot
 
 *Taikakonsti, luominen*

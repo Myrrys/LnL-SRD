@@ -1,3 +1,8 @@
+---
+title: "Aavetappaja"
+description: "Aavetappaja on 4-piirin illuusioloitsu, joka kauhistuttaa kohteen ja aiheuttaa 4n10 hengenvahinkoa toistuvilla viisauspelastusheitoilla."
+---
+
 ### Aavetappaja
 
 *4-piirin illuusio*

@@ -1,3 +1,8 @@
+---
+title: "Eläinystävä"
+description: "Eläinystävä on 1-piirin lumoamisloitsu, joka vakuuttaa kohteena olevan eläimen loitsijan hyvistä aikomuksista ja lumoaa sen vuorokaudeksi."
+---
+
 ### Eläinystävä
 
 *1-piirin lumoaminen*

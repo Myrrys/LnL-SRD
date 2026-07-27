@@ -1,3 +1,8 @@
+---
+title: "Pimeys"
+description: "Pimeys on 2-piirin luomisloitsu, joka luo kuuden metrin säteisen maagisen pimeyden, jota ei voi läpäistä pimeänäöllä eikä luonnollisella valolla."
+---
+
 ### Pimeys
 
 *2-piirin luominen*

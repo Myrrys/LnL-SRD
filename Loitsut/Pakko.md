@@ -1,3 +1,8 @@
+---
+title: "Pakko"
+description: "Pakko on 4-piirin lumoamisloitsu, joka pakottaa viisauspelastusheitossa epäonnistuneet kohteet liikkumaan loitsijan määräämään suuntaan."
+---
+
 ### Pakko
 
 *4-piirin lumoaminen*

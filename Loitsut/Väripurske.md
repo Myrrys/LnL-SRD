@@ -1,3 +1,8 @@
+---
+title: "Väripurske"
+description: "Väripurske on 1-piirin illuusioloitsu, joka sokaisee kartion sisällä olevia olentoja 6n10 osumapisteen verran yhden kierroksen ajaksi."
+---
+
 ### Väripurske
 
 *1-piirin illuusio*

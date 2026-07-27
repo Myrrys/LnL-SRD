@@ -1,3 +1,8 @@
+---
+title: "Maaginpanssari"
+description: "Maaginpanssari on 1-piirin suojelusloitsu, joka nostaa haarniskattoman kohteen puolustuksen arvoon 13 plus ketteryysbonus kahdeksan tunnin ajaksi."
+---
+
 ### Maaginpanssari
 
 *1-piirin suojelus*

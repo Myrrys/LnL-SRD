@@ -1,3 +1,8 @@
+---
+title: "Henkiherruus"
+description: "Henkiherruus on 5-piirin suojelusloitsu, joka pyrkii sitomaan taivaallisen olennon, elementaalin, keijun tai pirun vuorokauden palvelukseen."
+---
+
 ### Henkiherruus
 
 *5-piirin suojelus*

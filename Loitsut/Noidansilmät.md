@@ -1,3 +1,8 @@
+---
+title: "Noidansilmät"
+description: "Noidansilmät on 6-piirin kuolontaikuusloitsu, joka pakottaa kohteen viisauspelastusheittoon kärsimään pahaenteisen vaikutuksen, kuten unen tai kauhun."
+---
+
 ### Noidansilmät
 
 *6-piirin kuolontaikuus*

@@ -1,3 +1,8 @@
+---
+title: "Pimeänäkö"
+description: "Pimeänäkö on 2-piirin muovaamisloitsu, joka antaa kosketetulle olennolle pimeänäön 24 metrin päähän kahdeksan tunnin ajaksi."
+---
+
 ### Pimeänäkö
 
 *2-piirin muovaaminen*

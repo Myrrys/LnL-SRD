@@ -1,3 +1,8 @@
+---
+title: "Eläinmuoto"
+description: "Eläinmuoto on 8-piirin muovaamisloitsu, joka muuttaa vapaaehtoisia olentoja suurikokoisiksi eläimiksi enintään vuorokauden ajaksi."
+---
+
 ### Eläinmuoto
 
 *8-piirin muovaaminen*

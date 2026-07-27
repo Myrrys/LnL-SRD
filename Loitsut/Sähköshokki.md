@@ -1,3 +1,8 @@
+---
+title: "Sähköshokki"
+description: "Sähköshokki on luomisen taikakonsti, joka tekee lähitaisteluhyökkäyksen ja aiheuttaa 1n8 salamavahinkoa sekä estää kohteen reaktiot hetkeksi."
+---
+
 ### Sähköshokki
 
 *Taikakonsti, luominen*

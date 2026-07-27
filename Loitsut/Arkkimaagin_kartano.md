@@ -1,3 +1,8 @@
+---
+title: "Arkkimaagin kartano"
+description: "Arkkimaagin kartano on 7-piirin kutsumisloitsu, joka avaa 24 tunniksi portin varjomaailmassa sijaitsevaan ylelliseen majapaikkaan."
+---
+
 ### Arkkimaagin kartano
 
 *7-piirin kutsuminen*

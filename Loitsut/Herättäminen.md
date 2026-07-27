@@ -1,3 +1,8 @@
+---
+title: "Herättäminen"
+description: "Herättäminen on 5-piirin muovaamisloitsu, joka nostaa kasvin tai eläimen älykkyyden kymmeneen ja antaa sille liikkumiskyvyn ja ihmisen aistit."
+---
+
 ### Herättäminen
 
 *5-piirin muovaaminen*

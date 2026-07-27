@@ -1,3 +1,8 @@
+---
+title: "Valmistaminen"
+description: "Valmistaminen on 4-piirin muovaamisloitsu, joka muuttaa raaka-aineet valmiiksi esineiksi, kuten silloiksi, köysiksi tai vaatteiksi."
+---
+
 ### Valmistaminen
 
 *4-piirin muovaaminen*

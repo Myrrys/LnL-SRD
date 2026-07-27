@@ -1,3 +1,8 @@
+---
+title: "Tarkka isku"
+description: "Tarkka isku on ennustamisen taikakonsti, joka antaa edun seuraavaan hyökkäysheittoosi osoittamaasi kohdetta vastaan."
+---
+
 ### Tarkka isku
 
 *Taikakonsti, ennustaminen*

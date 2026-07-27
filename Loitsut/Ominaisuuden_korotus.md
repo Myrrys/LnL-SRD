@@ -1,3 +1,8 @@
+---
+title: "Ominaisuuden korotus"
+description: "Ominaisuuden korotus on 2-piirin muovaamisloitsu, joka antaa kosketetulle olennolle valitun eläimellisen kyvyn, kuten karhun kestävyyden, tunniksi."
+---
+
 ### Ominaisuuden korotus
 
 *2-piirin muovaaminen*

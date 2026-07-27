@@ -1,3 +1,8 @@
+---
+title: "Happoroiske"
+description: "Happoroiske on kutsumiseen kuuluva taikakonsti, joka heittää happosuihkun ja aiheuttaa 1n6 happovahinkoa epäonnistuneella ketteryysheitolla."
+---
+
 ### Happoroiske
 
 *Taikakonsti, kutsuminen*

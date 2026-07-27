@@ -1,3 +1,8 @@
+---
+title: "Meteorimyrsky"
+description: "Meteorimyrsky on 9-piirin luomisloitsu, joka pudottaa neljä tulipalloa maahan ja aiheuttaa massiivisen tuli- ja murskausvahingon puolitettuna."
+---
+
 ### Meteorimyrsky
 
 *9-piirin luominen*

@@ -1,3 +1,8 @@
+---
+title: "Maaginen symboli"
+description: "Maaginen symboli on 7-piirin suojelusloitsu, joka luo pintaan tai esineeseen torjuvan merkin, joka laukeaa loitsijan asettamin ehdoin."
+---
+
 ### Maaginen symboli
 
 *7-piirin suojelus*

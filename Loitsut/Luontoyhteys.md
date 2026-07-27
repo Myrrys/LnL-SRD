@@ -1,3 +1,8 @@
+---
+title: "Luontoyhteys"
+description: "Luontoyhteys on 5-piirin ennustamisloitsu, joka paljastaa hetkessä tietoa lähialueen maastosta, olennoista ja vaaroista laajalta säteeltä."
+---
+
 ### Luontoyhteys
 
 *5-piirin ennustaminen*

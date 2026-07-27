@@ -1,3 +1,8 @@
+---
+title: "Apulaishengen kutsuminen"
+description: "Apulaishengen kutsuminen on 1-piirin kutsumisrituaali, joka antaa loitsijalle uskollisen eläinmuotoisen apulaishengen kumppaniksi."
+---
+
 ### Apulaishengen kutsuminen
 
 *1-piirin kutsuminen (rituaali)*

@@ -1,3 +1,8 @@
+---
+title: "Pyhittäminen"
+description: "Pyhittäminen on 5-piirin luomisloitsu, joka täyttää 24 metrin alueen pyhällä tai epäpyhällä voimalla, joka estää taivaallisia, piruja ja epäkuolleita."
+---
+
 ### Pyhittäminen
 
 *5-piirin luominen*

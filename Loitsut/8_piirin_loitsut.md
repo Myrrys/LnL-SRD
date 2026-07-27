@@ -1,3 +1,8 @@
+---
+title: "Kahdeksannen piirin loitsut"
+description: "Kahdeksannen piirin loitsut listaa tason kahdeksan loitsut antimaagisesta alueesta vähämielisyyteen, kuten maanjäristys ja kloonaus."
+---
+
 ## Kahdeksannen piirin loitsut
 
 A-V antimaagisesta alueesta vähämielisyyteen.

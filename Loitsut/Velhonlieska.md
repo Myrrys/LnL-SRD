@@ -1,3 +1,8 @@
+---
+title: "Velhonlieska"
+description: "Velhonlieska on luomisen taikakonsti, joka ampuu rätisevän energiasäteen aiheuttaen 1n10 energiavahinkoa ja luo useampia säteitä korkeammilla tasoilla."
+---
+
 ### Velhonlieska
 
 *Taikakonsti, luominen*

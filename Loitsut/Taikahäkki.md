@@ -1,3 +1,8 @@
+---
+title: "Taikahäkki"
+description: "Taikahäkki on 7-piirin luomisloitsu, joka luo näkymättömän häkin tai umpinaisen laatikon vangiksi valitsemallesi alueelle."
+---
+
 ### Taikahäkki
 
 *7-piirin luominen*

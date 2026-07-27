@@ -1,3 +1,8 @@
+---
+title: "Taikuuden purkaminen"
+description: "Taikuuden purkaminen on 3-piirin suojelusloitsu, joka päättää kohteena olevan maagisen vaikutuksen tai loitsun välittömästi."
+---
+
 ### Taikuuden purkaminen
 
 *3-piirin suojelus* 

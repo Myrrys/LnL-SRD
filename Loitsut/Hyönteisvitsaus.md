@@ -1,3 +1,8 @@
+---
+title: "Hyönteisvitsaus"
+description: "Hyönteisvitsaus on 5-piirin kutsumisloitsu, joka täyttää alueen pistävillä heinäsirkoilla ja aiheuttaa 4n10 pistovahinkoa sitkeysheitolla puolitettuna."
+---
+
 ### Hyönteisvitsaus
 
 *5-piirin kutsuminen*

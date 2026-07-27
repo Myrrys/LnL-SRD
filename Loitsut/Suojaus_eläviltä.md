@@ -1,3 +1,8 @@
+---
+title: "Suojaus eläviltä"
+description: "Suojaus eläviltä on 5-piirin suojelusloitsu, joka luo neljän metrin säteisen esteen, joka sulkee ulos kaikki paitsi epäkuolleet ja rakennelmat."
+---
+
 ### Suojaus eläviltä
 
 *5-piirin suojelus*

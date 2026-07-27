@@ -1,3 +1,8 @@
+---
+title: "Taika-ase"
+description: "Taika-ase on 2-piirin muovaamisloitsu, joka koskettamalla muuttaa aseen maagiseksi antaen +1 bonuksen hyökkäys- ja vahinkoheittoihin."
+---
+
 ### Taika-ase
 
 *2-piirin muovaaminen*

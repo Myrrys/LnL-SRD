@@ -1,3 +1,8 @@
+---
+title: "Ukkosen kutsuminen"
+description: "Ukkosen kutsuminen on 3-piirin kutsumisloitsu, joka manaa myrskypilven yläpuolellesi ja aiheuttaa 3n10 salamavahinkoa valitulle alueelle."
+---
+
 ### Ukkosen kutsuminen
 
 *3-piirin kutsuminen* 

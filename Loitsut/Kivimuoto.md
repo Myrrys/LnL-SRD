@@ -1,3 +1,8 @@
+---
+title: "Kivimuoto"
+description: "Kivimuoto on 4-piirin muovaamisloitsu, jolla koskettamansa kivilohkareen voi muotoilla aseeksi, patsaaksi tai käytäväksi kiviseinään."
+---
+
 ### Kivimuoto
 
 *4-piirin muovaaminen*

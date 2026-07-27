@@ -1,3 +1,8 @@
+---
+title: "Teleportaatiokehä"
+description: "Teleportaatiokehä on 5-piirin kutsumisloitsu, joka piirtää maahan sinetin ja avaa portaalin toiseen tunnettuun teleportaatiokehään."
+---
+
 ### Teleportaatiokehä
 
 *5-piirin kutsuminen*

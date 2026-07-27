@@ -1,3 +1,8 @@
+---
+title: "Olotilat"
+description: "Olotilat-sivu käy läpi pelimekaniikan olotilat, kuten sokaistu, halvaantunut ja näkymätön, sekä niiden vaikutukset ja kestot taisteluissa."
+---
+
 # Olotilat
 Olotilat vaikuttavat olentojen kykyihin, ominaisuuksiin ja pelimekaniikkaan useilla eri tavoilla ja voivat olla seurausta loitsuista, hahmoluokkien ominaisuuksista tai hirviöiden hyökkäyksistä. Useimmat olotilat ovat haitallisia esimerkiksi silloin kun olento on vaikkapa *sokaistu*, mutta jotkin olotilat ovat eduksi kuten olennon ollessa *näkymätön*.
 Olotila kestää kunnes se on joko kumottu, esimerkiksi olennon ollessa *maissa* hän kumoaa sen nousemalla pystyyn tai kunnes jokin tietty aika on kulunut. Vaikutuksessa joko on aiheuttanut tietyn olotilan on yleensä määritelty myös olotilan kesto.
@@ -36,7 +41,7 @@ Seuraavat kuvaukset kertovat mitä tapahtuu olennolle jolla on tietty olotila.
 * *Lumottu* ei voi hyökätä hänen lumonneen olennon päälle tai vahingoittaa häntä millään muilla vahingollisilla kyvyillä tai loitsuilla.
 * Lumoajalla on *etu* *lumottua* kohtaan kaikissa sosiaaliseen kanssakäymiseen liittyvissä ominaisuusheitoissa kuten huijaamisessa, uhkailussa tai suostuttelussa.
 
-# Maissa
+## Maissa
 * *Maissa* oleva olento ei voi liikkua muutoin kuin ryömimällä, ellei olento nouse pystyyn ja näin lopeta olotilaa.
 * *Maissa* ollessaan olennolla on *haitta* hyökkäysheittoihin.
 * Lähietäisyydeltä viereisestä karttaruudusta hyökkäysheitoilla *maissa* olevaan olentoon on *etu*, kauempaa yli yhden karttaruudun päästä hyökkäävillä on hyökkkäysheittoihinsa *haitta*.

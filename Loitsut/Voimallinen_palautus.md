@@ -1,3 +1,8 @@
+---
+title: "Voimallinen palautus"
+description: "Voimallinen palautus on 5-piirin suojelusloitsu, joka poistaa kosketetulta olennolta lumouksen, kivettymisen, kirouksen tai ominaisuuden heikennyksen."
+---
+
 ### Voimallinen palautus
 
 *5-piirin suojelus*

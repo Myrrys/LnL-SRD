@@ -1,3 +1,8 @@
+---
+title: "Joukkohurmos"
+description: "Joukkohurmos on 6-piirin lumoamisloitsu, joka taivuttelee enintään 12 olentoa suorittamaan ehdotetun lauseen tai kahden mittaisen tehtävän."
+---
+
 ### Joukkohurmos
 
 *6-piirin lumoaminen*

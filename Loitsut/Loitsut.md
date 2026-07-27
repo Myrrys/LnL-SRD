@@ -1,3 +1,8 @@
+---
+title: "Loitsut"
+description: "Loitsut-sivu listaa Legendoja ja Lohikäärmeitä -säännöstön kaikki loitsut piirin mukaan taikakonsteista yhdeksännen piirin loitsuihin asti."
+---
+
 # Loitsut
 
 Seuraavilla sivuilla löydät kuvaukset kaikista tunnetuista loitsuista. Loitsut on listattu piirin mukaan. Ensimmäisenä löytyvät taikakonstit ja viimeisimpänä kaikkein voimallisimmat yhdeksännen piirin loitsut.

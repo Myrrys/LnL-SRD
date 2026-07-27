@@ -1,3 +1,8 @@
+---
+title: "Pyhä liekki"
+description: "Pyhä liekki on luomisen taikakonsti, joka ympäröi kohteen liekkien hohteella ja aiheuttaa 1n8 hohkavahinkoa epäonnistuneella ketteryysheitolla."
+---
+
 ### Pyhä liekki
 
 *Taikakonsti, luominen*

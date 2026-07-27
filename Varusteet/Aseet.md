@@ -1,3 +1,8 @@
+---
+title: "Aseet"
+description: "Aseet-sivu esittää asetaulukon hintoineen, painoineen ja vahinkoineen sekä jaottelee lähitaistelu- ja kantama-aseet yksinkertaisiin ja sota-aseisiin."
+---
+
 # Aseet
 
 Näet asetaulukosta yleisimmät fantasiamaailmoissa käytetyt

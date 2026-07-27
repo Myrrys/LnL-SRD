@@ -1,3 +1,8 @@
+---
+title: "Legenda"
+description: "Legenda on 5-piirin ennustamisloitsu, joka paljastaa loitsijan mieleen tietoa legendaarisesta henkilöstä, paikasta tai esineestä."
+---
+
 ### Legenda
 
 *5-piirin ennustaminen*

@@ -1,3 +1,8 @@
+---
+title: "Kivinahka"
+description: "Kivinahka on 4-piirin suojelusloitsu, joka muuttaa kohteen ihon kivenkovaksi ja antaa sietokyvyn viilto-, pisto- ja murskausvahingolle tunniksi."
+---
+
 ### Kivinahka
 
 *4-piirin suojelus*

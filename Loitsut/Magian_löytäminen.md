@@ -1,3 +1,8 @@
+---
+title: "Magian löytäminen"
+description: "Magian löytäminen on 1-piirin ennustamisrituaali, joka aistii maagisen läsnäolon ja paljastaa löydetyn esineen tai olennon koulukunnan."
+---
+
 ### Magian löytäminen
 
 *1-piirin ennustaminen (rituaali)*

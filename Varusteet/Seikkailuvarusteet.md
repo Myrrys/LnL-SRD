@@ -1,3 +1,8 @@
+---
+title: "Seikkailuvarusteet"
+description: "Seikkailuvarusteet-sivu selittää erikoissäännöt tavaroille, kuten ainespussille ja alkemistin tulelle, joka syttyy tuleen ilman kanssa."
+---
+
 # Seikkailuvarusteet
 
 Tämä osio kertoo, mille tavaroille on olemassa erikoissääntöjä.

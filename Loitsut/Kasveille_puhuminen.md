@@ -1,3 +1,8 @@
+---
+title: "Kasveille puhuminen"
+description: "Kasveille puhuminen on 3-piirin muovaamisloitsu, joka saa 12 metrin säteellä olevat kasvit kommunikoimaan ja muuttaa maaston kulkukelpoisuutta."
+---
+
 ### Kasveille puhuminen
 
 *3-piirin muovaaminen* 

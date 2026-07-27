@@ -1,3 +1,8 @@
+---
+title: "Jäävalli"
+description: "Jäävalli on 6-piirin luomisloitsu, joka luo jäisen puolipallon, ympyrän tai seinämän kiinteälle alustalle kymmeneksi minuutiksi."
+---
+
 ### Jäävalli
 
 *6-piirin luominen*

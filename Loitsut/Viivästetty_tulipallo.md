@@ -1,3 +1,8 @@
+---
+title: "Viivästetty tulipallo"
+description: "Viivästetty tulipallo on 7-piirin luomisloitsu, joka räjähtää helmen muodossa aiheuttaen 12n6 tulivahinkoa, jonka määrä kasvaa viivytyksen aikana."
+---
+
 ### Viivästetty tulipallo
 
 *7-piirin luominen*

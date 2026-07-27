@@ -1,3 +1,8 @@
+---
+title: "Velhonkäsi"
+description: "Velhonkäsi on kutsumisen taikakonsti, joka luo leijuvan aavemaisen käden avaamaan lukitsemattomia ovia ja siirtämään korkeintaan viiden kilon esineitä."
+---
+
 ### Velhonkäsi
 
 *Taikakonsti, kutsuminen*

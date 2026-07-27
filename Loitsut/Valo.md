@@ -1,3 +1,8 @@
+---
+title: "Valo"
+description: "Valo on luomisen taikakonsti, joka saa koskettamansa esineen loistamaan kirkasta valoa tunnin ajaksi valitsemassasi värissä."
+---
+
 ### Valo
 
 *Taikakonsti, luominen*

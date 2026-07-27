@@ -1,3 +1,8 @@
+---
+title: "Taikakonstit"
+description: "Taikakonstit listaa kaikki ensimmäisen piirin alapuoliset loitsut druidintaidosta velhonnäytökseen aakkosjärjestyksessä."
+---
+
 ## Taikakonstit
 
 D-V druidintaidosta vähäiseen illuusioon.

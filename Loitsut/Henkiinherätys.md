@@ -1,3 +1,8 @@
+---
+title: "Henkiinherätys"
+description: "Henkiinherätys on 9-piirin kuolontaikuusloitsu, jolla palautetaan täysissä osumapisteissä henkiin enintään 200 vuotta kuolleena ollut olento."
+---
+
 ### Henkiinherätys
 
 *9-piirin kuolontaikuus*

@@ -1,3 +1,8 @@
+---
+title: "Tahdon hallinta"
+description: "Tahdon hallinta on 5-piirin lumoamisloitsu, jolla lumoat humanoidin ja saat siihen telepaattisen käskyvallan pelastusheiton epäonnistuessa."
+---
+
 ### Tahdon hallinta
 
 *5-piirin lumoaminen*

@@ -1,3 +1,8 @@
+---
+title: "Hirviön alistaminen"
+description: "Hirviön alistaminen on 8-piirin lumoamisloitsu, joka lumoaa minkä tahansa näköpiirissä olevan olennon ja antaa siihen telepaattisen komentolinkin."
+---
+
 ### Hirviön alistaminen
 
 *8-piirin lumoaminen*

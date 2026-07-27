@@ -1,3 +1,8 @@
+---
+title: "Nopea pako"
+description: "Nopea pako on 1-piirin muovaamisloitsu, joka antaa bonustoiminnon ryntäykseen loitsun keston ajan, jopa 10 minuutin verran."
+---
+
 ### Nopea pako
 
 *1-piirin muovaaminen*

@@ -1,3 +1,8 @@
+---
+title: "Sisällys"
+description: "Sisällysluettelo listaa Legendoja & Lohikäärmeitä SRD:n rakenteen hahmonluonnista varusteisiin, olotiloihin, loitsuihin ja sanastoon."
+---
+
 # Sisällys
 
 Hahmonluonti
@@ -18,10 +23,10 @@ Varusteet
 * [Kulut](Varusteet/Kulut)
 * [Ruoat, juoma ja majoitus](Varusteet/Ruoka_ja_juoma)
 * [Palvelut](Varusteet/Palvelut)
-* [Pikkutavarat](Varusteet/Pikkutavarat)
+* [Pikkutavarat](Varusteet/Pikkutavara)
 
 Loitsut
-* [0. piirin taikakonstit](Loitsut/0_piirin_taikakonstitmd) 
+* [0. piirin taikakonstit](Loitsut/0_piirin_taikakonstit) 
 * [1. piirin loitsut](Loitsut/1_piirin_loitsut)
 
 Muut

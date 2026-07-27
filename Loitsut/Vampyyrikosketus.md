@@ -1,3 +1,8 @@
+---
+title: "Vampyyrikosketus"
+description: "Vampyyrikosketus on 3-piirin kuolontaikuusloitsu, joka lähitaisteluhyökkäyksellä aiheuttaa 3n6 kuolonvahinkoa ja parantaa sinua puolella siitä."
+---
+
 ### Vampyyrikosketus
 
 *3-piirin kuolontaikuus* 
