@@ -1,3 +1,8 @@
+---
+title: "Liekkipilari"
+description: "Liekkipilari on 5-piirin luomisloitsu, joka pudottaa taivaasta tulipilarin ja aiheuttaa yhteensä 8n6 tuli- ja hohkavahinkoa pelastusheitolla puolitettuna."
+---
+
 ### Liekkipilari
 
 *5-piirin luominen*

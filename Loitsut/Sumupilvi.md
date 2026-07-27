@@ -1,3 +1,8 @@
+---
+title: "Sumupilvi"
+description: "Sumupilvi on 1-piirin kutsumisloitsu, joka luo kahdeksan metrin säteisen sumupilven valittuun kohtaan tunnin ajaksi, ellei kova tuuli sitä hajota."
+---
+
 ### Sumupilvi
 
 *1-piirin kutsuminen*

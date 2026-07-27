@@ -1,3 +1,8 @@
+---
+title: "Torjuva merkki"
+description: "Torjuva merkki on 3-piirin suojelusloitsu, joka piilottaa pintaan tai esineeseen laukeavan merkin, kunnes se puretaan tai laukaistaan."
+---
+
 ### Torjuva merkki
 
 *3-piirin suojelus* 

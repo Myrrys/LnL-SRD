@@ -1,3 +1,8 @@
+---
+title: "Vastaloitsu"
+description: "Vastaloitsu on 3-piirin suojelusloitsu, joka reaktiona keskeyttää toisen olennon loitsimisen ja mitätöi sen vaikutuksen."
+---
+
 ### Vastaloitsu
 
 *3-piirin suojelus* 

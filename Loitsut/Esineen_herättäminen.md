@@ -1,3 +1,8 @@
+---
+title: "Esineen herättäminen"
+description: "Esineen herättäminen on 5-piirin kutsumisloitsu, joka herättää henkiin enintään kymmenen ei-maagista esinettä komentamaan totteleviksi olennoiksi."
+---
+
 ### Esineen herättäminen
 
 *5-piirin kutsuminen*

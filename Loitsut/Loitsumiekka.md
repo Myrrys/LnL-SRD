@@ -1,3 +1,8 @@
+---
+title: "Loitsumiekka"
+description: "Loitsumiekka on 7-piirin luomisloitsu, joka luo ilmassa leijuvan energiamiekan, jota loitsija ohjaa mielellään ja joka tekee 3n10 energiavahinkoa."
+---
+
 ### Loitsumiekka
 
 *7-piirin luominen*

@@ -1,3 +1,8 @@
+---
+title: "Sisällys"
+description: "Sisällysluettelo listaa Legendoja & Lohikäärmeitä SRD:n rakenteen hahmonluonnista varusteisiin, olotiloihin, loitsuihin ja sanastoon."
+---
+
 # Sisällys
 
 Hahmonluonti

@@ -1,3 +1,8 @@
+---
+title: "Uudelleensyntyminen"
+description: "Uudelleensyntyminen on 5-piirin muovaamisloitsu, joka herättää kuolleen humanoidin uudessa kehossa, jonka lajin pelinjohtaja arpoo taulukosta."
+---
+
 ### Uudelleensyntyminen
 
 *5-piirin muovaaminen*

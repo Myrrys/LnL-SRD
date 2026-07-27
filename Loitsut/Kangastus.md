@@ -1,3 +1,8 @@
+---
+title: "Kangastus"
+description: "Kangastus on 4-piirin illuusioloitsu, joka peittää enintään 60 metrin alueen näyttämään toiselta maastotyypiltä vuorokauden ajaksi."
+---
+
 ### Kangastus
 
 *4-piirin illuusio*

@@ -1,3 +1,8 @@
+---
+title: "Hahmonluonnin vaiheet"
+description: "Hahmonluonnin vaiheet käy läpi koko prosessin lajin, taustan ja hahmoluokan valinnasta hahmolomakkeen täyttämiseen asti."
+---
+
 # Hahmonluonnin vaiheet
 
 Tässä osiossa opastetaan vaihe vaiheelta, kuinka hahmo luodaan.

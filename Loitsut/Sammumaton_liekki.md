@@ -1,3 +1,8 @@
+---
+title: "Sammumaton liekki"
+description: "Sammumaton liekki on 2-piirin luomisloitsu, joka sytyttää kosketettuun esineeseen kuumentumattoman maagisen liekin, joka palaa pysyvästi ilman happea."
+---
+
 ### Sammumaton liekki
 
 *2-piirin luominen*

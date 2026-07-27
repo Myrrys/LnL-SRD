@@ -1,3 +1,8 @@
+---
+title: "Tulipallo"
+description: "Tulipallo on 3-piirin luomisloitsu, joka räjäyttää liekkipallon kantamalla ja aiheuttaa 8n6 tulivahinkoa ketteryys-pelastusheitolla puolitettuna."
+---
+
 ### Tulipallo
 
 *3-piirin luominen* 

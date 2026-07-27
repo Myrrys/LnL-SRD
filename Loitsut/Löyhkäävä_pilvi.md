@@ -1,3 +1,8 @@
+---
+title: "Löyhkäävä pilvi"
+description: "Löyhkäävä pilvi on 3-piirin kutsumisloitsu, joka luo 8 metrin säteisen myrkkypilven, jonka sisällä oleva joutuu heittämään sitkeys-pelastusheiton."
+---
+
 ### Löyhkäävä pilvi
 
 *3-piirin kutsuminen* 

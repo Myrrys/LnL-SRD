@@ -1,3 +1,8 @@
+---
+title: "Paikanna olento"
+description: "Paikanna olento on 4-piirin ennustamisloitsu, joka paljastaa loitsijalle tunnetun olennon sijaintisuunnan 400 metrin etäisyydellä."
+---
+
 ### Paikanna olento
 
 *4-piirin ennustaminen*

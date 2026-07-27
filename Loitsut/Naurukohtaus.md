@@ -1,3 +1,8 @@
+---
+title: "Naurukohtaus"
+description: "Naurukohtaus on 1-piirin lumoamisloitsu, joka lamaannuttaa kohteen naurukohtaukseen epäonnistuneen viisauspelastusheiton seurauksena."
+---
+
 ### Naurukohtaus
 
 *1-piirin lumoaminen*

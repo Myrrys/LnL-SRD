@@ -1,3 +1,8 @@
+---
+title: "Vähäinen illuusio"
+description: "Vähäinen illuusio on illuusion taikakonsti, joka luo äänen tai kuvan esineestä minuutin ajaksi kantaman sisälle."
+---
+
 ### Vähäinen illuusio
 
 *Taikakonsti, illuusio*

@@ -1,3 +1,8 @@
+---
+title: "Hämmennys"
+description: "Hämmennys on 4-piirin lumoamisloitsu, joka väännää neljän metrin pallossa olevien mielet solmuun ja arpoo satunnaisen käytöksen jokaiselle vuorolle."
+---
+
 ### Hämmennys
 
 *4-piirin lumoaminen*

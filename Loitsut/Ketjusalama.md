@@ -1,3 +1,8 @@
+---
+title: "Ketjusalama"
+description: "Ketjusalama on 6-piirin luomisloitsu, joka iskee sähkövasaman neljään kohteeseen ja aiheuttaa 10n8 salamavahinkoa ketteryysheitolla puolitettuna."
+---
+
 ### Ketjusalama
 
 *6-piirin luominen*

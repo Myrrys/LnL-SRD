@@ -1,3 +1,8 @@
+---
+title: "Kalmaelo"
+description: "Kalmaelo on 1-piirin kuolontaikuusloitsu, joka antaa loitsijalle 1n4 plus neljä väliaikaista osumapistettä tunnin ajaksi."
+---
+
 ### Kalmaelo
 
 *1-piirin kuolontaikuus*

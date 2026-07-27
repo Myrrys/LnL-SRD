@@ -1,3 +1,8 @@
+---
+title: "Varjomaailma"
+description: "Varjomaailma on 8-piirin kutsumisloitsu, joka avaa varjo-oven omaan luomaasi tai aiemmin luotuun tyhjään huoneeseen tunnin ajaksi."
+---
+
 ### Varjomaailma
 
 *8-piirin kutsuminen*

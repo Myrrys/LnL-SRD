@@ -1,3 +1,8 @@
+---
+title: "Kirouksen kumoaminen"
+description: "Kirouksen kumoaminen on 3-piirin suojelusloitsu, joka poistaa kosketuksella kaikki kohteeseen vaikuttavat kiroukset ja niiden vaikutukset."
+---
+
 ### Kirouksen kumoaminen
 
 *3-piirin suojelus* 

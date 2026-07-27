@@ -1,3 +1,8 @@
+---
+title: "Muodonmuokkaus"
+description: "Muodonmuokkaus on 9-piirin muovaamisloitsu, joka muuttaa olennon toiseksi olennoksi, olennon esineeksi tai esineen olennoksi tunnin ajaksi."
+---
+
 ### Muodonmuokkaus
 
 *9-piirin muovaaminen*

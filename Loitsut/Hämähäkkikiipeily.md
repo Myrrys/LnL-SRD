@@ -1,3 +1,8 @@
+---
+title: "Hämähäkkikiipeily"
+description: "Hämähäkkikiipeily on 2-piirin muovaamisloitsu, joka antaa kohteen liikkua seinillä ja katossa tavanomaisella nopeudella tunnin ajan."
+---
+
 ### Hämähäkkikiipeily
 
 *2-piirin muovaaminen*

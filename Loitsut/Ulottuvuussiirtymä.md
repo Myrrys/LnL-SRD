@@ -1,3 +1,8 @@
+---
+title: "Ulottuvuussiirtymä"
+description: "Ulottuvuussiirtymä on 7-piirin kutsumisloitsu, joka siirtää sinut ja seurueesi äänirautaa käyttäen toiselle maailmatasolle."
+---
+
 ### Ulottuvuussiirtymä
 
 *7-piirin kutsuminen*

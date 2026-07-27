@@ -1,3 +1,8 @@
+---
+title: "Epäkuollut palvelija"
+description: "Epäkuollut palvelija on 3-piirin kuolontaikuusloitsu, joka herättää luukasan tai ruumiin loitsijaa palvelevaksi luurangoksi tai zombiksi."
+---
+
 ### Epäkuollut palvelija
 
 *3-piirin kuolontaikuus* 

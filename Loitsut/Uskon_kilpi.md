@@ -1,3 +1,8 @@
+---
+title: "Uskon kilpi"
+description: "Uskon kilpi on 1-piirin suojelusloitsu, joka ympäröi valitun olennon hohtavalla kajolla antaen +2 bonuksen puolustukseen."
+---
+
 ### Uskon kilpi
 
 *1-piirin suojelus*

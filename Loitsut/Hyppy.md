@@ -1,3 +1,8 @@
+---
+title: "Hyppy"
+description: "Hyppy on 1-piirin muovaamisloitsu, jolla koskettamasi olennon hyppäämä matka kolminkertaistuu yhden minuutin ajaksi."
+---
+
 ### Hyppy
 
 *1-piirin muovaaminen*

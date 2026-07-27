@@ -1,3 +1,8 @@
+---
+title: "Heikentävä säde"
+description: "Heikentävä säde on 2-piirin kuolontaikuusloitsu, joka puolittaa kohteen voimakkuuteen pohjautuvien lähihyökkäysten vahingon minuutin ajaksi."
+---
+
 ### Heikentävä säde
 
 *2-piirin kuolontaikuus*

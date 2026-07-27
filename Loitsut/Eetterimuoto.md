@@ -1,3 +1,8 @@
+---
+title: "Eetterimuoto"
+description: "Eetterimuoto on 7-piirin muovaamisloitsu, joka siirtää loitsijan rajaeetteriin, jolloin hän voi liikkua vapaasti seinien ja esteiden läpi."
+---
+
 ### Eetterimuoto
 
 *7-piirin muovaaminen*

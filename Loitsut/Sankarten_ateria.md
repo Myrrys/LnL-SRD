@@ -1,3 +1,8 @@
+---
+title: "Sankarten ateria"
+description: "Sankarten ateria on 6-piirin kutsumisloitsu, joka järjestää juhla-aterian, joka parantaa taudeista, antaa myrkkyimmuniteetin ja lisää osumapistemaksimia."
+---
+
 ### Sankarten ateria
 
 *6-piirin kutsuminen*

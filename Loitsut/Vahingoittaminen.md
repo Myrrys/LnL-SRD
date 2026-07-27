@@ -1,3 +1,8 @@
+---
+title: "Vahingoittaminen"
+description: "Vahingoittaminen on 6-piirin kuolontaikuusloitsu, joka aiheuttaa kohteelle 14n6 kuolonvahinkoa ja laskee tilapäisesti osumapistemaksimia."
+---
+
 ### Vahingoittaminen
 
 *6-piirin kuolontaikuus*

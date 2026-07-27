@@ -1,3 +1,8 @@
+---
+title: "Vainajan siunaus"
+description: "Vainajan siunaus on 2-piirin kuolontaikuusloitsu, joka estää koskettua ruumista maatumasta tai muuttumasta epäkuolleeksi kymmenen päivän ajan."
+---
+
 ### Vainajan siunaus
 
 *2-piirin kuolontaikuus*

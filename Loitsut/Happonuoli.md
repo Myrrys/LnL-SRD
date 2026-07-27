@@ -1,3 +1,8 @@
+---
+title: "Happonuoli"
+description: "Happonuoli on 2-piirin luomisloitsu, joka ampuu vihreän happonuolen ja aiheuttaa 4n4 välitöntä ja 2n4 viivästettyä happovahinkoa."
+---
+
 ### Happonuoli
 
 *2-piirin luominen*

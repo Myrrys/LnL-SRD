@@ -1,3 +1,8 @@
+---
+title: "Antimaaginen alue"
+description: "Antimaaginen alue on 8-piirin suojelusloitsu, joka luo loitsijan ympärille kuplan, jossa taikuus ei toimi ja taikaesineet mitätöityvät."
+---
+
 ### Antimaaginen alue
 
 *8-piirin suojelus*

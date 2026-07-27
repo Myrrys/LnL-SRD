@@ -1,3 +1,8 @@
+---
+title: "Verkko"
+description: "Verkko on 2-piirin kutsumisloitsu, joka täyttää 4x4 metrin alueen tahmealla hämähäkinseitillä hidastaen ja sitoen siihen jääneet olennot."
+---
+
 ### Verkko
 
 *2-piirin kutsuminen*

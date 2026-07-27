@@ -1,3 +1,8 @@
+---
+title: "Puunuija"
+description: "Puunuija on muovaamisen taikakonsti, joka tekee pidellystä nuijasta tai sauvasta maagisen aseen, jonka lyönnit tekevät 1n8 murskausvahinkoa."
+---
+
 ### Puunuija
 
 *Taikakonsti, muovaaminen*

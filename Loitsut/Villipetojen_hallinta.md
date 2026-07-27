@@ -1,3 +1,8 @@
+---
+title: "Villipetojen hallinta"
+description: "Villipetojen hallinta on 4-piirin lumoamisloitsu, joka kesyttää näkemäsi eläimen antaen sinulle telepaattisen käskyvallan pelastusheiton epäonnistuessa."
+---
+
 ### Villipetojen hallinta
 
 *4-piirin lumoaminen*

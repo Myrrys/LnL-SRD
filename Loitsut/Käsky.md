@@ -1,3 +1,8 @@
+---
+title: "Käsky"
+description: "Käsky on 1-piirin lumoamisloitsu, jolla annetaan yhden sanan komento kohteelle, jonka on toteltava epäonnistuneen viisauspelastusheiton jälkeen."
+---
+
 ### Käsky
 
 *1-piirin lumoaminen*

@@ -1,3 +1,8 @@
+---
+title: "Kuoleman kehä"
+description: "Kuoleman kehä on 6-piirin kuolontaikuusloitsu, joka levittää kuolonenergiaa 24 metrin pallossa aiheuttaen 8n6 kuolonvahinkoa sitkeysheitolla puolitettuna."
+---
+
 ### Kuoleman kehä
 
 *6-piirin kuolontaikuus*

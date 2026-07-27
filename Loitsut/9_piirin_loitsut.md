@@ -1,3 +1,8 @@
+---
+title: "Yhdeksännen piirin loitsut"
+description: "Yhdeksännen piirin loitsut esittelee pelin korkeimman tason loitsuvalikoiman ajan pysäytyksestä voimalliseen parannukseen."
+---
+
 ## Yhdeksännen piirin loitsut
 
 A-V ajan pysäytyksestä voimalliseen parannukseen.

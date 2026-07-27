@@ -1,3 +1,8 @@
+---
+title: "Eläinten tai kasvien löytäminen"
+description: "Eläinten tai kasvien löytäminen on 2-piirin ennustamisrituaali, jolla paikannetaan lähin haluttu eläin- tai kasvilaji kahdeksan kilometrin säteellä."
+---
+
 ### Eläinten tai kasvien löytäminen
 
 *2-piirin ennustaminen (rituaali)*

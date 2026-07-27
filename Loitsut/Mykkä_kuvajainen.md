@@ -1,3 +1,8 @@
+---
+title: "Mykkä kuvajainen"
+description: "Mykkä kuvajainen on 1-piirin illuusioloitsu, joka luo äänettömän kuvan esineestä tai olennosta korkeintaan 6x6x6 metrin kuutioon."
+---
+
 ### Mykkä kuvajainen
 
 *1-piirin illuusio*

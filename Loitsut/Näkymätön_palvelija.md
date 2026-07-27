@@ -1,3 +1,8 @@
+---
+title: "Näkymätön palvelija"
+description: "Näkymätön palvelija on 1-piirin kutsumisrituaali, joka luo heikon, näkymättömän voiman tekemään pieniä tehtäviä loitsijan puolesta tunnin ajan."
+---
+
 ### Näkymätön palvelija
 
 *1-piirin kutsuminen (rituaali)*

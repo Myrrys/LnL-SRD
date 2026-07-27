@@ -1,3 +1,8 @@
+---
+title: "Houkutuslintu"
+description: "Houkutuslintu on 5-piirin illuusioloitsu, joka luo loitsijasta liikkuvan illuusiokopion ja tekee loitsijasta itsestään samalla näkymättömän."
+---
+
 ### Houkutuslintu
 
 *5-piirin illuusio*

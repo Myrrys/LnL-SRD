@@ -1,3 +1,8 @@
+---
+title: "Uskon suojelija"
+description: "Uskon suojelija on 4-piirin kutsumisloitsu, joka luo aavemaisen vartijan vahingoittamaan lähelle tulevia vihamielisiä olentoja hohkavahingolla."
+---
+
 ### Uskon suojelija
 
 *4-piirin kutsuminen*

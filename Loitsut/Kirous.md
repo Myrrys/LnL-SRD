@@ -1,3 +1,8 @@
+---
+title: "Kirous"
+description: "Kirous on 3-piirin kuolontaikuusloitsu, joka asettaa kosketetulle kohteelle valittavan haitan, kuten heikentyneen ominaisuuden tai pelastusheiton."
+---
+
 ### Kirous
 
 *3-piirin kuolontaikuus* 

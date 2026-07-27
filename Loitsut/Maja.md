@@ -1,3 +1,8 @@
+---
+title: "Maja"
+description: "Maja on 3-piirin luomisrituaali, joka luo läpäisemättömän puolipallon kuvun, joka suojaa loitsijaa ja yhdeksää muuta olentoa kahdeksan tuntia."
+---
+
 ### Maja
 
 *3-piirin luominen (rituaali)* 

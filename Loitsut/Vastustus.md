@@ -1,3 +1,8 @@
+---
+title: "Vastustus"
+description: "Vastustus on suojelun taikakonsti, joka antaa kosketetulle olennolle mahdollisuuden lisätä 1n4 valitsemaansa pelastusheittoon."
+---
+
 ### Vastustus
 
 *Taikakonsti, suojelus*

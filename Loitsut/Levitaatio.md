@@ -1,3 +1,8 @@
+---
+title: "Levitaatio"
+description: "Levitaatio on 2-piirin muovaamisloitsu, joka nostaa olennon tai esineen ilmaan korkeintaan kuuden metrin korkeuteen paikallaan pysyväksi."
+---
+
 ### Levitaatio
 
 *2-piirin muovaaminen*

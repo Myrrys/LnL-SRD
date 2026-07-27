@@ -1,3 +1,8 @@
+---
+title: "Vakauttaminen"
+description: "Vakauttaminen on kuolontaikuuden taikakonsti, joka koskettamalla vakauttaa kuolevan olennon, jolla on 0 osumapistettä."
+---
+
 ### Vakauttaminen
 
 *Taikakonsti, kuolontaikuus*

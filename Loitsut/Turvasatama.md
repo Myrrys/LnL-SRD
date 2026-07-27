@@ -1,3 +1,8 @@
+---
+title: "Turvasatama"
+description: "Turvasatama on 4-piirin suojelusloitsu, joka suojaa valitun alueen äänen, näön ja loitsujen tunkeutumiselta 24 tunnin ajan."
+---
+
 ### Turvasatama
 
 *4-piirin suojelus*

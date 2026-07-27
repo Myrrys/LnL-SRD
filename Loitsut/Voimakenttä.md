@@ -1,3 +1,8 @@
+---
+title: "Voimakenttä"
+description: "Voimakenttä on 5-piirin luomisloitsu, joka luo näkymättömän läpäisemättömän seinän tai puolipallon 4 metrin säteelle kymmenen minuutin ajaksi."
+---
+
 ### Voimakenttä
 
 *5-piirin luominen*

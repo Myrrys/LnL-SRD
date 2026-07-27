@@ -1,3 +1,8 @@
+---
+title: "Hyvän ja pahan hajottaminen"
+description: "Hyvän ja pahan hajottaminen on 5-piirin suojelusloitsu, joka antaa haitan taivaallisten, epäkuolleiden ja keijujen hyökkäyksille loitsijaa vastaan."
+---
+
 ### Hyvän ja pahan hajottaminen
 
 *5-piirin suojelus*

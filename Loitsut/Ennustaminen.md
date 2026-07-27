@@ -1,3 +1,8 @@
+---
+title: "Ennustaminen"
+description: "Ennustaminen on 4-piirin ennustamisrituaali, joka antaa yhteyden jumalalliseen olentoon ja vastauksen yhteen kysymykseen tulevasta viikosta."
+---
+
 ### Ennustaminen
 
 *4-piirin ennustaminen (rituaali)*

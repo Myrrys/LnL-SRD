@@ -1,3 +1,8 @@
+---
+title: "Linnoitus"
+description: "Linnoitus on 6-piirin suojelusloitsu, joka suojaa taikuudella 400 neliömetrin rakennuksen 24 tunnin ajan valittuja henkilöitä lukuun ottamatta."
+---
+
 ### Linnoitus
 
 *6-piirin suojelus*

@@ -1,3 +1,8 @@
+---
+title: "Legendoja & Lohikäärmeitä SRD"
+description: "README kertoo Legendoja & Lohikäärmeitä SRD:n taustasta, Creative Commons -lisenssistä ja siitä, miten materiaali pohjautuu 5. laitoksen SRD 5.1:een."
+---
+
 # Legendoja & Lohikäärmeitä SRD
 
 ## Tietoa

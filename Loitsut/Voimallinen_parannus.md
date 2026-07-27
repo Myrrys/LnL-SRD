@@ -1,3 +1,8 @@
+---
+title: "Voimallinen parannus"
+description: "Voimallinen parannus on 9-piirin luomisloitsu, joka parantaa yhteensä 700 osumapistettä jaettuna näkemiesi haavoittuneiden olentojen kesken."
+---
+
 ### Voimallinen parannus
 
 *9-piirin luominen*

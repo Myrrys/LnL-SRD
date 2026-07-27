@@ -1,3 +1,8 @@
+---
+title: "Korventava säde"
+description: "Korventava säde on 2-piirin luomisloitsu, joka luo kolme tulista sädettä ja aiheuttaa 2n6 tulivahinkoa kutakin osuvaa sädettä kohden."
+---
+
 ### Korventava säde
 
 *2-piirin luominen*

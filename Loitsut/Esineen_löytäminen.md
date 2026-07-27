@@ -1,3 +1,8 @@
+---
+title: "Esineen löytäminen"
+description: "Esineen löytäminen on 2-piirin ennustamisloitsu, jolla aistitaan tutun tai tietyntyyppisen esineen suunta 300 metrin säteellä."
+---
+
 ### Esineen löytäminen
 
 *2-piirin ennustaminen*

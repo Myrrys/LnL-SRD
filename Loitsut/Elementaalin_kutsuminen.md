@@ -1,3 +1,8 @@
+---
+title: "Elementaalin kutsuminen"
+description: "Elementaalin kutsuminen on 5-piirin kutsumisloitsu, joka manaa ilman, maan, tulen tai veden elementaalin palvelemaan loitsijaa tunnin ajan."
+---
+
 ### Elementaalin kutsuminen
 
 *5-piirin kutsuminen*

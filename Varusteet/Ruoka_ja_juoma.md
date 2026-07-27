@@ -1,3 +1,8 @@
+---
+title: "Ruoka, juoma ja majoitus"
+description: "Ruoka, juoma ja majoitus -sivu esittää hinnat oluesta juhla-aterioihin sekä majoitustasot ankeasta aristokraattiseen."
+---
+
 # Ruoka, juoma ja majoitus
 
 Seuraavissa taulukoissa on annettu hinnat yksittäisille elintarvikkeille

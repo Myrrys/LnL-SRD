@@ -1,3 +1,8 @@
+---
+title: "Sivuaskel"
+description: "Sivuaskel on 2-piirin kutsumisloitsu, joka siirtää loitsijan bonustoimintona välittömästi enintään 12 metrin päähän näköpiirissä olevaan tyhjään tilaan."
+---
+
 ### Sivuaskel
 
 *2-piirin kutsuminen*

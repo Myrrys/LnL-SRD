@@ -1,3 +1,8 @@
+---
+title: "Voimapalautus"
+description: "Voimapalautus on 2-piirin suojelusloitsu, joka koskettamalla poistaa kohteelta halvaantumisen, kuuroutumisen, myrkytyksen tai sokeuden."
+---
+
 ### Voimapalautus
 
 *2-piirin suojelus*

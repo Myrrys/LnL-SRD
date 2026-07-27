@@ -1,3 +1,8 @@
+---
+title: "Miekkavalli"
+description: "Miekkavalli on 6-piirin luomisloitsu, joka luo pyörivien terien seinämän tai kehän, jonka läpi kulkeva joutuu heittämään ketteryys-pelastusheiton."
+---
+
 ### Miekkavalli
 
 *6-piirin luominen*

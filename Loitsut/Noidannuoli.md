@@ -1,3 +1,8 @@
+---
+title: "Noidannuoli"
+description: "Noidannuoli on 1-piirin luomisloitsu, joka ampuu kolme maagista nuolta, joista kukin tekee 1n4+1 energiavahinkoa valittuihin kohteisiin."
+---
+
 ### Noidannuoli
 
 *1-piirin luominen*

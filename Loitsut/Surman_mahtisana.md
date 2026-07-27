@@ -1,3 +1,8 @@
+---
+title: "Surman mahtisana"
+description: "Surman mahtisana on 9-piirin lumoamisloitsu, joka surmaa välittömästi kohteen olennon, jolla on enintään 100 osumapistettä jäljellä."
+---
+
 ### Surman mahtisana
 
 *9-piirin lumoaminen*

@@ -1,3 +1,8 @@
+---
+title: "Telepaattinen side"
+description: "Telepaattinen side on 5-piirin ennustamisen rituaaliloitsu, joka luo telepaattisen yhteyden korkeintaan kahdeksan halukkaan olennon välille."
+---
+
 ### Telepaattinen side
 
 *5-piirin ennustaminen (rituaali)*

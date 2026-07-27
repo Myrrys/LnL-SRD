@@ -1,3 +1,8 @@
+---
+title: "Ehto"
+description: "Ehto on 6-piirin luomisloitsu, jolla toinen loitsu ladataan aktivoitumaan vasta loitsijan määrittelemän ehdon täyttyessä kymmenen päivän ajan."
+---
+
 ### Ehto
 
 *6-piirin luominen*

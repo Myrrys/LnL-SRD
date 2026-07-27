@@ -1,3 +1,8 @@
+---
+title: "Olotilat"
+description: "Olotilat-sivu käy läpi pelimekaniikan olotilat, kuten sokaistu, halvaantunut ja näkymätön, sekä niiden vaikutukset ja kestot taisteluissa."
+---
+
 # Olotilat
 Olotilat vaikuttavat olentojen kykyihin, ominaisuuksiin ja pelimekaniikkaan useilla eri tavoilla ja voivat olla seurausta loitsuista, hahmoluokkien ominaisuuksista tai hirviöiden hyökkäyksistä. Useimmat olotilat ovat haitallisia esimerkiksi silloin kun olento on vaikkapa *sokaistu*, mutta jotkin olotilat ovat eduksi kuten olennon ollessa *näkymätön*.
 Olotila kestää kunnes se on joko kumottu, esimerkiksi olennon ollessa *maissa* hän kumoaa sen nousemalla pystyyn tai kunnes jokin tietty aika on kulunut. Vaikutuksessa joko on aiheuttanut tietyn olotilan on yleensä määritelty myös olotilan kesto.

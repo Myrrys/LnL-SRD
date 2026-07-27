@@ -1,3 +1,8 @@
+---
+title: "Kaunopuhe"
+description: "Kaunopuhe on 8-piirin muovaamisloitsu, joka korvaa karismaheittojen tuloksen viitosellatoista ja saa puheen kuulostamaan aina totuudelta."
+---
+
 ### Kaunopuhe
 
 *8-piirin muovaaminen*

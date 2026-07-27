@@ -1,3 +1,8 @@
+---
+title: "Paineaalto"
+description: "Paineaalto on 1-piirin luomisloitsu, joka lähettää voimaaltoja 6x6x6 metrin kuutioon aiheuttaen 2n8 ukkosvahinkoa ja puskien olentoja poispäin."
+---
+
 ### Paineaalto
 
 *1-piirin luominen*

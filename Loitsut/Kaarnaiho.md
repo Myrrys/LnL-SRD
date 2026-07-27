@@ -1,3 +1,8 @@
+---
+title: "Kaarnaiho"
+description: "Kaarnaiho on 2-piirin muovaamisloitsu, joka karkeuttaa kohteen ihon puun kaarnan tavoin ja takaa vähintään 16 puolustusarvon tunnin ajan."
+---
+
 ### Kaarnaiho
 
 *2-piirin muovaaminen*

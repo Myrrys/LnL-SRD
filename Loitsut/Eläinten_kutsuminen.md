@@ -1,3 +1,8 @@
+---
+title: "Eläinten kutsuminen"
+description: "Eläinten kutsuminen on 3-piirin kutsumisloitsu, joka manaa esiin eläinhahmoisia keijunhenkiä taistelemaan loitsijan rinnalla tunnin ajan."
+---
+
 ### Eläinten kutsuminen
 
 *3-piirin kutsuminen* 

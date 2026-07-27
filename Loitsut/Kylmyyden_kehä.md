@@ -1,3 +1,8 @@
+---
+title: "Kylmyyden kehä"
+description: "Kylmyyden kehä on 6-piirin luomisloitsu, joka räjäyttää jäätävän pallon kantamalla ja aiheuttaa 10n6 kylmävahinkoa sitkeys-pelastusheitolla puolitettuna."
+---
+
 ### Kylmyyden kehä
 
 *6-piirin luomimen*

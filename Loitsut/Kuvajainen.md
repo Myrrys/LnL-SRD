@@ -1,3 +1,8 @@
+---
+title: "Kuvajainen"
+description: "Kuvajainen on 3-piirin illuusioloitsu, joka luo aidon näköisen, kuuloisen ja tuoksuvan kuvan esineestä tai olennosta 8x8x8 metrin kuutioon asti."
+---
+
 ### Kuvajainen
 
 *3-piirin illuusio* 

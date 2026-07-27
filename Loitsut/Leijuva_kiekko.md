@@ -1,3 +1,8 @@
+---
+title: "Leijuva kiekko"
+description: "Leijuva kiekko on 1-piirin kutsumisloitsu, joka luo ilmassa leijuvan, korkeintaan 220 kiloa kantavan maagisen kiekon loitsijan lähettyville."
+---
+
 ### Leijuva kiekko
 
 *1-piirin kutsuminen*

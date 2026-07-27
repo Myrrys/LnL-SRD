@@ -1,3 +1,8 @@
+---
+title: "Sateenkaaripurske"
+description: "Sateenkaaripurske on 7-piirin luomisloitsu, joka ampuu kahdeksan erivärisiä säteitä 24 metrin kartioon, joista kukin aiheuttaa oman vahinkonsa."
+---
+
 ### Sateenkaaripurske
 
 *7-piirin luominen*

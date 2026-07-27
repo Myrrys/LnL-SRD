@@ -1,3 +1,8 @@
+---
+title: "Kaukoportti"
+description: "Kaukoportti on 9-piirin kutsumisloitsu, joka avaa portin toiselle maailmatasolle valittuun sijaintiin enintään minuutin ajaksi."
+---
+
 ### Kaukoportti
 
 *9-piirin kutsuminen*

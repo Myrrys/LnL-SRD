@@ -1,3 +1,8 @@
+---
+title: "Pikkutavara"
+description: "Pikkutavara-sivu tarjoaa 1n100-taulukon pienistä ja arvoituksellisista esineistä, joita hahmo voi arpoa luonnin yhteydessä."
+---
+
 # Pikkutavara
 
 Tehtyäsi hahmon voit heittää kerran seuraavasta taulukosta ja saat kyseisen esineen. Pikkutavara on jotain pientä, ehkä hieman

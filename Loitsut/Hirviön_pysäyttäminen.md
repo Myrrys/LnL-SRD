@@ -1,3 +1,8 @@
+---
+title: "Hirviön pysäyttäminen"
+description: "Hirviön pysäyttäminen on 5-piirin lumoamisloitsu, joka halvaannuttaa epäonnistuneella viisauspelastusheitolla yhden kohteen minuutin ajaksi."
+---
+
 ### Hirviön pysäyttäminen
 
 *5-piirin lumoaminen*

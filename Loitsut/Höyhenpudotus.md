@@ -1,3 +1,8 @@
+---
+title: "Höyhenpudotus"
+description: "Höyhenpudotus on 1-piirin muovaamisreaktio, joka hidastaa enintään viiden putoavan olennon laskeutumisen ja estää putoamisvahingon."
+---
+
 ### Höyhenpudotus
 
 *1-piirin muovaaminen*

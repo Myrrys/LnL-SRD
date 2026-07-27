@@ -1,3 +1,8 @@
+---
+title: "Ajan pysäytys"
+description: "Ajan pysäytys on 9-piirin muovaamisloitsu, joka pysäyttää ajan muilta hetkeksi ja antaa loitsijalle useita peräkkäisiä vuoroja."
+---
+
 ### Ajan pysäytys
 
 *9-piirin muovaaminen*

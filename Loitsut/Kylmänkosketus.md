@@ -1,3 +1,8 @@
+---
+title: "Kylmänkosketus"
+description: "Kylmänkosketus on kuolontaikuuden taikakonsti, joka luo luurankokäden tekemään kantamahyökkäyksen ja aiheuttaa 1n8 kuolonvahinkoa kohteelle."
+---
+
 ### Kylmänkosketus
 
 *Taikakonsti, kuolontaikuus*

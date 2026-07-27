@@ -1,3 +1,8 @@
+---
+title: "Köysitemppu"
+description: "Köysitemppu on 2-piirin muovaamisloitsu, joka nostaa köyden pystyyn ja avaa sen yläpäähän piilotilan, jonne mahtuu kahdeksan olentoa."
+---
+
 ### Köysitemppu
 
 *2-piirin muovaaminen*

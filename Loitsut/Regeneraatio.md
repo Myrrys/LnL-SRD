@@ -1,3 +1,8 @@
+---
+title: "Regeneraatio"
+description: "Regeneraatio on 7-piirin muovaamisloitsu, joka palauttaa kosketetulle olennolle 4n8+15 osumapistettä ja kasvattaa katkenneet ruumiinosat takaisin."
+---
+
 ### Regeneraatio
 
 *7-piirin muovaaminen*

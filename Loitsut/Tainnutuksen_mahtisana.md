@@ -1,3 +1,8 @@
+---
+title: "Tainnutuksen mahtisana"
+description: "Tainnutuksen mahtisana on 8-piirin lumoamisloitsu, joka voi taannuttaa kohteen välittömästi, jos sillä on 150 osumapistettä tai vähemmän."
+---
+
 ### Tainnutuksen mahtisana
 
 *8-piirin lumoaminen*

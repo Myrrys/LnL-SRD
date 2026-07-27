@@ -1,3 +1,8 @@
+---
+title: "Ajattelun löytäminen"
+description: "Ajattelun löytäminen on 2-piirin ennustamisloitsu, joka antaa lukea 12 metrin säteellä olevan älyllisen olennon ajatuksia."
+---
+
 ### Ajattelun löytäminen
 
 *2-piirin ennustaminen*

@@ -1,3 +1,8 @@
+---
+title: "Liikkuva illuusio"
+description: "Liikkuva illuusio on 6-piirin illuusioloitsu, joka luo ehtolaukaisimella käynnistyvän, enintään viisi minuuttia kestävän havaintonäytöksen."
+---
+
 ### Liikkuva illuusio
 
 *6-piirin illuusio*

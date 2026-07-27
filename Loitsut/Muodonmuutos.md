@@ -1,3 +1,8 @@
+---
+title: "Muodonmuutos"
+description: "Muodonmuutos on 9-piirin muovaamisloitsu, joka muuttaa loitsijan minkä tahansa haastearvoltaan sopivan olennon muotoon tunnin ajaksi."
+---
+
 ### Muodonmuutos
 
 *9-piirin muovaaminen*

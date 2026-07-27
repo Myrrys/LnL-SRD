@@ -1,3 +1,8 @@
+---
+title: "Kato"
+description: "Kato on 4-piirin kuolontaikuusloitsu, joka imee kohteesta elinvoimaa ja aiheuttaa 8n8 kuolonvahinkoa sitkeyspelastusheitolla puolitettuna."
+---
+
 ### Kato
 
 *4-piirin kuolontaikuus*

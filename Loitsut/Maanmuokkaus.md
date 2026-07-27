@@ -1,3 +1,8 @@
+---
+title: "Maanmuokkaus"
+description: "Maanmuokkaus on 6-piirin muovaamisloitsu, jolla voi kaivaa, täyttää, nostaa tai madaltaa maastoa 16 metrin alueella kahden tunnin ajan."
+---
+
 ### Maanmuokkaus
 
 *6-piirin muovaaminen*

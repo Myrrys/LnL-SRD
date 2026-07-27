@@ -1,3 +1,8 @@
+---
+title: "Vahtikoira"
+description: "Vahtikoira on 4-piirin kutsumisloitsu, joka luo näkymättömän haamuvahtikoiran haukkumaan salasanattomien lähestyjien saapuessa lähelle."
+---
+
 ### Vahtikoira
 
 *4-piirin kutsuminen*

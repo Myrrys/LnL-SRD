@@ -1,3 +1,8 @@
+---
+title: "Tulimyrsky"
+description: "Tulimyrsky on 7-piirin luomisloitsu, joka sytyttää valitulle alueelle raivoavan liekkimyrskyn ja aiheuttaa 7n10 tulivahinkoa."
+---
+
 ### Tulimyrsky
 
 *7-piirin luominen*

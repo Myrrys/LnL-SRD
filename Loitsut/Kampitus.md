@@ -1,3 +1,8 @@
+---
+title: "Kampitus"
+description: "Kampitus on 1-piirin kutsumisloitsu, joka kasvattaa alueelle takertuvia köynnöksiä ja sitoo olennot niihin epäonnistuneella voimakkuusheitolla."
+---
+
 ### Kampitus
 
 *1-piirin kutsuminen*

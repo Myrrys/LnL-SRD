@@ -1,3 +1,8 @@
+---
+title: "Labyrintti"
+description: "Labyrintti on 8-piirin kutsumisloitsu, joka karkottaa kohteen varjomaailman labyrinttiin, josta poispääsy vaatii onnistuneen älykkyysheiton."
+---
+
 ### Labyrintti
 
 *8-piirin kutsuminen*

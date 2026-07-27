@@ -1,3 +1,8 @@
+---
+title: "Palvelut"
+description: "Palvelut-sivu esittelee palkollisten, kuten puuseppien ja seppien, tarjoamat palvelut ja niiden hinnat seikkailijoiden käyttöön."
+---
+
 # Palvelut
 
 Seikkailijat voivat maksaa sivuhahmoille siitä, että he auttavat

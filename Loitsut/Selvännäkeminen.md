@@ -1,3 +1,8 @@
+---
+title: "Selvännäkeminen"
+description: "Selvännäkeminen on 3-piirin ennustamisloitsu, joka luo näkymättömän anturin tutun tai ilmeisen sijainnin taakse, jonka kautta voi kuulla tai nähdä."
+---
+
 ### Selvännäkeminen
 
 *3-piirin ennustaminen* 

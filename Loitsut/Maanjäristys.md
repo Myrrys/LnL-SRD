@@ -1,3 +1,8 @@
+---
+title: "Maanjäristys"
+description: "Maanjäristys on 8-piirin luomisloitsu, joka saa maan järisemään 40 metrin säteellä, katkaisee keskittymisen ja vahingoittaa rakennuksia."
+---
+
 ### Maanjäristys
 
 *8-piirin luominen*

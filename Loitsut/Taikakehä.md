@@ -1,3 +1,8 @@
+---
+title: "Taikakehä"
+description: "Taikakehä on 3-piirin suojelusloitsu, joka luo sylinterimäisen alueen estäen valitun olentotyypin, kuten epäkuolleiden tai pirujen, pääsyn sisään."
+---
+
 ### Taikakehä
 
 *3-piirin suojelus* 

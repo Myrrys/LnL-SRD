@@ -1,3 +1,8 @@
+---
+title: "Piikkipensas"
+description: "Piikkipensas on 2-piirin muovaamisloitsu, joka kasvattaa 8 metrin säteelle piikkisen pensaikon, joka tekee 2n4 pistovahinkoa läpi kulkevalle."
+---
+
 ### Piikkipensas
 
 *2-piirin muovaaminen*

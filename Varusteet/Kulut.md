@@ -1,3 +1,8 @@
+---
+title: "Kulut"
+description: "Kulut-sivu selittää elintasokulut, jotka kattavat majoituksen, ruoan ja varusteiden ylläpidon hahmon seikkailujen välissä."
+---
+
 # Kulut
 
 Silloin kun seikkailijat eivät laskeudu maanalaisiin kätkettyihin

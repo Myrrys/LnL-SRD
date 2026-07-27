@@ -1,3 +1,8 @@
+---
+title: "Ylimaallinen liittolainen"
+description: "Ylimaallinen liittolainen on 6-piirin kutsumisloitsu, joka pyytää tuntemaltasi ylimaalliselta voimalta avuksi elementaalin, pirun tai taivaallisen olennon."
+---
+
 ### Ylimaallinen liittolainen
 
 *6-piirin kutsuminen*

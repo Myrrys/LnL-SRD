@@ -1,3 +1,8 @@
+---
+title: "Parantava sana"
+description: "Parantava sana on 1-piirin luomisloitsu, joka palauttaa bonustoimintona 1n4 plus loitsimisominaisuuden verran osumapisteitä näköpiirissä olevalle."
+---
+
 ### Parantava sana
 
 *1-piirin luominen*

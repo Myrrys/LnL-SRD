@@ -1,3 +1,8 @@
+---
+title: "Aurinkopurske"
+description: "Aurinkopurske on 8-piirin luomisloitsu, joka räjäyttää 24 metrin säteelle hohkavaa auringonvaloa ja aiheuttaa 12n6 vahinkoa sekä sokaisua."
+---
+
 ### Aurinkopurske
 
 *8-piirin luominen*
