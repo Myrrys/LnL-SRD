@@ -1,3 +1,8 @@
+---
+title: "Tosi näkymättömyys"
+description: "Tosi näkymättömyys on 4-piirin illuusioloitsu, joka tekee sinusta tai kosketetusta olennosta näkymättömän vaikka hyökkäisit tai loitsisit."
+---
+
 ### Tosi näkymättömyys
 
 *4-piirin illuusio*

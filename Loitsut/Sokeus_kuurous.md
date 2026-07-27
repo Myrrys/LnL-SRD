@@ -1,3 +1,8 @@
+---
+title: "Sokeus / kuurous"
+description: "Sokeus / kuurous on 2-piirin kuolontaikuusloitsu, joka tekee kohteesta sokeutuneen tai kuuroutuneen epäonnistuneen sitkeys-pelastusheiton jälkeen."
+---
+
 ### Sokeus / kuurous
 
 *2-piirin kuolontaikuus*

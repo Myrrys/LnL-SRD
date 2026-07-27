@@ -1,3 +1,8 @@
+---
+title: "Ylimaallinen yhteys"
+description: "Ylimaallinen yhteys on 5-piirin ennustamisen rituaaliloitsu, joka luo yhteyden toisella maailmatasolla asuvaan tietoisuuteen mielenterveyden hinnalla."
+---
+
 ### Ylimaallinen yhteys
 
 *5-piirin ennustaminen (rituaali)*

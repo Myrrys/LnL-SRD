@@ -1,3 +1,8 @@
+---
+title: "Eläimille puhuminen"
+description: "Eläimille puhuminen on 1-piirin ennustamisloitsu, joka antaa loitsijan ymmärtää eläimiä ja saada niiltä tietoa lähialueen tapahtumista."
+---
+
 ### Eläimille puhuminen
 
 *1-piirin ennustaminen*

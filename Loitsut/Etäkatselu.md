@@ -1,3 +1,8 @@
+---
+title: "Etäkatselu"
+description: "Etäkatselu on 5-piirin ennustamisloitsu, joka avaa näkymän ja kuulon tuttuun kohteeseen samalla maailmatasolla kristallipallon avulla."
+---
+
 ### Etäkatselu
 
 *5-piirin ennustaminen*

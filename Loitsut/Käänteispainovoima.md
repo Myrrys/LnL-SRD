@@ -1,3 +1,8 @@
+---
+title: "Käänteispainovoima"
+description: "Käänteispainovoima on 7-piirin kutsumisloitsu, joka kääntää painovoiman sylinterin muotoisella alueella ja saa olennot putoamaan ylöspäin."
+---
+
 ### Käänteispainovoima
 
 *7-piirin kutsuminen*

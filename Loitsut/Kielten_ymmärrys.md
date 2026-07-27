@@ -1,3 +1,8 @@
+---
+title: "Kielten ymmärrys"
+description: "Kielten ymmärrys on 1-piirin ennustamisloitsu, joka antaa loitsijan ymmärtää tunnin ajan mitä tahansa puhuttua ja kirjoitettua kieltä."
+---
+
 ### Kielten ymmärrys
 
 *1-piirin ennustaminen*

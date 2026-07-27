@@ -1,3 +1,8 @@
+---
+title: "Joukkoparannus"
+description: "Joukkoparannus on 5-piirin luomisloitsu, joka parantaa enintään kuutta kohdetta 3n8 plus loitsimisominaisuuden verran osumapisteitä."
+---
+
 ### Joukkoparannus
 
 *5-piirin luominen*

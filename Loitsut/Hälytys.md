@@ -1,3 +1,8 @@
+---
+title: "Hälytys"
+description: "Hälytys on 1-piirin suojelusrituaali, joka asettaa kahdeksan tunniksi hälytyksen ovelle tai alueelle ja ilmoittaa ei-toivotuista vierailijoista."
+---
+
 ### Hälytys
 
 *1-piirin suojelus (rituaali)*

@@ -1,3 +1,8 @@
+---
+title: "Kivettävä katse"
+description: "Kivettävä katse on 6-piirin muovaamisloitsu, joka yrittää muuttaa kohteen kiveksi kolmen epäonnistuneen sitkeyspelastusheiton jälkeen."
+---
+
 ### Kivettävä katse
 
 *6-piirin muovaaminen*

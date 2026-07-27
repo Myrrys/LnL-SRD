@@ -1,3 +1,8 @@
+---
+title: "Jumalallinen mahtisana"
+description: "Jumalallinen mahtisana on 7-piirin kutsumisloitsu, joka rankaisee epäonnistuneella karismaheitolla kohteita niiden jäljellä olevien osumapisteiden mukaan."
+---
+
 ### Jumalallinen mahtisana
 
 *7-piirin kutsuminen*

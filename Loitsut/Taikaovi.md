@@ -1,3 +1,8 @@
+---
+title: "Taikaovi"
+description: "Taikaovi on 5-piirin muovaamisloitsu, joka luo väliaikaisen kulkuaukon seinään, lattiaan tai kattoon korkeintaan 12 metrin syvyydelle."
+---
+
 ### Taikaovi
 
 *5-piirin muovaaminen*

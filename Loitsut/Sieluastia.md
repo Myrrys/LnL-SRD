@@ -1,3 +1,8 @@
+---
+title: "Sieluastia"
+description: "Sieluastia on 6-piirin kuolontaikuusloitsu, joka lähettää loitsijan sielun ainesastiasta käsin havainnoimaan ympäristöä tai haltuunottamaan humanoidin."
+---
+
 ### Sieluastia
 
 *6-piirin kuolontaikuus*

@@ -1,3 +1,8 @@
+---
+title: "Pelko"
+description: "Pelko on 3-piirin illuusioloitsu, joka luo pahimman pelon kuvan 12 metrin kartioon ja saa kohteet kauhistuneena ryntäämään pois loitsijan luota."
+---
+
 ### Pelko
 
 *3-piirin illuusio* 

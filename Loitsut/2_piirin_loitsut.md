@@ -1,3 +1,8 @@
+---
+title: "Toisen piirin loitsut"
+description: "Toisen piirin loitsut listaa kaikki tason kaksi loitsut aaveratsusta voimapalautukseen, kuten levitaatio, näkymättömyys ja liekkikuula."
+---
+
 ## Toisen piirin loitsut
 
 A-V Aaveratsusta voimapalautukseen.

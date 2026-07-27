@@ -1,3 +1,8 @@
+---
+title: "Suojaus myrkyltä"
+description: "Suojaus myrkyltä on 2-piirin suojelusloitsu, joka neutraloi yhden myrkyn kosketetusta olennosta ja antaa sietokyvyn myrkkyvahinkoa vastaan tunniksi."
+---
+
 ### Suojaus myrkyltä
 
 *2-piirin suojelus*

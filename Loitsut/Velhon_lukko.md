@@ -1,3 +1,8 @@
+---
+title: "Velhon lukko"
+description: "Velhon lukko on 2-piirin suojelusloitsu, joka lukitsee koskettamasi oven, arkun tai portin maagisesti, kunnes se puretaan tai murretaan."
+---
+
 ### Velhon lukko
 
 *2-piirin suojelus*

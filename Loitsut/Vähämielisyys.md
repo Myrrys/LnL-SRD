@@ -1,3 +1,8 @@
+---
+title: "Vähämielisyys"
+description: "Vähämielisyys on 8-piirin lumoamisloitsu, joka aiheuttaa mielen pirstovan hyökkäyksen laskien älykkyyden ja karisman pelastusheiton epäonnistuessa."
+---
+
 ### Vähämielisyys
 
 *8-piirin lumoaminen*

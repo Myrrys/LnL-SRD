@@ -1,3 +1,8 @@
+---
+title: "Kauppatavara"
+description: "Kauppatavara-sivu näyttää yleisimpien kauppatavaroiden, kuten viljan ja kankaiden, arvot fantasiamaailman talousjärjestelmässä."
+---
+
 # Kauppatavara
 Suurinta osaa vauraudesta ei lasketa kolikkoina vaan karjana,
 viljana, maaomaisuutena, oikeutena kerätä veroja tai oikeuksina

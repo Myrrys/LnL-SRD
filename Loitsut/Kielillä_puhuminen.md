@@ -1,3 +1,8 @@
+---
+title: "Kielillä puhuminen"
+description: "Kielillä puhuminen on 3-piirin ennustamisloitsu, joka antaa koskettamalleen olennolle kyvyn ymmärtää ja tulla ymmärretyksi kaikilla kielillä tunnin ajan."
+---
+
 ### Kielillä puhuminen
 
 *3-piirin ennustaminen* 

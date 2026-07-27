@@ -1,3 +1,8 @@
+---
+title: "Jemma"
+description: "Jemma on 4-piirin kutsumisloitsu, joka kätkee kirstun sisältöineen eetteriin ja mahdollistaa sen kutsumisen esiin myöhemmin toiminnolla."
+---
+
 ### Jemma
 
 *4-piirin kutsuminen*

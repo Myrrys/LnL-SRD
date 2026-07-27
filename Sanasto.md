@@ -1,3 +1,8 @@
+---
+title: "Sanasto 5.0"
+description: "Sanasto 5.0 kokoaa Legendoja & Lohikäärmeitä -roolipelin suomennossanaston, joka poikkeaa paikoin suorasta käännöksestä sopiakseen paremmin peliin."
+---
+
 # Sanasto 5.0
 Legendoja & lohikäärmeitä on suomenkielinen fantasiaroolipeli. Sen pohjana on Wizards of The coastin julkaisema 5. laitoksen sääntöjen englanninkielinen SRD-aineisto. Tätä sanastoa on käytetty SRD- ja muuta OGL-aineistoa kääntäessä ja kirjoittaessa.
 Kyseessä ei ole suora käännössanasto vaan esimerkiksi joissain tapauksissa olemme korvanneet sisältöä paremmin Legendoihin & lohikäärmeisiin istuvaksi, esimerkiksi dulcimerin kanteleella.

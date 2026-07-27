@@ -1,3 +1,8 @@
+---
+title: "Tulinuoli"
+description: "Tulinuoli on luomisen taikakonsti, joka heittää tulenlieskan kohteeseen aiheuttaen 1n10 tulivahinkoa ja sytyttäen tulenarat esineet."
+---
+
 ### Tulinuoli
 
 *Taikakonsti, luominen*

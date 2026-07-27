@@ -1,3 +1,8 @@
+---
+title: "Maaginen kopio"
+description: "Maaginen kopio on 7-piirin illuusioloitsu, joka muodostaa lumesta tai jäästä toimivan kaksoisolennon kopioitavasta eläimestä tai humanoidista."
+---
+
 ### Maaginen kopio
 
 *7-piirin illuusio*

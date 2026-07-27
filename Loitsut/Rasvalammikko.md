@@ -1,3 +1,8 @@
+---
+title: "Rasvalammikko"
+description: "Rasvalammikko on 1-piirin kutsumisloitsu, joka peittää 4x4 metrin alueen liukkaalla rasvalla, jolloin epäonnistunut ketteryysheitto kaataa olennon maahan."
+---
+
 ### Rasvalammikko
 
 *1-piirin kutsuminen*

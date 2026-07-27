@@ -1,3 +1,8 @@
+---
+title: "Vilahdus"
+description: "Vilahdus on 3-piirin muovaamisloitsu, joka heittää joka vuorolla n20 lähettäen sinut satunnaisesti hetkeksi eetteriin ja takaisin."
+---
+
 ### Vilahdus
 
 *3-piirin muovaaminen* 

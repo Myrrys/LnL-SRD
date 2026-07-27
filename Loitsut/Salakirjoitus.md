@@ -1,3 +1,8 @@
+---
+title: "Salakirjoitus"
+description: "Salakirjoitus on 1-piirin illuusiorituaali, joka kirjoittaa tekstin niin, että vain valitut lukijat näkevät sen todellisen sisällön kymmenen päivän ajan."
+---
+
 ### Salakirjoitus
 
 *1-piirin illuusio (rituaali)*

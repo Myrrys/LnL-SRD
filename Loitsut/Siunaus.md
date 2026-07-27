@@ -1,3 +1,8 @@
+---
+title: "Siunaus"
+description: "Siunaus on 1-piirin lumoamisloitsu, joka antaa enintään kolmelle kohteelle mahdollisuuden lisätä 1n4 pelastus- ja hyökkäysheittoihinsa."
+---
+
 ### Siunaus
 
 *1-piirin lumoaminen*

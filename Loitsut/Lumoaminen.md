@@ -1,3 +1,8 @@
+---
+title: "Lumoaminen"
+description: "Lumoaminen on 1-piirin lumoamisloitsu, joka tekee kohteesta ystävällismielisen loitsijaa kohtaan epäonnistuneen viisauspelastusheiton jälkeen."
+---
+
 ### Lumoaminen
 
 *1-piirin lumoaminen*

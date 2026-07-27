@@ -1,3 +1,8 @@
+---
+title: "Tuulenvire"
+description: "Tuulenvire on 2-piirin luomisloitsu, joka puhaltaa voimakasta tuulta työntäen olentoja ja sammuttaen avotulet valitulla alueella."
+---
+
 ### Tuulenvire
 
 *2-piirin luominen*

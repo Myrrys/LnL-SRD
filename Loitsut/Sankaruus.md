@@ -1,3 +1,8 @@
+---
+title: "Sankaruus"
+description: "Sankaruus on 1-piirin lumoamisloitsu, joka tekee kosketetusta olennosta immuunin kauhistumiselle ja antaa väliaikaisia osumapisteitä joka vuoro."
+---
+
 ### Sankaruus
 
 *1-piirin lumoaminen*

@@ -1,3 +1,8 @@
+---
+title: "Salama"
+description: "Salama on 3-piirin luomisloitsu, joka iskee 40 metrin linjana ja aiheuttaa 8n6 salamavahinkoa ketteryys-pelastusheitolla puolitettuna."
+---
+
 ### Salama
 
 *3-piirin luominen* 

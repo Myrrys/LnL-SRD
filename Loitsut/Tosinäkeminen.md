@@ -1,3 +1,8 @@
+---
+title: "Tosinäkeminen"
+description: "Tosinäkeminen on 6-piirin ennustamisloitsu, joka antaa kosketetulle olennolle kyvyn nähdä salaovet ja katsoa eetteriin 48 metrin päähän."
+---
+
 ### Tosinäkeminen
 
 *6-piirin ennustaminen*

@@ -1,3 +1,8 @@
+---
+title: "Jättiläisötökkä"
+description: "Jättiläisötökkä on 4-piirin muovaamisloitsu, joka muuttaa enintään kolme tavallista ötökkää vaarallisiksi jättikokoisiksi versioiksi."
+---
+
 ### Jättiläisötökkä
 
 *4-piirin muovaaminen*

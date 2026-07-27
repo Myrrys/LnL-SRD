@@ -1,3 +1,8 @@
+---
+title: "Velhon suu"
+description: "Velhon suu on 2-piirin illuusion rituaaliloitsu, joka piilottaa esineeseen enintään 25 sanan viestin, jonka se lausuu ehdon täyttyessä."
+---
+
 ### Velhon suu
 
 *2-piirin illuusio (rituaali)*

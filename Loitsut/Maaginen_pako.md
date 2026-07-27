@@ -1,3 +1,8 @@
+---
+title: "Maaginen pako"
+description: "Maaginen pako on 6-piirin kutsumisloitsu, joka teleporttaa loitsijan ja jopa viisi muuta olentoa välittömästi ennalta määriteltyyn turvapaikkaan."
+---
+
 ### Maaginen pako
 
 *6-piirin kutsuminen*

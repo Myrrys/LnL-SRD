@@ -1,3 +1,8 @@
+---
+title: "Maaginen kangastus"
+description: "Maaginen kangastus on 7-piirin illuusioloitsu, joka muuttaa laajan neliökilometrin alueen näyttämään ja tuntumaan kymmenen päivän ajan toiselta maastolta."
+---
+
 ### Maaginen kangastus
 
 *7-piirin illuusio*

@@ -1,3 +1,8 @@
+---
+title: "Pyhä kehä"
+description: "Pyhä kehä on 8-piirin suojelusloitsu, joka antaa valituille olennoille edun pelastusheittoihin ja haitan vihollisten hyökkäyksiin 12 metrin säteellä."
+---
+
 ### Pyhä kehä
 
 *8-piirin suojelus*

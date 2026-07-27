@@ -1,3 +1,8 @@
+---
+title: "Taikatemppu"
+description: "Taikatemppu on aloittelijoiden käyttämä muovaamisen taikakonsti, jolla luo pieniä aistivaikutuksia, puhdistaa esineitä tai sytyttää liekkejä."
+---
+
 ### Taikatemppu
 
 *Taikakonsti, muovaaminen*

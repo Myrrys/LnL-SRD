@@ -1,3 +1,8 @@
+---
+title: "Kilpi"
+description: "Kilpi on 1-piirin suojelureaktio, joka antaa loitsijalle viiden pisteen puolustusbonuksen ja torjuu noidannuolen vahingon kokonaan."
+---
+
 ### Kilpi
 
 *1-piirin suojelus*

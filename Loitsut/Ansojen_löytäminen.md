@@ -1,3 +1,8 @@
+---
+title: "Ansojen löytäminen"
+description: "Ansojen löytäminen on 2-piirin ennustamisloitsu, jolla aistitaan näköpiirissä olevien ansojen ja ansamaisten loitsujen läsnäolo."
+---
+
 ### Ansojen löytäminen
 
 *2-piirin ennustaminen*

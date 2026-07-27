@@ -1,3 +1,8 @@
+---
+title: "Kuolleista nostaminen"
+description: "Kuolleista nostaminen on 5-piirin kuolontaikuusloitsu, joka palauttaa kymmenen päivän sisällä kuolleen olennon henkiin yhdellä osumapisteellä."
+---
+
 ### Kuolleista nostaminen
 
 *5-piirin kuolontaikuus*

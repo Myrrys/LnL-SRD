@@ -1,3 +1,8 @@
+---
+title: "Myrkkysuihku"
+description: "Myrkkysuihku on kutsumisen taikakonsti, joka suihkuttaa myrkyllistä kaasua kohteeseen aiheuttaen 1n12 myrkkyvahinkoa epäonnistuneella sitkeysheitolla."
+---
+
 ### Myrkkysuihku
 
 *Taikakonsti, kutsuminen*

@@ -1,3 +1,8 @@
+---
+title: "Epäkuolleen luominen"
+description: "Epäkuolleen luominen on 6-piirin kuolontaikuusloitsu, joka muuttaa yöllä enintään kolme ruumista loitsijan komentamiksi kaamioiksi."
+---
+
 ### Epäkuolleen luominen
 
 *6-piirin kuolontaikuus*

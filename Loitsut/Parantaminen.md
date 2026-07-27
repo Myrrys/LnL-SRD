@@ -1,3 +1,8 @@
+---
+title: "Parantaminen"
+description: "Parantaminen on 6-piirin luomisloitsu, joka palauttaa kohteelle 70 osumapistettä ja poistaa sokeuden, kuurouden ja taudit kokonaan."
+---
+
 ### Parantaminen
 
 *6-piirin luominen*

@@ -1,3 +1,8 @@
+---
+title: "Myrkyn ja taudin löytäminen"
+description: "Myrkyn ja taudin löytäminen on 1-piirin ennustamisrituaali, joka aistii myrkyt, myrkylliset olennot ja taudit 12 metrin säteellä loitsijasta."
+---
+
 ### Myrkyn ja taudin löytäminen
 
 *1-piirin ennustaminen (rituaali)*

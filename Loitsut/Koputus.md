@@ -1,3 +1,8 @@
+---
+title: "Koputus"
+description: "Koputus on 2-piirin muovaamisloitsu, joka avaa yhden lukituista lukoista esineessä ja saa avattavasta kohteesta kuuluvan kovan koputusäänen."
+---
+
 ### Koputus
 
 *2-piirin muovaaminen*

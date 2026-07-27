@@ -1,3 +1,8 @@
+---
+title: "Vapaa liikkuvuus"
+description: "Vapaa liikkuvuus on 4-piirin suojelusloitsu, joka estää vaikean maaston, sitomisen ja halvaannuttamisen vaikutukset kosketetulla olennolla tunnin ajan."
+---
+
 ### Vapaa liikkuvuus
 
 *4-piirin suojelus*

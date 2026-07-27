@@ -1,3 +1,8 @@
+---
+title: "Valojuova"
+description: "Valojuova on 1-piirin luomisloitsu, joka aiheuttaa kantamahyökkäyksellä 4n6 hohkavahinkoa ja antaa edun seuraavaan kohteeseen tehtävään hyökkäykseen."
+---
+
 ### Valojuova
 
 *1-piirin luominen*

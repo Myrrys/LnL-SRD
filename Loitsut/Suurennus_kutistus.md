@@ -1,3 +1,8 @@
+---
+title: "Suurennus / kutistus"
+description: "Suurennus / kutistus on 2-piirin muovaamisloitsu, joka kasvattaa tai kutistaa olennon tai esineen kokoa merkittävästi loitsun keston ajaksi."
+---
+
 ### Suurennus / kutistus
 
 *2-piirin muovaaminen*

@@ -1,3 +1,8 @@
+---
+title: "Kasvikasvu"
+description: "Kasvikasvu on 3-piirin muovaamisloitsu, joka ylikasvattaa alueen kasvillisuutta vaikeaksi maastoksi tai tekee siitä hedelmällisemmän."
+---
+
 ### Kasvikasvu
 
 *3-piirin muovaaminen* 

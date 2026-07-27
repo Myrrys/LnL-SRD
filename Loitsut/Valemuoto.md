@@ -1,3 +1,8 @@
+---
+title: "Valemuoto"
+description: "Valemuoto on 5-piirin illuusioloitsu, joka muokkaa haluamiesi olentojen ulkonäköä kahdeksaksi tunniksi karismapelastusheiton salliessa vastustaa."
+---
+
 ### Valemuoto
 
 *5-piirin illuusio*

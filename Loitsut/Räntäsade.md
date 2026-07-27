@@ -1,3 +1,8 @@
+---
+title: "Räntäsade"
+description: "Räntäsade on 3-piirin kutsumisloitsu, joka luo 16 metrin säteisen jääalueen, jossa liikkuva joutuu heittämään ketteryys-pelastusheiton kaatumista vastaan."
+---
+
 ### Räntäsade
 
 *3-piirin kutsuminen* 

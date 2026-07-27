@@ -1,3 +1,8 @@
+---
+title: "Karkottaminen"
+description: "Karkottaminen on 4-piirin suojelusloitsu, joka siirtää epäonnistuneella karismaheitolla kohteen toiselle maailmatasolle minuutin ajaksi."
+---
+
 ### Karkottaminen
 
 *4-piirin suojelus*

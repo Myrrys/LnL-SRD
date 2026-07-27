@@ -1,3 +1,8 @@
+---
+title: "Tuhosäde"
+description: "Tuhosäde on 6-piirin muovaamisloitsu, jonka vihreä säde aiheuttaa 10n6+40 energiavahinkoa ja voi tuhota kohteen kokonaan tomuksi."
+---
+
 ### Tuhosäde
 
 *6-piirin muovaaminen*

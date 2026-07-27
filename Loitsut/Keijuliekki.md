@@ -1,3 +1,8 @@
+---
+title: "Keijuliekki"
+description: "Keijuliekki on 1-piirin luomisloitsu, joka merkitsee alueen olennot hohtavalla valolla ja antaa etua niitä vastaan tehtyihin hyökkäyksiin."
+---
+
 ### Keijuliekki
 
 *1-piirin luominen*

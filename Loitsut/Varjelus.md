@@ -1,3 +1,8 @@
+---
+title: "Varjelus"
+description: "Varjelus on 1-piirin suojelusloitsu, joka pakottaa hyökkääjät onnistumaan viisauspelastusheitossa ennen suojatun olennon vahingoittamista."
+---
+
 ### Varjelus
 
 *1-piirin suojelus*

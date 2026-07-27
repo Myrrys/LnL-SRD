@@ -1,3 +1,8 @@
+---
+title: "Kolmannen piirin loitsut"
+description: "Kolmannen piirin loitsut esittelee tason kolme loitsuvalikoiman ajatustenvaihdosta vilahdukseen, mukana esimerkiksi tulipallo ja lento."
+---
+
 ## Kolmannen piirin loitsut
 
 A-V ajatustenvaihdosta vilahdukseen.

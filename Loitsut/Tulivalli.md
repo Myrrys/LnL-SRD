@@ -1,3 +1,8 @@
+---
+title: "Tulivalli"
+description: "Tulivalli on 4-piirin luomisloitsu, joka luo läpinäkymättömän tulisen vallin ja aiheuttaa 5n8 tulivahinkoa sen vaikutusalueella oleville."
+---
+
 ### Tulivalli
 
 *4-piirin luominen*

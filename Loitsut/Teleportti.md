@@ -1,3 +1,8 @@
+---
+title: "Teleportti"
+description: "Teleportti on 7-piirin kutsumisloitsu, joka siirtää sinut ja mukanaolijat välittömästi tuttuun paikkaan tai kohteeseen."
+---
+
 ### Teleportti
 
 *7-piirin kutsuminen*

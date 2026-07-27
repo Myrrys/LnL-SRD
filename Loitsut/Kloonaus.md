@@ -1,3 +1,8 @@
+---
+title: "Kloonaus"
+description: "Kloonaus on 8-piirin kuolontaikuusloitsu, joka kasvattaa säiliössä elävästä olennosta kloonatun varakappaleen äkillisen kuoleman varalle."
+---
+
 ### Kloonaus
 
 *8-piirin kuolontaikuus*

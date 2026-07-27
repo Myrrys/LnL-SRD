@@ -1,3 +1,8 @@
+---
+title: "Julma iva"
+description: "Julma iva on lumoamiseen kuuluva taikakonsti, joka sadattelee kohdetta ja aiheuttaa 1n4 hengenvahinkoa sekä haitan seuraavaan hyökkäysheittoon."
+---
+
 ### Julma iva
 
 *Taikakonsti, lumoaminen*

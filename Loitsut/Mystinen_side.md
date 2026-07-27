@@ -1,3 +1,8 @@
+---
+title: "Mystinen side"
+description: "Mystinen side on 2-piirin suojelusloitsu, joka luo loitsijan ja kohteen välille siteen, jossa kohteen kärsimä vahinko jaetaan loitsijan kanssa."
+---
+
 ### Mystinen side
 
 *2-piirin suojelus*

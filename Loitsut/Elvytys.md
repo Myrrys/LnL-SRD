@@ -1,3 +1,8 @@
+---
+title: "Elvytys"
+description: "Elvytys on 3-piirin kuolontaikuusloitsu, jolla palautetaan henkiin minuutin sisällä kuollut olento yhden osumapisteen turvin."
+---
+
 ### Elvytys
 
 *3-piirin kuolontaikuus* 

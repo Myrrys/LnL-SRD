@@ -1,3 +1,8 @@
+---
+title: "Ruoan ja juoman puhdistus"
+description: "Ruoan ja juoman puhdistus on 1-piirin muovaamisrituaali, joka poistaa taudit ja myrkyt kahden metrin säteellä olevasta ei-maagisesta ravinnosta."
+---
+
 ### Ruoan ja juoman puhdistus
 
 *1-piirin muovaaminen (rituaali)*

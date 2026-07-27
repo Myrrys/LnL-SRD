@@ -1,3 +1,8 @@
+---
+title: "Taikaratsu"
+description: "Taikaratsu on 3-piirin illuusioloitsu, joka kutsuu satuloidun haamuratsun kuljettamaan valitsemaasi olentoa tunnin ajan."
+---
+
 ### Taikaratsu
 
 *3-piirin illuusio (rituaali)* 

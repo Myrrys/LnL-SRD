@@ -1,3 +1,8 @@
+---
+title: "Ehdotus"
+description: "Ehdotus on 2-piirin lumoamisloitsu, joka saa kohteen suorittamaan lauseen tai kahden mittaisen tehtävän epäonnistuneen pelastusheiton jälkeen."
+---
+
 ### Ehdotus
 
 *2-piirin lumoaminen*

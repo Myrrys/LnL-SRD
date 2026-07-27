@@ -1,3 +1,8 @@
+---
+title: "Työkalut"
+description: "Työkalut-sivu käy läpi työkalupätevyyden merkityksen ja listaa käsityöläisen työkalut, joilla voi lisätä pätevyysbonuksen ominaisuusheittoihin."
+---
+
 # Työkalut
 
 Työkalu on väline, jonka avulla jonkin asian luominen, rakentaminen tai korjaaminen on mahdollista. Voit saada pätevyyden jonkin työkalun käyttöön hahmoluokasta, taustasta tai lajista.

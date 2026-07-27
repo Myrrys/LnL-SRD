@@ -1,3 +1,8 @@
+---
+title: "Polttava pilvi"
+description: "Polttava pilvi on 8-piirin kutsumisloitsu, joka luo 8 metrin säteisen tulipilven ja aiheuttaa 10n8 tulivahinkoa ketteryys-pelastusheitolla puolitettuna."
+---
+
 ### Polttava pilvi
 
 *8-piirin kutsuminen*

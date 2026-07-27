@@ -1,3 +1,8 @@
+---
+title: "Piina"
+description: "Piina on 1-piirin lumoamisloitsu, joka heikentää enintään kolmen kohteen hyökkäys- ja pelastusheittoja 1n4:llä epäonnistuneen karismaheiton jälkeen."
+---
+
 ### Piina
 
 *1-piirin lumoaminen*

@@ -1,3 +1,8 @@
+---
+title: "Teleporttisuoja"
+description: "Teleporttisuoja on 6-piirin suojelusloitsu, joka estää teleportaation ja portaalimatkustamisen suuren alueen sisälle vuorokauden ajan."
+---
+
 ### Teleporttisuoja
 
 *6-piirin suojelus*

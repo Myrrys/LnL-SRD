@@ -1,3 +1,8 @@
+---
+title: "Liekkikuula"
+description: "Liekkikuula on 2-piirin kutsumisloitsu, joka luo palavan pallon, joka aiheuttaa 2n6 vahinkoa lähellä oleville ketteryys-pelastusheitolla puolitettuna."
+---
+
 ### Liekkikuula
 
 *2-piirin kutsuminen*

@@ -1,3 +1,8 @@
+---
+title: "Antipatia / Sympatia"
+description: "Antipatia / Sympatia on 8-piirin lumoamisloitsu, joka saa valitun olentotyypin karttamaan tai hakeutumaan kohteen luo kymmenen päivän ajan."
+---
+
 ### Antipatia / Sympatia
 
 *8-piirin lumoaminen*

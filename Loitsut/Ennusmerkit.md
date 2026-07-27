@@ -1,3 +1,8 @@
+---
+title: "Ennusmerkit"
+description: "Ennusmerkit on 2-piirin ennustamisrituaali, jolla heitetään ennustustikkuja ja saadaan yliluonnollinen enne lähitulevaisuuden toimista."
+---
+
 ### Ennusmerkit
 
 *2-piirin ennustaminen (rituaali)*

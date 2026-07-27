@@ -1,3 +1,8 @@
+---
+title: "Sokaiseva säde"
+description: "Sokaiseva säde on 6-piirin luomisloitsu, joka lähettää 24 metriä pitkän valolinjan aiheuttaen 6n8 hohkavahinkoa ja sokaisee epäonnistuneen kohteen."
+---
+
 ### Sokaiseva säde
 
 *6-piirin luominen*

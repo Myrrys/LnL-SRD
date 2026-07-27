@@ -1,3 +1,8 @@
+---
+title: "Uskon miekka"
+description: "Uskon miekka on 2-piirin luomisloitsu, joka luo leijuvan terän tekemään lähitaisteluhyökkäyksiä 1n8 energiavahingolla bonustoimintona."
+---
+
 ### Uskon miekka
 
 *2-piirin luominen*

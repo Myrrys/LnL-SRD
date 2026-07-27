@@ -1,3 +1,8 @@
+---
+title: "Kuolonsormi"
+description: "Kuolonsormi on 7-piirin kuolontaikuusloitsu, joka lähettää negatiivisen energian purkauksen aiheuttaen 7n8+30 kuolonvahinkoa sitkeysheitolla puolitettuna."
+---
+
 ### Kuolonsormi
 
 *7-piirin kuolontaikuus*

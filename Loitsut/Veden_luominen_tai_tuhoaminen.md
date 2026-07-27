@@ -1,3 +1,8 @@
+---
+title: "Veden luominen tai tuhoaminen"
+description: "Veden luominen tai tuhoaminen on 1-piirin muovaamisloitsu, joka luo tai tuhoaa korkeintaan 40 litraa vettä tai sumua kantaman sisällä."
+---
+
 ### Veden luominen tai tuhoaminen
 
 *1-piirin muovaaminen*

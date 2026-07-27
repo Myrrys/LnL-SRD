@@ -1,3 +1,8 @@
+---
+title: "Hornankosto"
+description: "Hornankosto on 1-piirin luomisreaktio, joka kostaa vahingoittajalle heti ja aiheuttaa 2n10 tulivahinkoa epäonnistuneella ketteryysheitolla."
+---
+
 ### Hornankosto
 
 *1-piirin luominen*

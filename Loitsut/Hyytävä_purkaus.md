@@ -1,3 +1,8 @@
+---
+title: "Hyytävä purkaus"
+description: "Hyytävä purkaus on 5-piirin luomisloitsu, joka purkaa käsistä 24 metrin kylmäkartion ja aiheuttaa 8n8 kylmävahinkoa sitkeyspelastusheitolla puolitettuna."
+---
+
 ### Hyytävä purkaus
 
 *5-piirin luominen*

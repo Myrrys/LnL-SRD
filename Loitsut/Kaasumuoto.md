@@ -1,3 +1,8 @@
+---
+title: "Kaasumuoto"
+description: "Kaasumuoto on 3-piirin muovaamisloitsu, joka muuttaa vapaaehtoisen olennon sumupilveksi, jolloin tämä voi lentää ja liikkua rakojen läpi."
+---
+
 ### Druidintaito
 
 *3-piirin muovaaminen* 

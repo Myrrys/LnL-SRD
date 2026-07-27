@@ -1,3 +1,8 @@
+---
+title: "Rukouksella parantaminen"
+description: "Rukouksella parantaminen on 2-piirin luomisloitsu, joka parantaa enintään kuusi kohdetta 2n8 plus loitsimismuuttujan verran osumapisteitä."
+---
+
 ### Rukouksella parantaminen
 
 *2-piirin luominen*

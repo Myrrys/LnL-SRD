@@ -1,3 +1,8 @@
+---
+title: "Muodonvaihdos"
+description: "Muodonvaihdos on 4-piirin muovaamisloitsu, joka muuttaa kohteen eläimen muotoon, jonka haastearvo vastaa kohteen tasoa, tunnin ajaksi."
+---
+
 ### Muodonvaihdos
 
 *4-piirin muovaaminen*

@@ -1,3 +1,8 @@
+---
+title: "Kuudennen piirin loitsut"
+description: "Kuudennen piirin loitsut esittelee tason kuusi loitsut ehdosta ylimaalliseen liittolaiseen, kuten ketjusalama ja parantaminen."
+---
+
 ## Kuudennen piirin loitsut
 
 E-Y ehdosta ylimaalliseen liittolaiseen.

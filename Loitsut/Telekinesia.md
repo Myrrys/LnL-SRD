@@ -1,3 +1,8 @@
+---
+title: "Telekinesia"
+description: "Telekinesia on 5-piirin muovaamisloitsu, joka antaa kyvyn liikuttaa ja manipuloida olentoja tai esineitä ajatuksen voimalla kantaman sisällä."
+---
+
 ### Telekinesia
 
 *5-piirin muovaaminen*

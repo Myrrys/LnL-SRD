@@ -1,3 +1,8 @@
+---
+title: "Kasviportti"
+description: "Kasviportti on 6-piirin kutsumisloitsu, joka luo yhteyden kahden suuren kasvin välille ja mahdollistaa kulkemisen niiden läpi kierroksen ajan."
+---
+
 ### Kasviportti
 
 *6-piirin kutsuminen*

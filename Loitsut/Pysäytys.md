@@ -1,3 +1,8 @@
+---
+title: "Pysäytys"
+description: "Pysäytys on 2-piirin lumoamisloitsu, joka halvaannuttaa kohteena olevan humanoidin epäonnistuneen viisauspelastusheiton jälkeen loitsun keston ajaksi."
+---
+
 ### Pysäytys
 
 *2-piirin lumoaminen*

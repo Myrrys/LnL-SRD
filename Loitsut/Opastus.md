@@ -1,3 +1,8 @@
+---
+title: "Opastus"
+description: "Opastus on ennustamisen taikakonsti, joka antaa suostuvaiselle kohteelle mahdollisuuden lisätä 1n4 valitsemaansa ominaisuusheittoon."
+---
+
 ### Opastus
 
 *Taikakonsti, ennustaminen*

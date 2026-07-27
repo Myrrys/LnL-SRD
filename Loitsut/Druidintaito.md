@@ -1,3 +1,8 @@
+---
+title: "Druidintaito"
+description: "Druidintaito on muovaamiseen kuuluva taikakonsti, jolla luodaan pieniä luonnonläheisiä vaikutuksia, kuten säänennustus tai kukan puhkeaminen."
+---
+
 ### Druidintaito
 
 *Taikakonsti, muovaaminen* 

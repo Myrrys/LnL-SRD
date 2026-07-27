@@ -1,3 +1,8 @@
+---
+title: "Luo liekkejä"
+description: "Luo liekkejä on kutsumisen taikakonsti, joka synnyttää käteen liekin, jonka voi heittää 12 metrin päähän aiheuttamaan 1n8 tulivahinkoa."
+---
+
 ### Luo liekkejä
 
 *Taikakonsti, kutsuminen*

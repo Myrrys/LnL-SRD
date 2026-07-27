@@ -1,3 +1,8 @@
+---
+title: "Peilikuva"
+description: "Peilikuva on 2-piirin illuusioloitsu, joka luo loitsijasta kolme liikkuvaa kopiota, joihin vihollisen hyökkäykset saattavat osua sattumanvaraisesti."
+---
+
 ### Peilikuva
 
 *2-piirin illuusio*

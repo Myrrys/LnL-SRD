@@ -1,3 +1,8 @@
+---
+title: "Päivänvalo"
+description: "Päivänvalo on 3-piirin luomisloitsu, joka luo 24 metrin säteelle kirkkaan valon tunnin ajaksi ja purkaa heikommat pimeys-loitsut."
+---
+
 ### Päivänvalo
 
 *3-piirin luominen* 

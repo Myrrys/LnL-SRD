@@ -1,3 +1,8 @@
+---
+title: "Kaukokatse"
+description: "Kaukokatse on 9-piirin ennustamisloitsu, joka antaa kohteelle kyvyn nähdä lähitulevaisuuteen ja edun kaikkiin heittoihin kahdeksan tunnin ajan."
+---
+
 ### Kaukokatse
 
 *9-piirin ennustaminen*

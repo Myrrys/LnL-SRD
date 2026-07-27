@@ -1,3 +1,8 @@
+---
+title: "Sateenkaarivalli"
+description: "Sateenkaarivalli on 9-piirin suojelusloitsu, joka luo hohtavan, monikerroksisen valliesteen enintään 24 metrin pituudelta kymmeneksi minuutiksi."
+---
+
 ### Sateenkaarivalli
 
 *9-piirin suojelus*

@@ -1,3 +1,8 @@
+---
+title: "Ajatustenvaihto"
+description: "Ajatustenvaihto on 3-piirin luomisloitsu, jolla lähetetään ja vastaanotetaan alle 25 sanan mittainen telepaattinen viesti tuttavalle."
+---
+
 ### Ajatustenvaihto
 
 *3-piirin luominen* 

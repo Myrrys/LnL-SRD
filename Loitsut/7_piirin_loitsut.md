@@ -1,3 +1,8 @@
+---
+title: "Seitsemännen piirin loitsut"
+description: "Seitsemännen piirin loitsut kokoaa tason seitsemän loitsuvalikoiman arkkimaagin kartanosta vähäisempään henkiinherätykseen."
+---
+
 ## Seitsemännen piirin loitsut
 
 A-V arkkimaagin kartanosta vähäisempään henkiinherätykseen.

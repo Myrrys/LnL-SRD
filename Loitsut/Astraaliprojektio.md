@@ -1,3 +1,8 @@
+---
+title: "Astraaliprojektio"
+description: "Astraaliprojektio on 9-piirin kuolontaikuusloitsu, jolla loitsija ja seuralaiset lähettävät astraalikehonsa matkalle astraalitasolle."
+---
+
 ### Astraaliprojektio
 
 *9-piirin kuolontaikuus*
