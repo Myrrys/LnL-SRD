@@ -41,7 +41,7 @@ Seuraavat kuvaukset kertovat mitä tapahtuu olennolle jolla on tietty olotila.
 * *Lumottu* ei voi hyökätä hänen lumonneen olennon päälle tai vahingoittaa häntä millään muilla vahingollisilla kyvyillä tai loitsuilla.
 * Lumoajalla on *etu* *lumottua* kohtaan kaikissa sosiaaliseen kanssakäymiseen liittyvissä ominaisuusheitoissa kuten huijaamisessa, uhkailussa tai suostuttelussa.
 
-# Maissa
+## Maissa
 * *Maissa* oleva olento ei voi liikkua muutoin kuin ryömimällä, ellei olento nouse pystyyn ja näin lopeta olotilaa.
 * *Maissa* ollessaan olennolla on *haitta* hyökkäysheittoihin.
 * Lähietäisyydeltä viereisestä karttaruudusta hyökkäysheitoilla *maissa* olevaan olentoon on *etu*, kauempaa yli yhden karttaruudun päästä hyökkäävillä on hyökkkäysheittoihinsa *haitta*.
